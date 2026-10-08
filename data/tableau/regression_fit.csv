@@ -1,0 +1,4 @@
+Model,CV Log Loss,CV Accuracy
+Full model (state + lender + era + lender in state),0.9029294719233938,0.5529964943837411
+Without state terms (lender + era),0.9047024059565526,0.545773549083977
+National shares only,1.0412957704192585,0.5003753797693592

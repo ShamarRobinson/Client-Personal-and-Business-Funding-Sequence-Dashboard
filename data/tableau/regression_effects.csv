@@ -1,0 +1,877 @@
+Predictor,Level,Comparison,Log Odds,Odds Ratio
+State,Alabama,Experian vs TransUnion,-0.14427533826576788,0.8656493688472702
+State,Alabama,Equifax vs TransUnion,0.32953796763738114,1.390325604617894
+State,Alaska,Experian vs TransUnion,0.18828234593387344,1.2071743079939712
+State,Alaska,Equifax vs TransUnion,0.05686829182943473,1.058516385957325
+State,Arizona,Experian vs TransUnion,0.4104300023598902,1.5074658596431794
+State,Arizona,Equifax vs TransUnion,-0.3179769711432103,0.7276195444679453
+State,Arkansas,Experian vs TransUnion,-0.11382117168879868,0.8924175311336758
+State,Arkansas,Equifax vs TransUnion,-0.34651871277118224,0.7071455865099079
+State,California,Experian vs TransUnion,0.4144798813216596,1.5135832929847644
+State,California,Equifax vs TransUnion,-0.18612932302214322,0.8301662284340567
+State,Colorado,Experian vs TransUnion,0.4313585247234093,1.5393473451159896
+State,Colorado,Equifax vs TransUnion,0.22158783123122044,1.2480568617777505
+State,Connecticut,Experian vs TransUnion,-0.20495599355019312,0.8146831669364759
+State,Connecticut,Equifax vs TransUnion,-0.03725562590742815,0.9634298262453234
+State,Delaware,Experian vs TransUnion,-0.07598554206461546,0.9268296065050775
+State,Delaware,Equifax vs TransUnion,-0.2533380970036376,0.7762054047333317
+State,District of Columbia,Experian vs TransUnion,0.29022332744794976,1.3367259822954838
+State,District of Columbia,Equifax vs TransUnion,0.16925315677141609,1.1844199449026638
+State,Florida,Experian vs TransUnion,-0.09227173902357719,0.9118573286551815
+State,Florida,Equifax vs TransUnion,0.2789772048245339,1.3217772133826196
+State,Georgia,Experian vs TransUnion,-0.28667312380072363,0.7507570933582289
+State,Georgia,Equifax vs TransUnion,0.27368134518356024,1.3147957694742882
+State,Hawaii,Experian vs TransUnion,-0.14417918270342578,0.8657326098511013
+State,Hawaii,Equifax vs TransUnion,0.4683985994120493,1.5974340120605577
+State,Idaho,Experian vs TransUnion,-0.14544852523619334,0.8646343957797852
+State,Idaho,Equifax vs TransUnion,-0.4863363925831843,0.6148749331529143
+State,Illinois,Experian vs TransUnion,-0.11330650466702225,0.8928769472196189
+State,Illinois,Equifax vs TransUnion,-0.16195414674103087,0.8504802009350718
+State,Indiana,Experian vs TransUnion,-0.027932803999297845,0.9724537096059882
+State,Indiana,Equifax vs TransUnion,-0.4797212643351455,0.6189558928462361
+State,Iowa,Experian vs TransUnion,0.34982862480299953,1.4188243764499922
+State,Iowa,Equifax vs TransUnion,0.34839473050529995,1.4167913901592155
+State,Kansas,Experian vs TransUnion,-0.7725172944946246,0.4618489938372674
+State,Kansas,Equifax vs TransUnion,-0.4926704848141952,0.6109925672279777
+State,Kentucky,Experian vs TransUnion,-0.48046039936103047,0.6184985698988802
+State,Kentucky,Equifax vs TransUnion,-0.4401219823255713,0.6439578648140806
+State,Louisiana,Experian vs TransUnion,-0.35436846913386844,0.7016163957348447
+State,Louisiana,Equifax vs TransUnion,0.09816441505702166,1.1031441437063476
+State,Maine,Experian vs TransUnion,-0.3941861592790373,0.674228530659757
+State,Maine,Equifax vs TransUnion,-0.32092998954570984,0.725474039979355
+State,Maryland,Experian vs TransUnion,0.0427476272459153,1.043674466611449
+State,Maryland,Equifax vs TransUnion,0.15978937168222826,1.1732637224003262
+State,Massachusetts,Experian vs TransUnion,0.6356930063392593,1.8883303129983213
+State,Massachusetts,Equifax vs TransUnion,0.1980014463122653,1.2189641568231788
+State,Michigan,Experian vs TransUnion,-0.14792113275522467,0.862499135190139
+State,Michigan,Equifax vs TransUnion,-0.024441880235444732,0.9758544036984497
+State,Minnesota,Experian vs TransUnion,0.419647868700876,1.5214257196666787
+State,Minnesota,Equifax vs TransUnion,0.10851048078625021,1.114616590535359
+State,Mississippi,Experian vs TransUnion,-0.14532654766048647,0.8647398682197607
+State,Mississippi,Equifax vs TransUnion,0.354495066613394,1.4254607098310927
+State,Missouri,Experian vs TransUnion,0.11591077338624277,1.1228956754844912
+State,Missouri,Equifax vs TransUnion,0.09726853913189595,1.1021563059821446
+State,Montana,Experian vs TransUnion,-0.34184355543046097,0.7104593435215909
+State,Montana,Equifax vs TransUnion,-0.06630066774896023,0.9358494422413073
+State,Nebraska,Experian vs TransUnion,-0.21573339104509767,0.8059501467587527
+State,Nebraska,Equifax vs TransUnion,0.051260748051350905,1.052597320203607
+State,Nevada,Experian vs TransUnion,0.16371199541399445,1.1778750328264476
+State,Nevada,Equifax vs TransUnion,-0.027118641042371966,0.9732457677821359
+State,New Hampshire,Experian vs TransUnion,0.19705438883953985,1.2178102741923038
+State,New Hampshire,Equifax vs TransUnion,0.279844735445841,1.3229243931246037
+State,New Jersey,Experian vs TransUnion,-0.0027986723673389113,0.9972052402652609
+State,New Jersey,Equifax vs TransUnion,-0.4276518073597938,0.6520384102529471
+State,New Mexico,Experian vs TransUnion,0.14210347444480914,1.1526959169363216
+State,New Mexico,Equifax vs TransUnion,0.057800392644579805,1.0595034899122535
+State,New York,Experian vs TransUnion,0.5261005138833263,1.6923202458699487
+State,New York,Equifax vs TransUnion,-0.06685852924694766,0.9353275134650881
+State,North Carolina,Experian vs TransUnion,0.27407708260871755,1.31531618633413
+State,North Carolina,Equifax vs TransUnion,0.7840542650854185,2.190334485093692
+State,Ohio,Experian vs TransUnion,-0.10731148214027007,0.8982458418740549
+State,Ohio,Equifax vs TransUnion,-0.5418142335973216,0.5816919693775272
+State,Oklahoma,Experian vs TransUnion,-0.3466163018584427,0.707076580184747
+State,Oklahoma,Equifax vs TransUnion,-0.02965151607121061,0.9707837771535224
+State,Oregon,Experian vs TransUnion,-0.12366078540846799,0.8836795470441212
+State,Oregon,Equifax vs TransUnion,-0.38567443847652155,0.6799918688367299
+State,Pennsylvania,Experian vs TransUnion,0.015754341046317732,1.0158790949547511
+State,Pennsylvania,Equifax vs TransUnion,-0.3456806780630529,0.7077384474394244
+State,Rhode Island,Experian vs TransUnion,0.18828234593387344,1.2071743079939712
+State,Rhode Island,Equifax vs TransUnion,0.05686829182943473,1.058516385957325
+State,South Carolina,Experian vs TransUnion,-0.3707110307851717,0.6902433718279947
+State,South Carolina,Equifax vs TransUnion,0.38092346065080973,1.4636355754080381
+State,South Dakota,Experian vs TransUnion,-0.01671835951413403,0.9834206166957358
+State,South Dakota,Equifax vs TransUnion,0.24602840567891815,1.2789359020683586
+State,Tennessee,Experian vs TransUnion,-0.1051559465919186,0.9001841309924273
+State,Tennessee,Equifax vs TransUnion,0.1381646041986801,1.1481645274225252
+State,Texas,Experian vs TransUnion,0.56656485516642,1.7622032190417478
+State,Texas,Equifax vs TransUnion,0.20686588359295552,1.2298176219989814
+State,Utah,Experian vs TransUnion,-0.40374978798771294,0.6678111947490274
+State,Utah,Equifax vs TransUnion,-0.645128857498592,0.5245949397594404
+State,Vermont,Experian vs TransUnion,-0.2767494686084172,0.7582444373505679
+State,Vermont,Equifax vs TransUnion,-0.2468758857960871,0.7812376502034237
+State,Virginia,Experian vs TransUnion,-0.33557441952291156,0.7149273001833697
+State,Virginia,Equifax vs TransUnion,0.39407112014685,1.483006016529939
+State,Washington,Experian vs TransUnion,0.22153698813050265,1.247993408310125
+State,Washington,Equifax vs TransUnion,0.004850540922619245,1.004862323839711
+State,West Virginia,Experian vs TransUnion,0.5393737958727921,1.7149326279854893
+State,West Virginia,Equifax vs TransUnion,0.338309092778557,1.402573961895439
+State,Wisconsin,Experian vs TransUnion,0.15567629095454225,1.1684479047079683
+State,Wisconsin,Equifax vs TransUnion,0.17440703084259196,1.1905400537341226
+Lender,American Express,Experian vs TransUnion,2.4596588346317865,11.700818944748285
+Lender,American Express,Equifax vs TransUnion,-0.010470898074716462,0.9895837309406528
+Lender,Apple Card,Experian vs TransUnion,-1.700130590738549,0.18265966883407705
+Lender,Apple Card,Equifax vs TransUnion,-1.1822381885619437,0.3065917599237589
+Lender,Bank of America,Experian vs TransUnion,0.24602929775699892,1.2789370429795524
+Lender,Bank of America,Equifax vs TransUnion,-0.7838885325275445,0.45662694583813346
+Lender,Barclays,Experian vs TransUnion,-1.1607462085490876,0.3132523420715205
+Lender,Barclays,Equifax vs TransUnion,-1.3401912739703246,0.26179558910928663
+Lender,Capital One,Experian vs TransUnion,0.18504381971117978,1.203271165967435
+Lender,Capital One,Equifax vs TransUnion,0.6854571656271328,1.9846789551686002
+Lender,Chase,Experian vs TransUnion,0.11695531147685662,1.1240691955758397
+Lender,Chase,Equifax vs TransUnion,0.4668386042631124,1.594943965486263
+Lender,Citi,Experian vs TransUnion,1.1297529669432895,3.094891865085914
+Lender,Citi,Equifax vs TransUnion,1.6226808617942328,5.066655127904372
+Lender,Comenity / Bread,Experian vs TransUnion,0.9843858238240056,2.676167741106353
+Lender,Comenity / Bread,Equifax vs TransUnion,1.4452676956574093,4.2429878202196125
+Lender,Discover,Experian vs TransUnion,1.2826158571004722,3.606060337248354
+Lender,Discover,Equifax vs TransUnion,0.9159974370233088,2.4992668703897096
+Lender,Elan,Experian vs TransUnion,-1.003068436923725,0.3667523563892739
+Lender,Elan,Equifax vs TransUnion,-0.4340560220874853,0.647875959105
+Lender,Navy Federal,Experian vs TransUnion,-1.2854827730908318,0.2765170564089015
+Lender,Navy Federal,Equifax vs TransUnion,-0.8056918006462105,0.44677873780367144
+Lender,Other: Auto Finance,Experian vs TransUnion,-0.035407006236617994,0.9652124887984249
+Lender,Other: Auto Finance,Equifax vs TransUnion,0.3505522890715582,1.4198515005562722
+Lender,Other: Credit Unions,Experian vs TransUnion,0.43959803055049496,1.5520832030714422
+Lender,Other: Credit Unions,Equifax vs TransUnion,1.0915066259587343,2.9787585684698636
+Lender,Other: Equipment Financing & Leasing,Experian vs TransUnion,-0.18811415067892556,0.8285201256996582
+Lender,Other: Equipment Financing & Leasing,Equifax vs TransUnion,-0.5917367204214433,0.5533654087155753
+Lender,Other: Major Banks & Card Issuers,Experian vs TransUnion,0.41413775669244424,1.513065547433668
+Lender,Other: Major Banks & Card Issuers,Equifax vs TransUnion,0.05648721412406335,1.058113085811094
+Lender,"Other: Mortgage, DSCR & Real Estate Investor Lending",Experian vs TransUnion,-0.685792029707039,0.5036911332069269
+Lender,"Other: Mortgage, DSCR & Real Estate Investor Lending",Equifax vs TransUnion,-0.6509972850214996,0.5215254078485052
+Lender,Other: Not in lender database,Experian vs TransUnion,0.2382591728458719,1.2690380504106364
+Lender,Other: Not in lender database,Equifax vs TransUnion,0.024214294322479027,1.0245098410107547
+Lender,Other: Personal Loans (Prime & Near-Prime),Experian vs TransUnion,-0.10361608156014307,0.9015713608571669
+Lender,Other: Personal Loans (Prime & Near-Prime),Equifax vs TransUnion,-0.3761524398571435,0.6864976754579339
+Lender,Other: Regional & Community Banks,Experian vs TransUnion,0.15681996882821833,1.16978499717892
+Lender,Other: Regional & Community Banks,Equifax vs TransUnion,0.1045696210348414,1.1102326867241457
+Lender,Other: Retail / Store Card Issuers,Experian vs TransUnion,0.6344075987193672,1.8859045981752738
+Lender,Other: Retail / Store Card Issuers,Equifax vs TransUnion,1.2366081646785678,3.443912448134331
+Lender,"Other: SBA, CDFI & Microlenders",Experian vs TransUnion,0.2263926087645201,1.2540679266981152
+Lender,"Other: SBA, CDFI & Microlenders",Equifax vs TransUnion,0.03597838989335874,1.0366334444895864
+Lender,Other: Specialty Consumer Finance,Experian vs TransUnion,-0.6173359468374462,0.5393794608152834
+Lender,Other: Specialty Consumer Finance,Equifax vs TransUnion,-0.43891228099548385,0.6447373328663817
+Lender,Other: Subprime & Credit-Builder Products,Experian vs TransUnion,-0.6744969529527932,0.509412614674934
+Lender,Other: Subprime & Credit-Builder Products,Equifax vs TransUnion,-0.45713237714645333,0.6330965270037411
+Lender,Other: Subprime Installment & Cash Advance,Experian vs TransUnion,0.4602064116874691,1.58440099012648
+Lender,Other: Subprime Installment & Cash Advance,Equifax vs TransUnion,0.021475633222314522,1.0217078943049451
+Lender,Synchrony,Experian vs TransUnion,-0.8700854107114886,0.4189157678258186
+Lender,Synchrony,Equifax vs TransUnion,-0.9661521683751011,0.38054449572413024
+Lender,U.S. Bank,Experian vs TransUnion,-0.8385233707395378,0.4323484707099185
+Lender,U.S. Bank,Equifax vs TransUnion,-0.06749422162161184,0.9347331218420923
+Lender,Wells Fargo,Experian vs TransUnion,0.18712042480588914,1.2057724812241366
+Lender,Wells Fargo,Equifax vs TransUnion,-0.006292893846336557,0.9937268649417662
+Data era,2008-2017 tables,Experian vs TransUnion,0.17731531847457124,1.1940075264076895
+Data era,2008-2017 tables,Equifax vs TransUnion,-0.008254462072531173,0.9917795124547727
+Data era,2023 grid,Experian vs TransUnion,0.1960302454752995,1.216563700325221
+Data era,2023 grid,Equifax vs TransUnion,0.11628446176157614,1.1233153669571603
+Data era,Original list,Experian vs TransUnion,-0.374760638337193,0.6874538091859219
+Data era,Original list,Equifax vs TransUnion,-0.1618031061712291,0.850608667650825
+Lender in state,American Express|Alabama,Experian vs TransUnion,0.10384163227600218,1.1094247439308322
+Lender in state,American Express|Alabama,Equifax vs TransUnion,0.006546429079066586,1.0065679037812063
+Lender in state,American Express|Arizona,Experian vs TransUnion,-0.2505591179414818,0.7783654632896403
+Lender in state,American Express|Arizona,Equifax vs TransUnion,-0.19944492933413266,0.8191853326524811
+Lender in state,American Express|Arkansas,Experian vs TransUnion,0.13067813630694464,1.1396009261137847
+Lender in state,American Express|Arkansas,Equifax vs TransUnion,0.029994338066124955,1.0304486996046012
+Lender in state,American Express|California,Experian vs TransUnion,0.002042563574651725,1.0020446510286405
+Lender in state,American Express|California,Equifax vs TransUnion,-0.0001580963330405909,0.9998419161635261
+Lender in state,American Express|Colorado,Experian vs TransUnion,0.26428938175714467,1.3025050629729071
+Lender in state,American Express|Colorado,Equifax vs TransUnion,0.024876309547570058,1.0251883066762808
+Lender in state,American Express|Connecticut,Experian vs TransUnion,-0.25837905662363053,0.7723024302645574
+Lender in state,American Express|Connecticut,Equifax vs TransUnion,-0.22225251598490492,0.8007131459353724
+Lender in state,American Express|Delaware,Experian vs TransUnion,-0.20408076119740076,0.8153965161290628
+Lender in state,American Express|Delaware,Equifax vs TransUnion,-0.19811427657871952,0.8202761094341867
+Lender in state,American Express|District of Columbia,Experian vs TransUnion,-0.11911346524510125,0.8877070711469971
+Lender in state,American Express|District of Columbia,Equifax vs TransUnion,0.2975507608486219,1.346556725980121
+Lender in state,American Express|Florida,Experian vs TransUnion,0.10761489972886742,1.1136188078949378
+Lender in state,American Express|Florida,Equifax vs TransUnion,0.19222664028203368,1.2119451614341716
+Lender in state,American Express|Georgia,Experian vs TransUnion,-0.7719655352149133,0.4621038936206361
+Lender in state,American Express|Georgia,Equifax vs TransUnion,-0.7582579967019152,0.46848181346491496
+Lender in state,American Express|Hawaii,Experian vs TransUnion,0.08496602822815164,1.0886800816788282
+Lender in state,American Express|Hawaii,Equifax vs TransUnion,0.005754996067553152,1.005771587870739
+Lender in state,American Express|Idaho,Experian vs TransUnion,0.13002311470376587,1.138854707309577
+Lender in state,American Express|Idaho,Equifax vs TransUnion,0.031926967883364354,1.0324421011197398
+Lender in state,American Express|Illinois,Experian vs TransUnion,0.36942504674676946,1.4469024741806715
+Lender in state,American Express|Illinois,Equifax vs TransUnion,0.06731074437918952,1.0696278073661756
+Lender in state,American Express|Indiana,Experian vs TransUnion,0.12111571830823312,1.1287555224896784
+Lender in state,American Express|Indiana,Equifax vs TransUnion,0.03044829473578789,1.0309165848563124
+Lender in state,American Express|Kansas,Experian vs TransUnion,0.07951800074568399,1.0827650499323167
+Lender in state,American Express|Kansas,Equifax vs TransUnion,0.02098480268975181,1.0212065319271069
+Lender in state,American Express|Kentucky,Experian vs TransUnion,-0.09731779624694695,0.9072676340648369
+Lender in state,American Express|Kentucky,Equifax vs TransUnion,-0.1565688523590866,0.8550726419074787
+Lender in state,American Express|Louisiana,Experian vs TransUnion,0.06139924424701265,1.0633233551860162
+Lender in state,American Express|Louisiana,Equifax vs TransUnion,0.008072329356785235,1.0081049984534785
+Lender in state,American Express|Maryland,Experian vs TransUnion,0.3085855485582994,1.3614979787548465
+Lender in state,American Express|Maryland,Equifax vs TransUnion,0.03467445603131322,1.035282623920522
+Lender in state,American Express|Massachusetts,Experian vs TransUnion,0.2238919518885684,1.2509358508699315
+Lender in state,American Express|Massachusetts,Equifax vs TransUnion,0.02156173583419945,1.0217958698106344
+Lender in state,American Express|Michigan,Experian vs TransUnion,0.355471333184847,1.4268530189928827
+Lender in state,American Express|Michigan,Equifax vs TransUnion,0.053501677918941254,1.054958761901395
+Lender in state,American Express|Minnesota,Experian vs TransUnion,0.1183305030213144,1.125616069409108
+Lender in state,American Express|Minnesota,Equifax vs TransUnion,0.01446355476313168,1.0145686580825244
+Lender in state,American Express|Mississippi,Experian vs TransUnion,-0.26735303118523135,0.7654028127011476
+Lender in state,American Express|Mississippi,Equifax vs TransUnion,0.5493039973673415,1.7320470889174395
+Lender in state,American Express|Missouri,Experian vs TransUnion,0.11626470571559536,1.123293174906334
+Lender in state,American Express|Missouri,Equifax vs TransUnion,0.01498759577323118,1.0151004730011643
+Lender in state,American Express|Nevada,Experian vs TransUnion,0.07422949152215932,1.0770539518870008
+Lender in state,American Express|Nevada,Equifax vs TransUnion,0.011681254347183256,1.0117497466308638
+Lender in state,American Express|New Hampshire,Experian vs TransUnion,0.14763329219350332,1.1590877718851404
+Lender in state,American Express|New Hampshire,Equifax vs TransUnion,0.01104543862775003,1.011106664700288
+Lender in state,American Express|New Jersey,Experian vs TransUnion,0.3939974832636011,1.4828968166096625
+Lender in state,American Express|New Jersey,Equifax vs TransUnion,0.09343479840005385,1.0979390136271112
+Lender in state,American Express|New Mexico,Experian vs TransUnion,0.07808074146186089,1.0812099536181086
+Lender in state,American Express|New Mexico,Equifax vs TransUnion,0.011327506875985813,1.0113919060128471
+Lender in state,American Express|New York,Experian vs TransUnion,0.009596404664991075,1.0096425978006711
+Lender in state,American Express|New York,Equifax vs TransUnion,-0.08887383835420325,0.9149609992786594
+Lender in state,American Express|North Carolina,Experian vs TransUnion,-0.06634658949550072,0.9358064673871684
+Lender in state,American Express|North Carolina,Equifax vs TransUnion,-0.2943471762931948,0.7450177940229883
+Lender in state,American Express|Ohio,Experian vs TransUnion,0.32477514475286484,1.3837194744133976
+Lender in state,American Express|Ohio,Equifax vs TransUnion,0.08578167883212018,1.0895684264852168
+Lender in state,American Express|Oklahoma,Experian vs TransUnion,-0.22504476173398658,0.7984804765887556
+Lender in state,American Express|Oklahoma,Equifax vs TransUnion,-0.2209366615538712,0.8017674613871413
+Lender in state,American Express|Oregon,Experian vs TransUnion,0.24167518057827736,1.2733805069133357
+Lender in state,American Express|Oregon,Equifax vs TransUnion,0.0575999318024052,1.0592911222367913
+Lender in state,American Express|Pennsylvania,Experian vs TransUnion,0.32930888304208056,1.3900071389186097
+Lender in state,American Express|Pennsylvania,Equifax vs TransUnion,0.07315232316633931,1.0758944080765844
+Lender in state,American Express|South Carolina,Experian vs TransUnion,0.36471868650276856,1.440108829109612
+Lender in state,American Express|South Carolina,Equifax vs TransUnion,0.014016974795807755,1.0141156731988656
+Lender in state,American Express|Tennessee,Experian vs TransUnion,0.29026421133964614,1.3367806339729509
+Lender in state,American Express|Tennessee,Equifax vs TransUnion,0.03172452574085578,1.0322331124835404
+Lender in state,American Express|Texas,Experian vs TransUnion,0.09780144065864034,1.102743803285515
+Lender in state,American Express|Texas,Equifax vs TransUnion,0.025607570724951907,1.0259382612573744
+Lender in state,American Express|Utah,Experian vs TransUnion,0.1588488549697879,1.1721607670165979
+Lender in state,American Express|Utah,Equifax vs TransUnion,0.044661672198040764,1.0456740194624914
+Lender in state,American Express|Virginia,Experian vs TransUnion,-0.7060268802944885,0.493601444323331
+Lender in state,American Express|Virginia,Equifax vs TransUnion,0.02897887835524668,1.0294028515641698
+Lender in state,American Express|Washington,Experian vs TransUnion,0.18971682809998563,1.2089072206291558
+Lender in state,American Express|Washington,Equifax vs TransUnion,0.218740002576222,1.2445076658333714
+Lender in state,American Express|Wisconsin,Experian vs TransUnion,0.1477413777684484,1.159213059324137
+Lender in state,American Express|Wisconsin,Equifax vs TransUnion,0.01654525835138195,1.0166828891362667
+Lender in state,Apple Card|California,Experian vs TransUnion,-0.11002047089082889,0.8958157969614454
+Lender in state,Apple Card|California,Equifax vs TransUnion,-0.0958145227113804,0.9086325311385911
+Lender in state,Apple Card|Delaware,Experian vs TransUnion,-0.11927965312771283,0.8875595572463147
+Lender in state,Apple Card|Delaware,Equifax vs TransUnion,-0.10832434861582177,0.8973364993730251
+Lender in state,Apple Card|Florida,Experian vs TransUnion,-0.20977248554168576,0.8107686865864849
+Lender in state,Apple Card|Florida,Equifax vs TransUnion,-0.23400842321577786,0.7913551501123239
+Lender in state,Apple Card|Georgia,Experian vs TransUnion,-0.027756827266029897,0.9726248538913235
+Lender in state,Apple Card|Georgia,Equifax vs TransUnion,0.17551408511417899,1.1918587759999812
+Lender in state,Apple Card|Hawaii,Experian vs TransUnion,-0.09714124734208573,0.9074278253124256
+Lender in state,Apple Card|Hawaii,Equifax vs TransUnion,-0.12244412045123826,0.8847553432915221
+Lender in state,Apple Card|Illinois,Experian vs TransUnion,-0.11821873531931473,0.8885016846581184
+Lender in state,Apple Card|Illinois,Equifax vs TransUnion,-0.11142816672947634,0.8945556479532191
+Lender in state,Apple Card|Kentucky,Experian vs TransUnion,-0.09438999109479593,0.9099278292845915
+Lender in state,Apple Card|Kentucky,Equifax vs TransUnion,-0.0909312383871651,0.9130804936281102
+Lender in state,Apple Card|Maryland,Experian vs TransUnion,-0.09677944586300681,0.9077561934402362
+Lender in state,Apple Card|Maryland,Equifax vs TransUnion,-0.10553930105925216,0.8998391075217584
+Lender in state,Apple Card|Massachusetts,Experian vs TransUnion,-0.1792129966461927,0.8359278306093025
+Lender in state,Apple Card|Massachusetts,Equifax vs TransUnion,-0.1503387824685769,0.860416433039763
+Lender in state,Apple Card|Minnesota,Experian vs TransUnion,-0.15978924043424952,0.8523234053484013
+Lender in state,Apple Card|Minnesota,Equifax vs TransUnion,-0.13968112692074802,0.8696354945391891
+Lender in state,Apple Card|Missouri,Experian vs TransUnion,-0.09886301636005843,0.9058667884548446
+Lender in state,Apple Card|Missouri,Equifax vs TransUnion,-0.10315283128662645,0.9019891107905934
+Lender in state,Apple Card|New Mexico,Experian vs TransUnion,-0.014824544617552102,0.9852847979592008
+Lender in state,Apple Card|New Mexico,Equifax vs TransUnion,0.27360694988601203,1.314697958490187
+Lender in state,Apple Card|Oregon,Experian vs TransUnion,-0.11337722714765164,0.8928138029798997
+Lender in state,Apple Card|Oregon,Equifax vs TransUnion,-0.09982563425097579,0.9049952044459736
+Lender in state,Apple Card|South Carolina,Experian vs TransUnion,-0.11813132388701644,0.8885793532574862
+Lender in state,Apple Card|South Carolina,Equifax vs TransUnion,-0.14171706908631693,0.867866768090516
+Lender in state,Apple Card|Washington,Experian vs TransUnion,-0.1425733852003683,0.8671239178948398
+Lender in state,Apple Card|Washington,Equifax vs TransUnion,-0.12815365837877962,0.8797181926873726
+Lender in state,Bank of America|Alabama,Experian vs TransUnion,0.12114698105249108,1.1287908110365132
+Lender in state,Bank of America|Alabama,Equifax vs TransUnion,-0.09663883365362601,0.9078838440185796
+Lender in state,Bank of America|Alaska,Experian vs TransUnion,0.18828234593387344,1.2071743079939712
+Lender in state,Bank of America|Alaska,Equifax vs TransUnion,0.05686829182943473,1.058516385957325
+Lender in state,Bank of America|Arizona,Experian vs TransUnion,-0.25616966631710253,0.7740106341173393
+Lender in state,Bank of America|Arizona,Equifax vs TransUnion,0.20942183016555907,1.2329649906745028
+Lender in state,Bank of America|Arkansas,Experian vs TransUnion,0.5422981597664864,1.7199550551659653
+Lender in state,Bank of America|Arkansas,Equifax vs TransUnion,0.18604913312580723,1.2044814388618739
+Lender in state,Bank of America|California,Experian vs TransUnion,-0.11136606415413826,0.8946112038878056
+Lender in state,Bank of America|California,Equifax vs TransUnion,0.40525375616275183,1.4996830055817547
+Lender in state,Bank of America|Colorado,Experian vs TransUnion,-1.2292585984387192,0.29250936420730717
+Lender in state,Bank of America|Colorado,Equifax vs TransUnion,-0.7974930876553858,0.450456805553299
+Lender in state,Bank of America|Connecticut,Experian vs TransUnion,-0.29448261706194545,0.7449168950733028
+Lender in state,Bank of America|Connecticut,Equifax vs TransUnion,-0.19109068787050656,0.8260576713430926
+Lender in state,Bank of America|Delaware,Experian vs TransUnion,-0.08779925771126751,0.915944727110307
+Lender in state,Bank of America|Delaware,Equifax vs TransUnion,-0.11015348667605986,0.8956966472443626
+Lender in state,Bank of America|District of Columbia,Experian vs TransUnion,0.17690163193184627,1.1935136837171827
+Lender in state,Bank of America|District of Columbia,Equifax vs TransUnion,0.05061233255395753,1.0519150210192603
+Lender in state,Bank of America|Florida,Experian vs TransUnion,0.44820984771901395,1.56550717929722
+Lender in state,Bank of America|Florida,Equifax vs TransUnion,0.28908888026087975,1.3352103971032072
+Lender in state,Bank of America|Georgia,Experian vs TransUnion,0.02198071555727618,1.0222240712588067
+Lender in state,Bank of America|Georgia,Equifax vs TransUnion,-0.3939180649876805,0.6744093117119979
+Lender in state,Bank of America|Hawaii,Experian vs TransUnion,-0.3051853570277163,0.7369867560558657
+Lender in state,Bank of America|Hawaii,Equifax vs TransUnion,0.11786788589792932,1.1250954605716081
+Lender in state,Bank of America|Idaho,Experian vs TransUnion,0.5443212419524878,1.7234381877425298
+Lender in state,Bank of America|Idaho,Equifax vs TransUnion,0.19227496369013566,1.2120037281698657
+Lender in state,Bank of America|Illinois,Experian vs TransUnion,0.35661373359532467,1.4284839878998674
+Lender in state,Bank of America|Illinois,Equifax vs TransUnion,0.060670950078085165,1.062549224918247
+Lender in state,Bank of America|Kentucky,Experian vs TransUnion,0.17455759319932107,1.1907193177452606
+Lender in state,Bank of America|Kentucky,Equifax vs TransUnion,-0.07188379140164937,0.9306390377857219
+Lender in state,Bank of America|Louisiana,Experian vs TransUnion,-0.24210028280607623,0.7849774538627993
+Lender in state,Bank of America|Louisiana,Equifax vs TransUnion,0.06668628993252679,1.0689600820293175
+Lender in state,Bank of America|Maryland,Experian vs TransUnion,-0.348856047292317,0.7054946808301015
+Lender in state,Bank of America|Maryland,Equifax vs TransUnion,-0.3821791754423727,0.6823727778070162
+Lender in state,Bank of America|Massachusetts,Experian vs TransUnion,0.031373427728322745,1.0318707611034237
+Lender in state,Bank of America|Massachusetts,Equifax vs TransUnion,-0.2921480475651741,0.7466579868933206
+Lender in state,Bank of America|Michigan,Experian vs TransUnion,-0.5101471327674394,0.600407232735381
+Lender in state,Bank of America|Michigan,Equifax vs TransUnion,-0.4115774898188612,0.6626041739276569
+Lender in state,Bank of America|Minnesota,Experian vs TransUnion,0.1955101364301049,1.2159311190605053
+Lender in state,Bank of America|Minnesota,Equifax vs TransUnion,0.3989745778520677,1.4902957316072682
+Lender in state,Bank of America|Mississippi,Experian vs TransUnion,0.41019386238453037,1.5071099287186414
+Lender in state,Bank of America|Mississippi,Equifax vs TransUnion,0.09930391295822767,1.1044018906067112
+Lender in state,Bank of America|Missouri,Experian vs TransUnion,0.194236228317566,1.2143831207567906
+Lender in state,Bank of America|Missouri,Equifax vs TransUnion,0.057313189825305026,1.0589874225498817
+Lender in state,Bank of America|Nevada,Experian vs TransUnion,-0.04010176740875686,0.9606916670758295
+Lender in state,Bank of America|Nevada,Equifax vs TransUnion,0.14880237791749207,1.1604436372590987
+Lender in state,Bank of America|New Hampshire,Experian vs TransUnion,-0.14044391813297147,0.8689723971606955
+Lender in state,Bank of America|New Hampshire,Equifax vs TransUnion,-0.16101063126466966,0.8512830208439399
+Lender in state,Bank of America|New Jersey,Experian vs TransUnion,0.36211006740015794,1.4363570293439771
+Lender in state,Bank of America|New Jersey,Equifax vs TransUnion,-0.010633315213015263,0.9894230186345361
+Lender in state,Bank of America|New Mexico,Experian vs TransUnion,0.19106648995202885,1.210539938147929
+Lender in state,Bank of America|New Mexico,Equifax vs TransUnion,0.053895030624055554,1.0553738144098348
+Lender in state,Bank of America|New York,Experian vs TransUnion,-0.24681022842221279,0.7812889458998598
+Lender in state,Bank of America|New York,Equifax vs TransUnion,-0.06479345367942474,0.9372610312037678
+Lender in state,Bank of America|North Carolina,Experian vs TransUnion,-0.15449332976031666,0.8568492075126218
+Lender in state,Bank of America|North Carolina,Equifax vs TransUnion,0.22486895279721478,1.2521586135557536
+Lender in state,Bank of America|Ohio,Experian vs TransUnion,0.21651648549379388,1.2417435559407797
+Lender in state,Bank of America|Ohio,Equifax vs TransUnion,0.08306309661668912,1.0866103678231551
+Lender in state,Bank of America|Oregon,Experian vs TransUnion,-0.3266044025839785,0.7213690583233596
+Lender in state,Bank of America|Oregon,Equifax vs TransUnion,-0.30350427865352214,0.7382267305086408
+Lender in state,Bank of America|Pennsylvania,Experian vs TransUnion,-0.04368152293145654,0.9572587739000984
+Lender in state,Bank of America|Pennsylvania,Equifax vs TransUnion,-0.27025670222015524,0.7631835582755229
+Lender in state,Bank of America|Rhode Island,Experian vs TransUnion,0.18828234593387344,1.2071743079939712
+Lender in state,Bank of America|Rhode Island,Equifax vs TransUnion,0.05686829182943473,1.058516385957325
+Lender in state,Bank of America|South Carolina,Experian vs TransUnion,-0.23237933544685827,0.7926453877780939
+Lender in state,Bank of America|South Carolina,Equifax vs TransUnion,-0.40627726415894505,0.6661254491057867
+Lender in state,Bank of America|Tennessee,Experian vs TransUnion,0.21904365917836055,1.2448856261846875
+Lender in state,Bank of America|Tennessee,Equifax vs TransUnion,0.06230270146203936,1.0642844564347205
+Lender in state,Bank of America|Texas,Experian vs TransUnion,-0.4461789946384238,0.64006919285368
+Lender in state,Bank of America|Texas,Equifax vs TransUnion,-0.614258541213639,0.5410419068998217
+Lender in state,Bank of America|Virginia,Experian vs TransUnion,0.6180222966878834,1.855255266727868
+Lender in state,Bank of America|Virginia,Equifax vs TransUnion,0.1317062753079431,1.1407731967968364
+Lender in state,Bank of America|Washington,Experian vs TransUnion,-0.02374903838972997,0.9765307507383671
+Lender in state,Bank of America|Washington,Equifax vs TransUnion,0.46355686625656445,1.589718356486142
+Lender in state,Bank of America|West Virginia,Experian vs TransUnion,0.1558093704290413,1.168603411488257
+Lender in state,Bank of America|West Virginia,Equifax vs TransUnion,0.03598117005141559,1.0366363264984153
+Lender in state,Bank of America|Wisconsin,Experian vs TransUnion,-0.07063976159535967,0.9317975009195539
+Lender in state,Bank of America|Wisconsin,Equifax vs TransUnion,0.34249756175162593,1.4084609194804953
+Lender in state,Barclays|California,Experian vs TransUnion,-0.32326976039534605,0.7237785812344039
+Lender in state,Barclays|California,Equifax vs TransUnion,-0.2265614855225917,0.7972703202236423
+Lender in state,Barclays|Florida,Experian vs TransUnion,-0.2609659366100689,0.7703071584412896
+Lender in state,Barclays|Florida,Equifax vs TransUnion,-0.23780958588677992,0.7883527903002828
+Lender in state,Barclays|Georgia,Experian vs TransUnion,0.13278557346609882,1.1420050958806336
+Lender in state,Barclays|Georgia,Equifax vs TransUnion,-0.10527252046306096,0.9000791991598105
+Lender in state,Barclays|Maryland,Experian vs TransUnion,-0.12359290886438104,0.8837395301935563
+Lender in state,Barclays|Maryland,Equifax vs TransUnion,-0.10924464668914124,0.8965110622039095
+Lender in state,Barclays|Minnesota,Experian vs TransUnion,-0.20725867858666097,0.8128093664126862
+Lender in state,Barclays|Minnesota,Equifax vs TransUnion,-0.15019936195680483,0.8605364011020046
+Lender in state,Barclays|Nevada,Experian vs TransUnion,-0.13069790103700893,0.8774828210041421
+Lender in state,Barclays|Nevada,Equifax vs TransUnion,-0.10543789456045227,0.8999303616819397
+Lender in state,Barclays|New Jersey,Experian vs TransUnion,-0.16268789188612448,0.8498563941022422
+Lender in state,Barclays|New Jersey,Equifax vs TransUnion,-0.11416822180034593,0.8921078712668028
+Lender in state,Barclays|New Mexico,Experian vs TransUnion,-0.1791065229016044,0.8360168397141153
+Lender in state,Barclays|New Mexico,Equifax vs TransUnion,-0.13663668579881053,0.8722870828540656
+Lender in state,Barclays|New York,Experian vs TransUnion,-0.3435014059579894,0.7092824839223467
+Lender in state,Barclays|New York,Equifax vs TransUnion,-0.24160042432885542,0.7853699295805252
+Lender in state,Barclays|Pennsylvania,Experian vs TransUnion,0.36488808426240793,1.440352800982461
+Lender in state,Barclays|Pennsylvania,Equifax vs TransUnion,0.1451259931758359,1.1561852325409052
+Lender in state,Barclays|Texas,Experian vs TransUnion,0.07266113996159013,1.0753660765776552
+Lender in state,Barclays|Texas,Equifax vs TransUnion,-0.05838644013931757,0.9432853536710141
+Lender in state,Capital One|Arizona,Experian vs TransUnion,0.12231248542859173,1.1301071886393927
+Lender in state,Capital One|Arizona,Equifax vs TransUnion,0.0747066681052939,1.0775680194523616
+Lender in state,Capital One|California,Experian vs TransUnion,-0.1122434915386556,0.8938265917894271
+Lender in state,Capital One|California,Equifax vs TransUnion,0.05797020027646467,1.0596834169669103
+Lender in state,Capital One|Delaware,Experian vs TransUnion,0.3457559477995242,1.413057713887878
+Lender in state,Capital One|Delaware,Equifax vs TransUnion,0.02164860653259182,1.0218846377870714
+Lender in state,Capital One|Florida,Experian vs TransUnion,0.054035706089047016,1.055522290055112
+Lender in state,Capital One|Florida,Equifax vs TransUnion,0.114739296731172,1.1215809996209734
+Lender in state,Capital One|Georgia,Experian vs TransUnion,-0.009927139262672482,0.9901219721380422
+Lender in state,Capital One|Georgia,Equifax vs TransUnion,0.2159031693664169,1.2409822080891781
+Lender in state,Capital One|Hawaii,Experian vs TransUnion,0.05577225443925356,1.0573568479847621
+Lender in state,Capital One|Hawaii,Equifax vs TransUnion,-0.1248172470834807,0.8826581962053529
+Lender in state,Capital One|Illinois,Experian vs TransUnion,-0.07606610457268098,0.9267549417950567
+Lender in state,Capital One|Illinois,Equifax vs TransUnion,-0.02966530911184606,0.9707703871857802
+Lender in state,Capital One|Indiana,Experian vs TransUnion,0.041083790920467045,1.041939406949875
+Lender in state,Capital One|Indiana,Equifax vs TransUnion,0.10535084870584913,1.111100370105275
+Lender in state,Capital One|Kansas,Experian vs TransUnion,0.026747009608543967,1.027107921456022
+Lender in state,Capital One|Kansas,Equifax vs TransUnion,0.2842160985676517,1.3287200342265593
+Lender in state,Capital One|Massachusetts,Experian vs TransUnion,-0.24351067435813356,0.7838711086666704
+Lender in state,Capital One|Massachusetts,Equifax vs TransUnion,-0.09146548268402216,0.9125928158629496
+Lender in state,Capital One|Missouri,Experian vs TransUnion,0.0022551463350539095,1.0022576910901222
+Lender in state,Capital One|Missouri,Equifax vs TransUnion,-0.027644408659645847,0.9727342011681515
+Lender in state,Capital One|New Jersey,Experian vs TransUnion,-0.05946064465399894,0.9422726163263662
+Lender in state,Capital One|New Jersey,Equifax vs TransUnion,0.10079167850798877,1.1060462045661779
+Lender in state,Capital One|New York,Experian vs TransUnion,-0.09476155841929432,0.9095897926411523
+Lender in state,Capital One|New York,Equifax vs TransUnion,0.01066105801822138,1.0107180895893653
+Lender in state,Capital One|Ohio,Experian vs TransUnion,0.23220196324224657,1.261374454379358
+Lender in state,Capital One|Ohio,Equifax vs TransUnion,0.018916350813502333,1.0190963984672103
+Lender in state,Capital One|Texas,Experian vs TransUnion,-0.22661613469259229,0.7972267512528909
+Lender in state,Capital One|Texas,Equifax vs TransUnion,-0.09660945684529104,0.90791051514001
+Lender in state,Capital One|Virginia,Experian vs TransUnion,-0.02066930308259149,0.9795428428123273
+Lender in state,Capital One|Virginia,Equifax vs TransUnion,-0.16418499239392603,0.8485850255837616
+Lender in state,Capital One|Washington,Experian vs TransUnion,0.14813456642907202,1.159668938371673
+Lender in state,Capital One|Washington,Equifax vs TransUnion,0.21494008678019239,1.2397876150729537
+Lender in state,Chase|Alabama,Experian vs TransUnion,0.014012643842096252,1.0141112811203379
+Lender in state,Chase|Alabama,Equifax vs TransUnion,0.14846731775744576,1.1600548839597824
+Lender in state,Chase|Arizona,Experian vs TransUnion,0.3062852476024917,1.3583697229972411
+Lender in state,Chase|Arizona,Equifax vs TransUnion,0.3186748227303151,1.3753040345747067
+Lender in state,Chase|Arkansas,Experian vs TransUnion,0.20109014538470082,1.222734990771518
+Lender in state,Chase|Arkansas,Equifax vs TransUnion,0.3086739870595283,1.3616183929200594
+Lender in state,Chase|California,Experian vs TransUnion,-0.09795651537004595,0.9066883299032085
+Lender in state,Chase|California,Equifax vs TransUnion,0.2869145500317367,1.3323103627332615
+Lender in state,Chase|Colorado,Experian vs TransUnion,-0.14028634392071554,0.8691093355903495
+Lender in state,Chase|Colorado,Equifax vs TransUnion,-0.27944629467552745,0.7562023388166182
+Lender in state,Chase|Connecticut,Experian vs TransUnion,0.46213638329714835,1.5874617917358058
+Lender in state,Chase|Connecticut,Equifax vs TransUnion,0.0006750960290722585,1.0006753239576849
+Lender in state,Chase|Delaware,Experian vs TransUnion,0.2369705884187252,1.2674038408760262
+Lender in state,Chase|Delaware,Equifax vs TransUnion,0.019969719868312474,1.0201704486635317
+Lender in state,Chase|District of Columbia,Experian vs TransUnion,-0.15384863026333656,0.8574017958732724
+Lender in state,Chase|District of Columbia,Equifax vs TransUnion,-0.022132038314903284,0.9781110783860052
+Lender in state,Chase|Florida,Experian vs TransUnion,0.4434001945911097,1.5579957110540013
+Lender in state,Chase|Florida,Equifax vs TransUnion,0.22808218161193514,1.256188556790918
+Lender in state,Chase|Georgia,Experian vs TransUnion,0.19941871719301069,1.2206929840461722
+Lender in state,Chase|Georgia,Equifax vs TransUnion,0.06375199328930198,1.0658280334759258
+Lender in state,Chase|Hawaii,Experian vs TransUnion,0.2988898385056047,1.3483610778197381
+Lender in state,Chase|Hawaii,Equifax vs TransUnion,-0.025609041031375818,0.9747160891232127
+Lender in state,Chase|Idaho,Experian vs TransUnion,0.23883654564498713,1.2697709700255502
+Lender in state,Chase|Idaho,Equifax vs TransUnion,0.02574155320009338,1.026075728213836
+Lender in state,Chase|Illinois,Experian vs TransUnion,-0.04519758179940103,0.9558086127895736
+Lender in state,Chase|Illinois,Equifax vs TransUnion,-0.22475030077273028,0.7987156325378607
+Lender in state,Chase|Indiana,Experian vs TransUnion,-0.4239734580093582,0.6544412518519234
+Lender in state,Chase|Indiana,Equifax vs TransUnion,-0.2341307280862813,0.7912583694416615
+Lender in state,Chase|Iowa,Experian vs TransUnion,-0.16180960892065513,0.8506031363737839
+Lender in state,Chase|Iowa,Equifax vs TransUnion,-0.06044596027495314,0.9413446376493227
+Lender in state,Chase|Kansas,Experian vs TransUnion,0.03704008356869788,1.037734616111283
+Lender in state,Chase|Kansas,Equifax vs TransUnion,0.31699920987737285,1.373001487085488
+Lender in state,Chase|Kentucky,Experian vs TransUnion,-0.4270015734393121,0.6524625256169053
+Lender in state,Chase|Kentucky,Equifax vs TransUnion,-0.12199847774814626,0.8851497159223974
+Lender in state,Chase|Louisiana,Experian vs TransUnion,-3.5219158863165206e-05,0.9999647814613242
+Lender in state,Chase|Louisiana,Equifax vs TransUnion,-0.011816812285376076,0.9882527320406329
+Lender in state,Chase|Maine,Experian vs TransUnion,0.003971626182417823,1.0039795235413422
+Lender in state,Chase|Maine,Equifax vs TransUnion,-0.19986604887001713,0.8188404303330405
+Lender in state,Chase|Maryland,Experian vs TransUnion,0.15173465466604863,1.1638513729249609
+Lender in state,Chase|Maryland,Equifax vs TransUnion,0.36953541883665164,1.4470621806440085
+Lender in state,Chase|Massachusetts,Experian vs TransUnion,-0.0848623801519626,0.9186386986208105
+Lender in state,Chase|Massachusetts,Equifax vs TransUnion,-0.0398396653289986,0.9609434993612177
+Lender in state,Chase|Michigan,Experian vs TransUnion,-0.05018651626698356,0.9510520212842184
+Lender in state,Chase|Michigan,Equifax vs TransUnion,0.01456102868327029,1.0146675568868262
+Lender in state,Chase|Minnesota,Experian vs TransUnion,0.11882972344285254,1.12617814022471
+Lender in state,Chase|Minnesota,Equifax vs TransUnion,0.24998947394260346,1.2840119010336402
+Lender in state,Chase|Mississippi,Experian vs TransUnion,-0.2881673788597854,0.7496361085005769
+Lender in state,Chase|Mississippi,Equifax vs TransUnion,-0.2941128437121756,0.7451923964222834
+Lender in state,Chase|Missouri,Experian vs TransUnion,0.11048329402457438,1.1168176913673644
+Lender in state,Chase|Missouri,Equifax vs TransUnion,-0.003023260589648691,0.9969813048606402
+Lender in state,Chase|Montana,Experian vs TransUnion,-0.27152141733040697,0.7622189585979433
+Lender in state,Chase|Montana,Equifax vs TransUnion,-0.2592501513273028,0.7716299746367106
+Lender in state,Chase|Nebraska,Experian vs TransUnion,-0.2825336999289311,0.7538712361241553
+Lender in state,Chase|Nebraska,Equifax vs TransUnion,-0.2689855457205476,0.7641543008681829
+Lender in state,Chase|Nevada,Experian vs TransUnion,0.4162441578146176,1.5162560294384808
+Lender in state,Chase|Nevada,Equifax vs TransUnion,0.5864172947053534,1.7975368205330053
+Lender in state,Chase|New Hampshire,Experian vs TransUnion,-0.33856771706586414,0.7127905096726735
+Lender in state,Chase|New Hampshire,Equifax vs TransUnion,-0.03870568064351128,0.962033812655563
+Lender in state,Chase|New Jersey,Experian vs TransUnion,0.09230062515501482,1.0966944664726233
+Lender in state,Chase|New Jersey,Equifax vs TransUnion,0.10355103966877142,1.1091024001395968
+Lender in state,Chase|New Mexico,Experian vs TransUnion,-0.09195526353611502,0.9121459548169073
+Lender in state,Chase|New Mexico,Equifax vs TransUnion,-0.2732099893228866,0.7609329830490212
+Lender in state,Chase|New York,Experian vs TransUnion,0.11087172306050272,1.1172515800485556
+Lender in state,Chase|New York,Equifax vs TransUnion,0.0313386091152723,1.0318348334201544
+Lender in state,Chase|North Carolina,Experian vs TransUnion,0.0255583097162213,1.0258877237485042
+Lender in state,Chase|North Carolina,Equifax vs TransUnion,-0.04330532795201709,0.9576189575902642
+Lender in state,Chase|Ohio,Experian vs TransUnion,-0.09497072412828084,0.9093995575433107
+Lender in state,Chase|Ohio,Equifax vs TransUnion,-0.04960436535892971,0.951605838268905
+Lender in state,Chase|Oklahoma,Experian vs TransUnion,-0.2696747564551912,0.7636278189704286
+Lender in state,Chase|Oklahoma,Equifax vs TransUnion,-0.26301113819043054,0.7687333349652007
+Lender in state,Chase|Oregon,Experian vs TransUnion,0.20401976223499552,1.2263223880879581
+Lender in state,Chase|Oregon,Equifax vs TransUnion,0.31701268474063404,1.3730199882174339
+Lender in state,Chase|Pennsylvania,Experian vs TransUnion,-0.14022294124713525,0.8691644411927624
+Lender in state,Chase|Pennsylvania,Equifax vs TransUnion,-0.11225163546105744,0.8938193125646636
+Lender in state,Chase|South Carolina,Experian vs TransUnion,-0.25338738365529173,0.77616714911069
+Lender in state,Chase|South Carolina,Equifax vs TransUnion,-0.06118734041790524,0.9406470020658337
+Lender in state,Chase|Tennessee,Experian vs TransUnion,-0.05901183006883902,0.9426956169370915
+Lender in state,Chase|Tennessee,Equifax vs TransUnion,-0.02251606585647334,0.9777355289084768
+Lender in state,Chase|Texas,Experian vs TransUnion,0.06090969965633286,1.06280293838335
+Lender in state,Chase|Texas,Equifax vs TransUnion,0.15494743812642847,1.1675965884279442
+Lender in state,Chase|Utah,Experian vs TransUnion,0.2673846545635165,1.3065429173811685
+Lender in state,Chase|Utah,Equifax vs TransUnion,0.04731720783328271,1.0484545343281904
+Lender in state,Chase|Vermont,Experian vs TransUnion,-0.2767494686084172,0.7582444373505679
+Lender in state,Chase|Vermont,Equifax vs TransUnion,-0.2468758857960871,0.7812376502034237
+Lender in state,Chase|Virginia,Experian vs TransUnion,-0.009072387541177368,0.9909686423930982
+Lender in state,Chase|Virginia,Equifax vs TransUnion,-0.15783694511516944,0.8539890176975676
+Lender in state,Chase|Washington,Experian vs TransUnion,0.22285412579022162,1.249638270444423
+Lender in state,Chase|Washington,Equifax vs TransUnion,0.22218015810813105,1.2487963383852085
+Lender in state,Chase|West Virginia,Experian vs TransUnion,0.18875406330374775,1.207743887413209
+Lender in state,Chase|West Virginia,Equifax vs TransUnion,-0.01626563566526839,0.9838659354579862
+Lender in state,Chase|Wisconsin,Experian vs TransUnion,-0.3340487004567116,0.7160189109301149
+Lender in state,Chase|Wisconsin,Equifax vs TransUnion,-0.017785002434680175,0.9823722172903194
+Lender in state,Citi|Alabama,Experian vs TransUnion,-0.07095673609171638,0.9315021916812146
+Lender in state,Citi|Alabama,Equifax vs TransUnion,0.16712444018697337,1.1819013321804177
+Lender in state,Citi|Arizona,Experian vs TransUnion,-0.4539394454671673,0.6351211915485505
+Lender in state,Citi|Arizona,Equifax vs TransUnion,-0.10366242773526842,0.9015295774412468
+Lender in state,Citi|Arkansas,Experian vs TransUnion,-0.9878876131469307,0.3723624343438218
+Lender in state,Citi|Arkansas,Equifax vs TransUnion,-0.8712361710226428,0.4184339734545762
+Lender in state,Citi|California,Experian vs TransUnion,0.11192725799141712,1.1184315007321137
+Lender in state,Citi|California,Equifax vs TransUnion,0.22591023231441554,1.2534631397426639
+Lender in state,Citi|Colorado,Experian vs TransUnion,0.15088137187219486,1.1628587021485173
+Lender in state,Citi|Colorado,Equifax vs TransUnion,0.07199374319492337,1.0746486201758363
+Lender in state,Citi|Connecticut,Experian vs TransUnion,-0.10888141558280487,0.8968367620574548
+Lender in state,Citi|Connecticut,Equifax vs TransUnion,0.33812437243973315,1.4023149018855352
+Lender in state,Citi|Delaware,Experian vs TransUnion,0.08938945226541783,1.093506441970431
+Lender in state,Citi|Delaware,Equifax vs TransUnion,0.7277254103160303,2.0703660146455154
+Lender in state,Citi|District of Columbia,Experian vs TransUnion,0.38628379102454125,1.471502210684892
+Lender in state,Citi|District of Columbia,Equifax vs TransUnion,-0.1567778983162601,0.8548939111107243
+Lender in state,Citi|Florida,Experian vs TransUnion,0.37710007558230185,1.458050217294715
+Lender in state,Citi|Florida,Equifax vs TransUnion,0.26054894420747743,1.2976422243684007
+Lender in state,Citi|Georgia,Experian vs TransUnion,0.4942740218893083,1.6393077054478191
+Lender in state,Citi|Georgia,Equifax vs TransUnion,-0.14737241895670838,0.8629725302341448
+Lender in state,Citi|Hawaii,Experian vs TransUnion,-0.15473143869500933,0.8566452083486044
+Lender in state,Citi|Hawaii,Equifax vs TransUnion,0.3962398603412262,1.4862257614195802
+Lender in state,Citi|Idaho,Experian vs TransUnion,0.16328250886682874,1.1773692599647008
+Lender in state,Citi|Idaho,Equifax vs TransUnion,-0.03657008956907264,0.9640905188391858
+Lender in state,Citi|Illinois,Experian vs TransUnion,0.20680208209660936,1.2297391602974785
+Lender in state,Citi|Illinois,Equifax vs TransUnion,0.5277992259613016,1.695197453793457
+Lender in state,Citi|Indiana,Experian vs TransUnion,0.14383108949640197,1.1546890529424774
+Lender in state,Citi|Indiana,Equifax vs TransUnion,-0.37280593537874945,0.6887988913703122
+Lender in state,Citi|Iowa,Experian vs TransUnion,0.28372987562620355,1.3280741371008815
+Lender in state,Citi|Iowa,Equifax vs TransUnion,-0.13548678634592198,0.8732907022134896
+Lender in state,Citi|Kentucky,Experian vs TransUnion,0.40058316610192446,1.4926949329561539
+Lender in state,Citi|Kentucky,Equifax vs TransUnion,0.5155665447660922,1.6745869615781463
+Lender in state,Citi|Louisiana,Experian vs TransUnion,-0.6783871833200943,0.5074347319559689
+Lender in state,Citi|Louisiana,Equifax vs TransUnion,-0.504773884879251,0.6036420525922948
+Lender in state,Citi|Maine,Experian vs TransUnion,-0.3981577854614549,0.6715560575195272
+Lender in state,Citi|Maine,Equifax vs TransUnion,-0.12106394067569248,0.8859773077940092
+Lender in state,Citi|Maryland,Experian vs TransUnion,0.5335695932977526,1.705007642785804
+Lender in state,Citi|Maryland,Equifax vs TransUnion,0.25329351914840154,1.2882613507205356
+Lender in state,Citi|Massachusetts,Experian vs TransUnion,-0.18178237161624644,0.8337827754701375
+Lender in state,Citi|Massachusetts,Equifax vs TransUnion,0.07423651211237677,1.0770615134679824
+Lender in state,Citi|Michigan,Experian vs TransUnion,0.2791281239953495,1.3219767099572162
+Lender in state,Citi|Michigan,Equifax vs TransUnion,0.2741070150087404,1.3153555574936096
+Lender in state,Citi|Minnesota,Experian vs TransUnion,-0.07033045083012962,0.9320857604961997
+Lender in state,Citi|Minnesota,Equifax vs TransUnion,0.501478384890631,1.6511605179444557
+Lender in state,Citi|Missouri,Experian vs TransUnion,-0.029964447621020088,0.9704800358092114
+Lender in state,Citi|Missouri,Equifax vs TransUnion,-0.29702700294962203,0.7430239482528034
+Lender in state,Citi|Montana,Experian vs TransUnion,-0.07032213810005386,0.9320935087057385
+Lender in state,Citi|Montana,Equifax vs TransUnion,0.19294948357834285,1.2128215245680585
+Lender in state,Citi|Nevada,Experian vs TransUnion,0.27649713611605076,1.3185031766722668
+Lender in state,Citi|Nevada,Equifax vs TransUnion,0.3145977041138081,1.3697081721410547
+Lender in state,Citi|New Hampshire,Experian vs TransUnion,0.019103475703694278,1.019287114612181
+Lender in state,Citi|New Hampshire,Equifax vs TransUnion,0.4272293022299899,1.533004142693297
+Lender in state,Citi|New Jersey,Experian vs TransUnion,0.10237750491039488,1.1078015933427166
+Lender in state,Citi|New Jersey,Equifax vs TransUnion,-0.02518591283440683,0.97512860625222
+Lender in state,Citi|New Mexico,Experian vs TransUnion,0.29543614953223,1.3437122903869738
+Lender in state,Citi|New Mexico,Equifax vs TransUnion,-0.11886411282865353,0.8879284506498952
+Lender in state,Citi|New York,Experian vs TransUnion,-0.4370529767769571,0.645937210832638
+Lender in state,Citi|New York,Equifax vs TransUnion,0.06763985920970152,1.069979895676272
+Lender in state,Citi|North Carolina,Experian vs TransUnion,0.12636143656569107,1.1346922134326451
+Lender in state,Citi|North Carolina,Equifax vs TransUnion,-0.0001924348494512021,0.9998075836649468
+Lender in state,Citi|Ohio,Experian vs TransUnion,0.7523925294393502,2.122071065373276
+Lender in state,Citi|Ohio,Equifax vs TransUnion,-0.11990049751038215,0.8870086918994362
+Lender in state,Citi|Oklahoma,Experian vs TransUnion,0.14810321633073498,1.1596325832062886
+Lender in state,Citi|Oklahoma,Equifax vs TransUnion,0.4542962836730913,1.575064594272446
+Lender in state,Citi|Oregon,Experian vs TransUnion,0.013285191962447665,1.0133738322245274
+Lender in state,Citi|Oregon,Equifax vs TransUnion,-0.15948611827274312,0.8525818026223245
+Lender in state,Citi|Pennsylvania,Experian vs TransUnion,-0.007029570227126136,0.992995079409061
+Lender in state,Citi|Pennsylvania,Equifax vs TransUnion,-0.6812536709218774,0.5059822593300405
+Lender in state,Citi|South Carolina,Experian vs TransUnion,-0.09366199770664296,0.9105904919057441
+Lender in state,Citi|South Carolina,Equifax vs TransUnion,0.27618212521525476,1.3180878992107785
+Lender in state,Citi|South Dakota,Experian vs TransUnion,-0.10390323094126648,0.901312512364729
+Lender in state,Citi|South Dakota,Equifax vs TransUnion,-0.30339457829049665,0.738307718691108
+Lender in state,Citi|Tennessee,Experian vs TransUnion,-0.25736469269964246,0.773086223446784
+Lender in state,Citi|Tennessee,Equifax vs TransUnion,0.3086533689859334,1.3615903192612393
+Lender in state,Citi|Texas,Experian vs TransUnion,0.27764638408733217,1.3200193348271525
+Lender in state,Citi|Texas,Equifax vs TransUnion,0.06915333063855703,1.071600505741997
+Lender in state,Citi|Utah,Experian vs TransUnion,-0.6623670785509699,0.5156293536167126
+Lender in state,Citi|Utah,Equifax vs TransUnion,-0.5799078391459543,0.5599499696548993
+Lender in state,Citi|Virginia,Experian vs TransUnion,0.15293569366295304,1.1652500435713082
+Lender in state,Citi|Virginia,Equifax vs TransUnion,0.17868202722152704,1.1956405025851893
+Lender in state,Citi|Washington,Experian vs TransUnion,-0.3010709638767731,0.7400252558222642
+Lender in state,Citi|Washington,Equifax vs TransUnion,-0.09903832065140467,0.9057080000379926
+Lender in state,Citi|Wisconsin,Experian vs TransUnion,0.41262337523816534,1.5107759231493787
+Lender in state,Citi|Wisconsin,Equifax vs TransUnion,-0.1668507868257359,0.8463258848878613
+Lender in state,Comenity / Bread|Florida,Experian vs TransUnion,0.19426341369168898,1.2144161346650026
+Lender in state,Comenity / Bread|Florida,Equifax vs TransUnion,-0.08915301367656073,0.9147056003989322
+Lender in state,Comenity / Bread|Georgia,Experian vs TransUnion,0.13200180520724653,1.1411103792061015
+Lender in state,Comenity / Bread|Georgia,Equifax vs TransUnion,0.22028794705089189,1.246435586370391
+Lender in state,Comenity / Bread|Illinois,Experian vs TransUnion,0.1815836132707197,1.199114794428148
+Lender in state,Comenity / Bread|Illinois,Equifax vs TransUnion,-0.05533128101007794,0.946171647328915
+Lender in state,Comenity / Bread|Indiana,Experian vs TransUnion,-0.09640390330538078,0.9080971585422676
+Lender in state,Comenity / Bread|Indiana,Equifax vs TransUnion,0.23634940420481954,1.2666167940932571
+Lender in state,Comenity / Bread|Maryland,Experian vs TransUnion,0.1644233147268214,1.178713176143818
+Lender in state,Comenity / Bread|Maryland,Equifax vs TransUnion,0.11856905953182936,1.1258846244823126
+Lender in state,Comenity / Bread|Massachusetts,Experian vs TransUnion,-0.08479874848671966,0.9186971549907786
+Lender in state,Comenity / Bread|Massachusetts,Equifax vs TransUnion,0.311809100406238,1.3658939195451325
+Lender in state,Comenity / Bread|New Jersey,Experian vs TransUnion,0.026434167730258945,1.0267866493409783
+Lender in state,Comenity / Bread|New Jersey,Equifax vs TransUnion,0.3873075938882048,1.4730095103192604
+Lender in state,Comenity / Bread|New York,Experian vs TransUnion,0.24450067322153365,1.2769835219168502
+Lender in state,Comenity / Bread|New York,Equifax vs TransUnion,-0.08014836101912481,0.922979402063566
+Lender in state,Comenity / Bread|North Carolina,Experian vs TransUnion,0.10752865966681877,1.1135227734809128
+Lender in state,Comenity / Bread|North Carolina,Equifax vs TransUnion,0.036089127584399465,1.0367482452399526
+Lender in state,Comenity / Bread|Ohio,Experian vs TransUnion,-0.09226735107651501,0.9118613298456465
+Lender in state,Comenity / Bread|Ohio,Equifax vs TransUnion,0.24097276000542697,1.2724863723142452
+Lender in state,Comenity / Bread|Pennsylvania,Experian vs TransUnion,0.06725357651669235,1.0695666607785876
+Lender in state,Comenity / Bread|Pennsylvania,Equifax vs TransUnion,0.17898883729632803,1.1960073934172462
+Lender in state,Comenity / Bread|Texas,Experian vs TransUnion,0.1398666026608411,1.1501203656271755
+Lender in state,Comenity / Bread|Texas,Equifax vs TransUnion,-0.0604734786049657,0.9413187337733457
+Lender in state,Discover|Arizona,Experian vs TransUnion,0.2891190580572284,1.3352506914186473
+Lender in state,Discover|Arizona,Equifax vs TransUnion,-0.008048053935423766,0.9919842449448588
+Lender in state,Discover|California,Experian vs TransUnion,-0.05887499020317169,0.9428246241051388
+Lender in state,Discover|California,Equifax vs TransUnion,0.2455351926665445,1.2783052697702784
+Lender in state,Discover|Delaware,Experian vs TransUnion,0.2913704717133533,1.3382602797024723
+Lender in state,Discover|Delaware,Equifax vs TransUnion,-0.01135643401339724,0.9887078068709324
+Lender in state,Discover|Florida,Experian vs TransUnion,0.26752627079537133,1.306727958167965
+Lender in state,Discover|Florida,Equifax vs TransUnion,0.2890655859341142,1.3351792946381733
+Lender in state,Discover|Georgia,Experian vs TransUnion,0.004166805356177347,1.0041754985597173
+Lender in state,Discover|Georgia,Equifax vs TransUnion,0.34833865652848633,1.4167119472590144
+Lender in state,Discover|Idaho,Experian vs TransUnion,-0.2598859171357444,0.771139554594734
+Lender in state,Discover|Idaho,Equifax vs TransUnion,-0.2735605619273994,0.7606662675456
+Lender in state,Discover|Illinois,Experian vs TransUnion,0.14028582868705913,1.1506026270989467
+Lender in state,Discover|Illinois,Equifax vs TransUnion,-0.016965304490339533,0.9831777958978679
+Lender in state,Discover|Indiana,Experian vs TransUnion,-0.006497294547831628,0.993523767230842
+Lender in state,Discover|Indiana,Equifax vs TransUnion,0.26386133658139255,1.3019476512715147
+Lender in state,Discover|Kentucky,Experian vs TransUnion,-0.04721224796480272,0.9538849159709046
+Lender in state,Discover|Kentucky,Equifax vs TransUnion,-0.26805757605661107,0.7648637419969682
+Lender in state,Discover|Massachusetts,Experian vs TransUnion,0.09425943784572295,1.0988447908651773
+Lender in state,Discover|Massachusetts,Equifax vs TransUnion,-0.0232128243460375,0.9770545206548533
+Lender in state,Discover|Michigan,Experian vs TransUnion,-0.11499730007085222,0.8913685505355134
+Lender in state,Discover|Michigan,Equifax vs TransUnion,0.2453099921660446,1.2780174271960967
+Lender in state,Discover|Minnesota,Experian vs TransUnion,0.10696302508603794,1.1128931045917823
+Lender in state,Discover|Minnesota,Equifax vs TransUnion,-0.023088332937497843,0.9771761631199135
+Lender in state,Discover|New Jersey,Experian vs TransUnion,-0.16014682235518132,0.852018684392461
+Lender in state,Discover|New Jersey,Equifax vs TransUnion,-0.2734628013244642,0.7607406343735614
+Lender in state,Discover|New Mexico,Experian vs TransUnion,-0.13659357544603898,0.8723246882685111
+Lender in state,Discover|New Mexico,Equifax vs TransUnion,0.24768169320887704,1.2810520997064205
+Lender in state,Discover|New York,Experian vs TransUnion,0.022744877132238814,1.0230055141513537
+Lender in state,Discover|New York,Equifax vs TransUnion,0.21878974910076238,1.2445695773044378
+Lender in state,Discover|North Carolina,Experian vs TransUnion,0.025783374040452323,1.0261186404603686
+Lender in state,Discover|North Carolina,Equifax vs TransUnion,0.13066839401156405,1.1395898238390274
+Lender in state,Discover|Pennsylvania,Experian vs TransUnion,0.1246600627660979,1.1327633191804731
+Lender in state,Discover|Pennsylvania,Equifax vs TransUnion,-0.0070314318686839836,0.9929932308098751
+Lender in state,Discover|South Carolina,Experian vs TransUnion,0.17812551802127094,1.1949753027573817
+Lender in state,Discover|South Carolina,Equifax vs TransUnion,-0.055249296154605394,0.9462492222546146
+Lender in state,Discover|Texas,Experian vs TransUnion,0.18618991499178858,1.2046510199430671
+Lender in state,Discover|Texas,Equifax vs TransUnion,-0.04540594622822885,0.9556094770210268
+Lender in state,Discover|Virginia,Experian vs TransUnion,0.1761090644482197,1.1925681183418877
+Lender in state,Discover|Virginia,Equifax vs TransUnion,-0.05480625730523309,0.9466685403014954
+Lender in state,Discover|Washington,Experian vs TransUnion,0.1595202958830759,1.1729480679959898
+Lender in state,Discover|Washington,Equifax vs TransUnion,-0.01300834258655511,0.9870759002198038
+Lender in state,Elan|Alabama,Experian vs TransUnion,-0.1908052937610122,0.8262934569809122
+Lender in state,Elan|Alabama,Equifax vs TransUnion,-0.21466259539702026,0.8068136168859916
+Lender in state,Elan|Arizona,Experian vs TransUnion,-0.36397061969976796,0.6949116111547594
+Lender in state,Elan|Arizona,Equifax vs TransUnion,-0.2987543004349606,0.7417416326445245
+Lender in state,Elan|California,Experian vs TransUnion,-0.24993415854077758,0.7788520621395316
+Lender in state,Elan|California,Equifax vs TransUnion,-0.37063510241292025,0.6902957828733924
+Lender in state,Elan|Colorado,Experian vs TransUnion,0.29748000312675904,1.3464614500646248
+Lender in state,Elan|Colorado,Equifax vs TransUnion,0.050014706800050684,1.0512865573235277
+Lender in state,Elan|Connecticut,Experian vs TransUnion,-0.17840315749362973,0.8366050718864845
+Lender in state,Elan|Connecticut,Equifax vs TransUnion,-0.18323094558546618,0.8325758538143014
+Lender in state,Elan|Florida,Experian vs TransUnion,-0.08013228022509163,0.9229942444245656
+Lender in state,Elan|Florida,Equifax vs TransUnion,0.13084849160633147,1.1397950797078116
+Lender in state,Elan|Georgia,Experian vs TransUnion,-0.09296246818039253,0.9112276996879999
+Lender in state,Elan|Georgia,Equifax vs TransUnion,0.10847312590350654,1.1145749549409667
+Lender in state,Elan|Illinois,Experian vs TransUnion,-0.18206640358187753,0.8335459881386889
+Lender in state,Elan|Illinois,Equifax vs TransUnion,-0.17474609940879493,0.8396701864633747
+Lender in state,Elan|Indiana,Experian vs TransUnion,-0.18330995043020626,0.8325100788865397
+Lender in state,Elan|Indiana,Equifax vs TransUnion,-0.15559776323096397,0.855903396957104
+Lender in state,Elan|Kentucky,Experian vs TransUnion,-0.1506488190544506,0.8601497138149292
+Lender in state,Elan|Kentucky,Equifax vs TransUnion,-0.14806293931088063,0.8623768358301518
+Lender in state,Elan|Maryland,Experian vs TransUnion,0.06164132153042842,1.063580792773871
+Lender in state,Elan|Maryland,Equifax vs TransUnion,0.3310301375785628,1.392401755293151
+Lender in state,Elan|Massachusetts,Experian vs TransUnion,0.27547356431842296,1.3171542844673214
+Lender in state,Elan|Massachusetts,Equifax vs TransUnion,0.047025734284258484,1.048148982096439
+Lender in state,Elan|Missouri,Experian vs TransUnion,0.0565640441489815,1.058194383788866
+Lender in state,Elan|Missouri,Equifax vs TransUnion,0.33639950644664385,1.3998981814582883
+Lender in state,Elan|New Jersey,Experian vs TransUnion,0.3432588896947889,1.4095336284251823
+Lender in state,Elan|New Jersey,Equifax vs TransUnion,0.1010299013426193,1.1063097214148812
+Lender in state,Elan|New York,Experian vs TransUnion,0.28685831895320507,1.3322354475909255
+Lender in state,Elan|New York,Equifax vs TransUnion,0.06598487836772927,1.0682105639565262
+Lender in state,Elan|North Carolina,Experian vs TransUnion,0.03557555944094544,1.036215941067348
+Lender in state,Elan|North Carolina,Equifax vs TransUnion,0.26822259332859544,1.3076381791569456
+Lender in state,Elan|Ohio,Experian vs TransUnion,-0.17569603778137333,0.8388729302650233
+Lender in state,Elan|Ohio,Equifax vs TransUnion,-0.148599760261672,0.8619140181134388
+Lender in state,Elan|Pennsylvania,Experian vs TransUnion,-0.189853603003803,0.8270802071387091
+Lender in state,Elan|Pennsylvania,Equifax vs TransUnion,-0.16495065437641812,0.8479355449637987
+Lender in state,Elan|Washington,Experian vs TransUnion,-0.34345374238190185,0.7093162916676793
+Lender in state,Elan|Washington,Equifax vs TransUnion,-0.32767703553163025,0.7205957089381483
+Lender in state,Elan|West Virginia,Experian vs TransUnion,0.02131639599702742,1.0215452133275795
+Lender in state,Elan|West Virginia,Equifax vs TransUnion,0.3138320982049435,1.368659916797489
+Lender in state,Navy Federal|California,Experian vs TransUnion,0.1285999190799635,1.1372350470940358
+Lender in state,Navy Federal|California,Equifax vs TransUnion,0.23309095945759145,1.262496310084287
+Lender in state,Navy Federal|Delaware,Experian vs TransUnion,-0.1558050109751204,0.855726031288821
+Lender in state,Navy Federal|Delaware,Equifax vs TransUnion,-0.14003063313289596,0.8693316046403405
+Lender in state,Navy Federal|Florida,Experian vs TransUnion,0.2640968477369937,1.302254310576824
+Lender in state,Navy Federal|Florida,Equifax vs TransUnion,0.22739932976702532,1.2553310589226792
+Lender in state,Navy Federal|Georgia,Experian vs TransUnion,-0.15145087917402514,0.8594600986260044
+Lender in state,Navy Federal|Georgia,Equifax vs TransUnion,-0.17057053122367455,0.8431836167590185
+Lender in state,Navy Federal|Illinois,Experian vs TransUnion,-0.15422097641118407,0.8570826050458468
+Lender in state,Navy Federal|Illinois,Equifax vs TransUnion,-0.14387931560766562,0.8659922535018704
+Lender in state,Navy Federal|Indiana,Experian vs TransUnion,-0.24655403557117228,0.7814891321844488
+Lender in state,Navy Federal|Indiana,Equifax vs TransUnion,-0.212409162252524,0.8086337674553029
+Lender in state,Navy Federal|Massachusetts,Experian vs TransUnion,-0.22369346680738242,0.7995601885461117
+Lender in state,Navy Federal|Massachusetts,Equifax vs TransUnion,-0.18591272973876602,0.8303460563372772
+Lender in state,Navy Federal|Missouri,Experian vs TransUnion,-0.0028531153201972748,0.9971509509452239
+Lender in state,Navy Federal|Missouri,Equifax vs TransUnion,0.25481512164376086,1.2902230645022676
+Lender in state,Navy Federal|New Jersey,Experian vs TransUnion,-0.29281673761313143,0.7461588710237628
+Lender in state,Navy Federal|New Jersey,Equifax vs TransUnion,-0.24493696358980516,0.7827538786813079
+Lender in state,Navy Federal|New York,Experian vs TransUnion,-0.2103104701516823,0.8103326228191495
+Lender in state,Navy Federal|New York,Equifax vs TransUnion,-0.1670555080816788,0.8461526417236542
+Lender in state,Navy Federal|South Carolina,Experian vs TransUnion,-0.042572547185010114,0.9583209395125214
+Lender in state,Navy Federal|South Carolina,Equifax vs TransUnion,0.1597968184146918,1.173272459413907
+Lender in state,Navy Federal|Texas,Experian vs TransUnion,0.0892932375576346,1.0934012356289375
+Lender in state,Navy Federal|Texas,Equifax vs TransUnion,-0.10441013252888162,0.900855751397484
+Lender in state,Navy Federal|Virginia,Experian vs TransUnion,-0.15277575948594008,0.8583221708379708
+Lender in state,Navy Federal|Virginia,Equifax vs TransUnion,-0.1805100875006755,0.8348442591624392
+Lender in state,Navy Federal|Washington,Experian vs TransUnion,-0.13441977877057792,0.8742230073080753
+Lender in state,Navy Federal|Washington,Equifax vs TransUnion,-0.1310789662727123,0.8771485065079921
+Lender in state,Synchrony|California,Experian vs TransUnion,-0.37957359096116305,0.6841530760788305
+Lender in state,Synchrony|California,Equifax vs TransUnion,-0.2706150903071808,0.7629100913865878
+Lender in state,Synchrony|Colorado,Experian vs TransUnion,0.07951671506301772,1.0827636578409554
+Lender in state,Synchrony|Colorado,Equifax vs TransUnion,0.39569917408695554,1.485422396783317
+Lender in state,Synchrony|Delaware,Experian vs TransUnion,-0.008900434189660716,0.9911390574237036
+Lender in state,Synchrony|Delaware,Equifax vs TransUnion,0.3134953612147666,1.3681991159652278
+Lender in state,Synchrony|Florida,Experian vs TransUnion,0.25080057037381176,1.2850537809796314
+Lender in state,Synchrony|Florida,Equifax vs TransUnion,-0.1860392793382347,0.8302409830250603
+Lender in state,Synchrony|Georgia,Experian vs TransUnion,-0.2821805286796227,0.754137528791124
+Lender in state,Synchrony|Georgia,Equifax vs TransUnion,-0.2765324827215835,0.7584089835436983
+Lender in state,Synchrony|Hawaii,Experian vs TransUnion,-0.026749260811624417,0.9736053319322694
+Lender in state,Synchrony|Hawaii,Equifax vs TransUnion,0.22140626567143576,1.247830278205508
+Lender in state,Synchrony|Idaho,Experian vs TransUnion,-0.18096858859012094,0.8344615698985224
+Lender in state,Synchrony|Idaho,Equifax vs TransUnion,-0.13177306558753332,0.8765398895753613
+Lender in state,Synchrony|Illinois,Experian vs TransUnion,0.14851159235375752,1.1601062460584788
+Lender in state,Synchrony|Illinois,Equifax vs TransUnion,-0.03175841742077712,0.9687405846616263
+Lender in state,Synchrony|Indiana,Experian vs TransUnion,-0.18890853872776026,0.8278622205641695
+Lender in state,Synchrony|Indiana,Equifax vs TransUnion,-0.13391211634676614,0.8746669301508565
+Lender in state,Synchrony|Kansas,Experian vs TransUnion,-0.12726394137287414,0.8805012412179531
+Lender in state,Synchrony|Kansas,Equifax vs TransUnion,-0.11010080245589406,0.8957438375668095
+Lender in state,Synchrony|Kentucky,Experian vs TransUnion,-0.15054356222552046,0.8602402552111771
+Lender in state,Synchrony|Kentucky,Equifax vs TransUnion,-0.12101242014909128,0.8860229549873371
+Lender in state,Synchrony|Maryland,Experian vs TransUnion,-0.10694214625247646,0.898577657571471
+Lender in state,Synchrony|Maryland,Equifax vs TransUnion,-0.012676602244984684,0.9874034074367731
+Lender in state,Synchrony|Massachusetts,Experian vs TransUnion,0.26017729038504855,1.2971600402838983
+Lender in state,Synchrony|Massachusetts,Equifax vs TransUnion,0.07393547633888778,1.076737328220307
+Lender in state,Synchrony|Minnesota,Experian vs TransUnion,-0.2402781475271562,0.7864090928985285
+Lender in state,Synchrony|Minnesota,Equifax vs TransUnion,-0.17695704607261217,0.8378157712279048
+Lender in state,Synchrony|Nevada,Experian vs TransUnion,0.09081725672414992,1.0950688704997051
+Lender in state,Synchrony|Nevada,Equifax vs TransUnion,-0.06313963064920027,0.9388123775550719
+Lender in state,Synchrony|New Jersey,Experian vs TransUnion,0.12932199819696852,1.1380565173202237
+Lender in state,Synchrony|New Jersey,Equifax vs TransUnion,-0.017881760379977588,0.9822771695714423
+Lender in state,Synchrony|New York,Experian vs TransUnion,0.019524561920399804,1.0197164127464298
+Lender in state,Synchrony|New York,Equifax vs TransUnion,-0.08174531901599673,0.9215066190258174
+Lender in state,Synchrony|North Carolina,Experian vs TransUnion,0.08652958688120788,1.0903836282914134
+Lender in state,Synchrony|North Carolina,Equifax vs TransUnion,0.13371222236025584,1.1430638240987605
+Lender in state,Synchrony|Ohio,Experian vs TransUnion,-0.1809316537016339,0.8344923912127407
+Lender in state,Synchrony|Ohio,Equifax vs TransUnion,-0.12785841211772278,0.8799779645409944
+Lender in state,Synchrony|Pennsylvania,Experian vs TransUnion,0.12565693438572728,1.1338931018156835
+Lender in state,Synchrony|Pennsylvania,Equifax vs TransUnion,-0.024193620258595692,0.9760966993650337
+Lender in state,Synchrony|South Carolina,Experian vs TransUnion,-0.1722549482519099,0.8417645394115691
+Lender in state,Synchrony|South Carolina,Equifax vs TransUnion,-0.17185757158049825,0.8420991034719267
+Lender in state,Synchrony|Texas,Experian vs TransUnion,-0.1381083419159179,0.8710043203568619
+Lender in state,Synchrony|Texas,Equifax vs TransUnion,0.09496816682607614,1.099623850051675
+Lender in state,Synchrony|Virginia,Experian vs TransUnion,0.17715390797440983,1.1938148166087663
+Lender in state,Synchrony|Virginia,Equifax vs TransUnion,-0.08164542909892067,0.9215986728431246
+Lender in state,Synchrony|Washington,Experian vs TransUnion,-0.05449214176254687,0.9469659503118841
+Lender in state,Synchrony|Washington,Equifax vs TransUnion,-0.17966976912790938,0.8355460889707541
+Lender in state,U.S. Bank|Alabama,Experian vs TransUnion,-0.20553476071013058,0.8142117914951701
+Lender in state,U.S. Bank|Alabama,Equifax vs TransUnion,-0.23801119967453904,0.7881938635295924
+Lender in state,U.S. Bank|Arizona,Experian vs TransUnion,-0.5714640979809065,0.5646980598762145
+Lender in state,U.S. Bank|Arizona,Equifax vs TransUnion,-0.48867767667941714,0.6134370201889682
+Lender in state,U.S. Bank|California,Experian vs TransUnion,-0.30176510983460675,0.7395117485273659
+Lender in state,U.S. Bank|California,Equifax vs TransUnion,-0.6423320583361589,0.5260641800749079
+Lender in state,U.S. Bank|Colorado,Experian vs TransUnion,1.0204093811582093,2.774330290064346
+Lender in state,U.S. Bank|Colorado,Equifax vs TransUnion,0.08573614507558969,1.0895188154712583
+Lender in state,U.S. Bank|Delaware,Experian vs TransUnion,-0.19917767855232,0.8194042898300171
+Lender in state,U.S. Bank|Delaware,Equifax vs TransUnion,-0.18967604135027377,0.8272270779068123
+Lender in state,U.S. Bank|Florida,Experian vs TransUnion,-0.2157302929475438,0.8059526436747987
+Lender in state,U.S. Bank|Florida,Equifax vs TransUnion,0.5178609199812253,1.6784335034161046
+Lender in state,U.S. Bank|Georgia,Experian vs TransUnion,0.09328864550838342,1.0977785583911759
+Lender in state,U.S. Bank|Georgia,Equifax vs TransUnion,0.13789227648033184,1.1478518929679298
+Lender in state,U.S. Bank|Illinois,Experian vs TransUnion,-0.885409094485262,0.4125453687176336
+Lender in state,U.S. Bank|Illinois,Equifax vs TransUnion,-0.5344202053695342,0.5860089565133015
+Lender in state,U.S. Bank|Indiana,Experian vs TransUnion,-0.508175302007409,0.6015923021796508
+Lender in state,U.S. Bank|Indiana,Equifax vs TransUnion,-0.4533637135605991,0.6354869563641967
+Lender in state,U.S. Bank|Iowa,Experian vs TransUnion,0.038070887271950904,1.0388048683117634
+Lender in state,U.S. Bank|Iowa,Equifax vs TransUnion,0.5333528270451712,1.7046380947226762
+Lender in state,U.S. Bank|Louisiana,Experian vs TransUnion,0.0721529907877829,1.0748197690089272
+Lender in state,U.S. Bank|Louisiana,Equifax vs TransUnion,0.3027022031775816,1.3535113330455548
+Lender in state,U.S. Bank|Maryland,Experian vs TransUnion,0.04746680856582974,1.048611395627558
+Lender in state,U.S. Bank|Maryland,Equifax vs TransUnion,0.3080563167345501,1.360777621331369
+Lender in state,U.S. Bank|Massachusetts,Experian vs TransUnion,0.44341841853045677,1.5580241041320586
+Lender in state,U.S. Bank|Massachusetts,Equifax vs TransUnion,0.30029805595060444,1.3502612009909738
+Lender in state,U.S. Bank|Michigan,Experian vs TransUnion,-0.1976647495106049,0.8206449286396024
+Lender in state,U.S. Bank|Michigan,Equifax vs TransUnion,-0.20598585866345423,0.813844585051719
+Lender in state,U.S. Bank|Minnesota,Experian vs TransUnion,-0.35515870114369635,0.7010621750106344
+Lender in state,U.S. Bank|Minnesota,Equifax vs TransUnion,-0.5276835801960826,0.5899700062753294
+Lender in state,U.S. Bank|Missouri,Experian vs TransUnion,0.04228063877849926,1.0431871964554318
+Lender in state,U.S. Bank|Missouri,Equifax vs TransUnion,0.3140180616297341,1.3689144611502266
+Lender in state,U.S. Bank|Nebraska,Experian vs TransUnion,0.06680030888383337,1.0690819706855355
+Lender in state,U.S. Bank|Nebraska,Equifax vs TransUnion,0.3202462937718985,1.3774669840995644
+Lender in state,U.S. Bank|Nevada,Experian vs TransUnion,0.5647874923338256,1.7590739263048374
+Lender in state,U.S. Bank|Nevada,Equifax vs TransUnion,0.08839271290560044,1.092417044072579
+Lender in state,U.S. Bank|New Hampshire,Experian vs TransUnion,0.3055011993572484,1.3573051130068685
+Lender in state,U.S. Bank|New Hampshire,Equifax vs TransUnion,0.0266484069317824,1.0270066508585014
+Lender in state,U.S. Bank|New Jersey,Experian vs TransUnion,0.108115491724492,1.1141764161118077
+Lender in state,U.S. Bank|New Jersey,Equifax vs TransUnion,-0.008749260482924313,0.9912889029149693
+Lender in state,U.S. Bank|New York,Experian vs TransUnion,0.3295081638310617,1.390284168240337
+Lender in state,U.S. Bank|New York,Equifax vs TransUnion,-0.35386286058093613,0.7019712286811329
+Lender in state,U.S. Bank|North Carolina,Experian vs TransUnion,0.3028270669256705,1.3536803480953865
+Lender in state,U.S. Bank|North Carolina,Equifax vs TransUnion,0.38313184801750017,1.4668714214078262
+Lender in state,U.S. Bank|Ohio,Experian vs TransUnion,-0.7068517295153084,0.4931944654277726
+Lender in state,U.S. Bank|Ohio,Equifax vs TransUnion,-0.6304652811512959,0.5323440537210946
+Lender in state,U.S. Bank|Oregon,Experian vs TransUnion,-0.30229869973326484,0.73911725778591
+Lender in state,U.S. Bank|Oregon,Equifax vs TransUnion,-0.486796898062945,0.6145918450636407
+Lender in state,U.S. Bank|Pennsylvania,Experian vs TransUnion,-0.22274721146339224,0.800317134723067
+Lender in state,U.S. Bank|Pennsylvania,Equifax vs TransUnion,-0.4026116925539899,0.6685716602794508
+Lender in state,U.S. Bank|South Carolina,Experian vs TransUnion,0.233605628607449,1.2631462452233326
+Lender in state,U.S. Bank|South Carolina,Equifax vs TransUnion,0.2379788895462624,1.2686824100808882
+Lender in state,U.S. Bank|South Dakota,Experian vs TransUnion,0.0871848714271323,1.0910983739874904
+Lender in state,U.S. Bank|South Dakota,Equifax vs TransUnion,0.5494229839694148,1.7322531915766652
+Lender in state,U.S. Bank|Texas,Experian vs TransUnion,0.6705426885389227,1.955298150656295
+Lender in state,U.S. Bank|Texas,Equifax vs TransUnion,1.1179209369319856,3.058488797443068
+Lender in state,U.S. Bank|Utah,Experian vs TransUnion,-0.1676162189700476,0.8456783277131598
+Lender in state,U.S. Bank|Utah,Equifax vs TransUnion,-0.1571998983839611,0.8545332219331399
+Lender in state,U.S. Bank|Virginia,Experian vs TransUnion,0.06420318498873853,1.0663090347413862
+Lender in state,U.S. Bank|Virginia,Equifax vs TransUnion,0.2710105476968161,1.3112889013894153
+Lender in state,U.S. Bank|Washington,Experian vs TransUnion,-0.48909359110453166,0.6131819359336601
+Lender in state,U.S. Bank|Washington,Equifax vs TransUnion,-0.24232742242154984,0.7847991746336778
+Lender in state,Wells Fargo|Arizona,Experian vs TransUnion,0.5924710878141347,1.808451741552231
+Lender in state,Wells Fargo|Arizona,Equifax vs TransUnion,0.12817583321963283,1.1367528640414248
+Lender in state,Wells Fargo|California,Experian vs TransUnion,0.1982057576382482,1.2192132304498
+Lender in state,Wells Fargo|California,Equifax vs TransUnion,-0.10088186571010938,0.904039824680575
+Lender in state,Wells Fargo|Colorado,Experian vs TransUnion,-0.14351122871126665,0.8663110725757295
+Lender in state,Wells Fargo|Colorado,Equifax vs TransUnion,0.5558431424352773,1.7434103084756254
+Lender in state,Wells Fargo|Connecticut,Experian vs TransUnion,0.2398074581009393,1.271004405158428
+Lender in state,Wells Fargo|Connecticut,Equifax vs TransUnion,0.028981518978271184,1.02940556983263
+Lender in state,Wells Fargo|Florida,Experian vs TransUnion,0.5213986880364263,1.6843819277158951
+Lender in state,Wells Fargo|Florida,Equifax vs TransUnion,1.0079107714234505,2.73987081484981
+Lender in state,Wells Fargo|Georgia,Experian vs TransUnion,-1.0383229657470934,0.3540479348809699
+Lender in state,Wells Fargo|Georgia,Equifax vs TransUnion,-1.2670753617142663,0.2816541549109276
+Lender in state,Wells Fargo|Illinois,Experian vs TransUnion,-0.08627268822058196,0.9173440481945556
+Lender in state,Wells Fargo|Illinois,Equifax vs TransUnion,0.10958794695484797,1.1158181994328373
+Lender in state,Wells Fargo|Iowa,Experian vs TransUnion,0.18983747082550007,1.2090530752891215
+Lender in state,Wells Fargo|Iowa,Equifax vs TransUnion,0.010974650081003796,1.0110350924621656
+Lender in state,Wells Fargo|Kentucky,Experian vs TransUnion,0.26630332413322316,1.3051308763451792
+Lender in state,Wells Fargo|Kentucky,Equifax vs TransUnion,0.05796185320761367,1.0596745717533846
+Lender in state,Wells Fargo|Louisiana,Experian vs TransUnion,0.472617247569056,1.6041872588819848
+Lender in state,Wells Fargo|Louisiana,Equifax vs TransUnion,0.055577024483251886,1.0571504404029792
+Lender in state,Wells Fargo|Massachusetts,Experian vs TransUnion,-0.20467602276114208,0.8149112863574468
+Lender in state,Wells Fargo|Massachusetts,Equifax vs TransUnion,-0.2376680705828798,0.7884643621793607
+Lender in state,Wells Fargo|Michigan,Experian vs TransUnion,-0.027637993808960024,0.9727404411328231
+Lender in state,Wells Fargo|Michigan,Equifax vs TransUnion,0.3135095488580597,1.3682185276239416
+Lender in state,Wells Fargo|Minnesota,Experian vs TransUnion,0.5646525859337433,1.7588366319805824
+Lender in state,Wells Fargo|Minnesota,Equifax vs TransUnion,0.05680306874552393,1.0584473485057049
+Lender in state,Wells Fargo|Nevada,Experian vs TransUnion,0.5573545952505583,1.7460473832996133
+Lender in state,Wells Fargo|Nevada,Equifax vs TransUnion,0.08662007239118391,1.090482296674051
+Lender in state,Wells Fargo|New Hampshire,Experian vs TransUnion,0.203828056783929,1.2260873179342318
+Lender in state,Wells Fargo|New Hampshire,Equifax vs TransUnion,0.014637899564499547,1.014745558274058
+Lender in state,Wells Fargo|New Jersey,Experian vs TransUnion,-0.5628999934411822,0.5695549609131867
+Lender in state,Wells Fargo|New Jersey,Equifax vs TransUnion,-0.3909297981098079,0.6764276408714746
+Lender in state,Wells Fargo|New York,Experian vs TransUnion,0.3528918327549155,1.4231771939512694
+Lender in state,Wells Fargo|New York,Equifax vs TransUnion,0.5885335361318086,1.80134487037342
+Lender in state,Wells Fargo|North Carolina,Experian vs TransUnion,-0.4423760393034263,0.6425079817688266
+Lender in state,Wells Fargo|North Carolina,Equifax vs TransUnion,0.09217552077834516,1.0965572737768805
+Lender in state,Wells Fargo|Ohio,Experian vs TransUnion,-0.45647132940763213,0.6335151723884198
+Lender in state,Wells Fargo|Ohio,Equifax vs TransUnion,-0.5727618721360594,0.5639656846602455
+Lender in state,Wells Fargo|Oregon,Experian vs TransUnion,0.23046029515366212,1.2591794707657238
+Lender in state,Wells Fargo|Oregon,Equifax vs TransUnion,0.055184408941090085,1.056735468177277
+Lender in state,Wells Fargo|Pennsylvania,Experian vs TransUnion,-0.14241757324697552,0.8672590366926091
+Lender in state,Wells Fargo|Pennsylvania,Equifax vs TransUnion,0.4319169053684956,1.5402071268999817
+Lender in state,Wells Fargo|South Carolina,Experian vs TransUnion,0.2601577400994921,1.2971346806825927
+Lender in state,Wells Fargo|South Carolina,Equifax vs TransUnion,0.0009714706005843621,1.0009719426309904
+Lender in state,Wells Fargo|Tennessee,Experian vs TransUnion,-0.298087294341444,0.742236543869366
+Lender in state,Wells Fargo|Tennessee,Equifax vs TransUnion,-0.24199992613367524,0.7850562355410462
+Lender in state,Wells Fargo|Texas,Experian vs TransUnion,-0.5600389872934064,0.571186794387562
+Lender in state,Wells Fargo|Texas,Equifax vs TransUnion,-0.4003627397057504,0.6700769384344373
+Lender in state,Wells Fargo|Virginia,Experian vs TransUnion,-0.5046781265575819,0.6036998591098233
+Lender in state,Wells Fargo|Virginia,Equifax vs TransUnion,-0.4733564719946123,0.6229079823448587
+Lender in state,Wells Fargo|Washington,Experian vs TransUnion,-0.16896943859022268,0.8445347131630809
+Lender in state,Wells Fargo|Washington,Equifax vs TransUnion,0.0786165798904176,1.0817894627083493
+Lender in state,Wells Fargo|West Virginia,Experian vs TransUnion,0.17349396614297558,1.189453509755541
+Lender in state,Wells Fargo|West Virginia,Equifax vs TransUnion,0.004761460187466149,1.004772813952038

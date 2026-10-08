@@ -1,0 +1,311 @@
+{
+ "C": 0.3,
+ "cv_grid": {
+  "0.03": [
+   0.936576281977441,
+   0.5192137896251948
+  ],
+  "0.1": [
+   0.9113847225348377,
+   0.5543901586777854
+  ],
+  "0.3": [
+   0.9029294719233938,
+   0.5529964943837411
+  ],
+  "1.0": [
+   0.9130718912348339,
+   0.5522368137852125
+  ],
+  "3.0": [
+   0.9478453034185175,
+   0.5353931796777348
+  ]
+ },
+ "fit": [
+  {
+   "Model": "Full model (state + lender + era + lender in state)",
+   "CV Log Loss": 0.9029294719233938,
+   "CV Accuracy": 0.5529964943837411
+  },
+  {
+   "Model": "Without state terms (lender + era)",
+   "CV Log Loss": 0.9047024059565526,
+   "CV Accuracy": 0.545773549083977
+  },
+  {
+   "Model": "National shares only",
+   "CV Log Loss": 1.0412957704192585,
+   "CV Accuracy": 0.5003753797693592
+  }
+ ],
+ "rows": 1273,
+ "reports": 862,
+ "datapoints": 2901,
+ "close_calls": [
+  {
+   "State": "Alabama",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.43203082517269775,
+   "Lead Margin (pts)": 10.4,
+   "Leader Holds in Resamples": 0.8266666666666667,
+   "Model Confidence": "Moderate lean",
+   "Observed Leader": "Experian / Equifax",
+   "Observed Gap (pts)": 0.0,
+   "Datapoints": 16
+  },
+  {
+   "State": "Connecticut",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.4528895072197475,
+   "Lead Margin (pts)": 17.9,
+   "Leader Holds in Resamples": 0.9466666666666667,
+   "Model Confidence": "Clear lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 14.3,
+   "Datapoints": 21
+  },
+  {
+   "State": "Delaware",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.4971286643450366,
+   "Lead Margin (pts)": 22.9,
+   "Leader Holds in Resamples": 0.9933333333333333,
+   "Model Confidence": "Clear lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 16.7,
+   "Datapoints": 48
+  },
+  {
+   "State": "Florida",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.472749402997394,
+   "Lead Margin (pts)": 14.9,
+   "Leader Holds in Resamples": 1.0,
+   "Model Confidence": "Clear lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 7.4,
+   "Datapoints": 882
+  },
+  {
+   "State": "Georgia",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.4238421536646563,
+   "Lead Margin (pts)": 12.8,
+   "Leader Holds in Resamples": 0.8866666666666667,
+   "Model Confidence": "Moderate lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 3.8,
+   "Datapoints": 115
+  },
+  {
+   "State": "Hawaii",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.40088344245419966,
+   "Lead Margin (pts)": 3.1,
+   "Leader Holds in Resamples": 0.64,
+   "Model Confidence": "Toss-up",
+   "Observed Leader": "Equifax",
+   "Observed Gap (pts)": 15.4,
+   "Datapoints": 13
+  },
+  {
+   "State": "Illinois",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.4957356624592403,
+   "Lead Margin (pts)": 22.8,
+   "Leader Holds in Resamples": 1.0,
+   "Model Confidence": "Clear lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 18.9,
+   "Datapoints": 97
+  },
+  {
+   "State": "Indiana",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.5467044498665443,
+   "Lead Margin (pts)": 25.3,
+   "Leader Holds in Resamples": 1.0,
+   "Model Confidence": "Clear lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 15.2,
+   "Datapoints": 46
+  },
+  {
+   "State": "Iowa",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.5516859523955913,
+   "Lead Margin (pts)": 29.2,
+   "Leader Holds in Resamples": 0.9933333333333333,
+   "Model Confidence": "Thin data (national pattern)",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 12.5,
+   "Datapoints": 8
+  },
+  {
+   "State": "Kansas",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.39013247047330785,
+   "Lead Margin (pts)": 2.6,
+   "Leader Holds in Resamples": 0.58,
+   "Model Confidence": "Toss-up",
+   "Observed Leader": "TransUnion",
+   "Observed Gap (pts)": 20.0,
+   "Datapoints": 15
+  },
+  {
+   "State": "Kentucky",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.4479559343211813,
+   "Lead Margin (pts)": 12.4,
+   "Leader Holds in Resamples": 0.8666666666666667,
+   "Model Confidence": "Moderate lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 18.8,
+   "Datapoints": 32
+  },
+  {
+   "State": "Louisiana",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.40832106566141946,
+   "Lead Margin (pts)": 10.3,
+   "Leader Holds in Resamples": 0.7733333333333333,
+   "Model Confidence": "Moderate lean",
+   "Observed Leader": "Experian / Equifax / TransUnion",
+   "Observed Gap (pts)": 0.0,
+   "Datapoints": 15
+  },
+  {
+   "State": "Maryland",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.5016922170469909,
+   "Lead Margin (pts)": 23.2,
+   "Leader Holds in Resamples": 0.98,
+   "Model Confidence": "Clear lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 13.2,
+   "Datapoints": 68
+  },
+  {
+   "State": "Missouri",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.5340619801984939,
+   "Lead Margin (pts)": 29.1,
+   "Leader Holds in Resamples": 0.9933333333333333,
+   "Model Confidence": "Clear lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 12.1,
+   "Datapoints": 33
+  },
+  {
+   "State": "Montana",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.4283422945451908,
+   "Lead Margin (pts)": 13.6,
+   "Leader Holds in Resamples": 0.9933333333333333,
+   "Model Confidence": "Thin data (national pattern)",
+   "Observed Leader": "Equifax / TransUnion",
+   "Observed Gap (pts)": 0.0,
+   "Datapoints": 2
+  },
+  {
+   "State": "Nebraska",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.4498267879751378,
+   "Lead Margin (pts)": 16.8,
+   "Leader Holds in Resamples": 0.9733333333333334,
+   "Model Confidence": "Thin data (national pattern)",
+   "Observed Leader": "Equifax / TransUnion",
+   "Observed Gap (pts)": 0.0,
+   "Datapoints": 2
+  },
+  {
+   "State": "Nevada",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.5605070620700721,
+   "Lead Margin (pts)": 33.1,
+   "Leader Holds in Resamples": 1.0,
+   "Model Confidence": "Clear lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 15.3,
+   "Datapoints": 59
+  },
+  {
+   "State": "North Carolina",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.45858973437354233,
+   "Lead Margin (pts)": 9.0,
+   "Leader Holds in Resamples": 0.92,
+   "Model Confidence": "Moderate lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 16.6,
+   "Datapoints": 77
+  },
+  {
+   "State": "Oklahoma",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.42128326268105837,
+   "Lead Margin (pts)": 13.1,
+   "Leader Holds in Resamples": 0.9066666666666666,
+   "Model Confidence": "Clear lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 16.7,
+   "Datapoints": 12
+  },
+  {
+   "State": "South Carolina",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.3789253061894935,
+   "Lead Margin (pts)": 1.3,
+   "Leader Holds in Resamples": 0.4266666666666667,
+   "Model Confidence": "Toss-up",
+   "Observed Leader": "Experian / Equifax",
+   "Observed Gap (pts)": 0.0,
+   "Datapoints": 41
+  },
+  {
+   "State": "South Dakota",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.4764437641193209,
+   "Lead Margin (pts)": 18.5,
+   "Leader Holds in Resamples": 0.9866666666666667,
+   "Model Confidence": "Thin data (national pattern)",
+   "Observed Leader": "Equifax",
+   "Observed Gap (pts)": 16.7,
+   "Datapoints": 6
+  },
+  {
+   "State": "Tennessee",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.45355736414666903,
+   "Lead Margin (pts)": 15.3,
+   "Leader Holds in Resamples": 0.98,
+   "Model Confidence": "Clear lean",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 19.0,
+   "Datapoints": 21
+  },
+  {
+   "State": "Utah",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.4720661569929285,
+   "Lead Margin (pts)": 12.1,
+   "Leader Holds in Resamples": 0.7933333333333333,
+   "Model Confidence": "Thin data (national pattern)",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 14.3,
+   "Datapoints": 7
+  },
+  {
+   "State": "Virginia",
+   "Most Likely Bureau": "Experian",
+   "Lead Probability": 0.389606167527214,
+   "Lead Margin (pts)": 2.9,
+   "Leader Holds in Resamples": 0.68,
+   "Model Confidence": "Toss-up",
+   "Observed Leader": "Experian",
+   "Observed Gap (pts)": 1.1,
+   "Datapoints": 46
+  }
+ ]
+}
