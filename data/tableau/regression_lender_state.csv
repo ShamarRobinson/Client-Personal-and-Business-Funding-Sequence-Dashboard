@@ -1,0 +1,2059 @@
+State,StateAbbr,Lender,Bureau,Predicted Likelihood,Most Likely Bureau,Lender Datapoints in State,Close Call State
+Alabama,AL,Chase,Experian,0.31762720799012895,Equifax,4,Yes
+Alabama,AL,Chase,Equifax,0.4338034716166342,Equifax,4,Yes
+Alabama,AL,Chase,TransUnion,0.24856932039323687,Equifax,4,Yes
+Alabama,AL,Bank of America,Experian,0.5377575704649844,Experian,3,Yes
+Alabama,AL,Bank of America,Equifax,0.1299408624053624,Experian,3,Yes
+Alabama,AL,Bank of America,TransUnion,0.3323015671296531,Experian,3,Yes
+Alabama,AL,Citi,Experian,0.32708725864441207,Equifax,1,Yes
+Alabama,AL,Citi,Equifax,0.571698236566667,Equifax,1,Yes
+Alabama,AL,Citi,TransUnion,0.10121450478892095,Equifax,1,Yes
+Alabama,AL,American Express,Experian,0.8823875241299527,Experian,2,Yes
+Alabama,AL,American Express,Equifax,0.056973237193629414,Experian,2,Yes
+Alabama,AL,American Express,TransUnion,0.06063923867641775,Experian,2,Yes
+Alabama,AL,U.S. Bank,Experian,0.18884815550451778,TransUnion,1,Yes
+Alabama,AL,U.S. Bank,Equifax,0.3325769405781853,TransUnion,1,Yes
+Alabama,AL,U.S. Bank,TransUnion,0.4785749039172968,TransUnion,1,Yes
+Alabama,AL,Wells Fargo,Experian,0.4109602364416005,Experian,0,Yes
+Alabama,AL,Wells Fargo,Equifax,0.28499122323594667,Experian,0,Yes
+Alabama,AL,Wells Fargo,TransUnion,0.30404854032245276,Experian,0,Yes
+Alabama,AL,Capital One,Experian,0.31956206779147694,Equifax,0,Yes
+Alabama,AL,Capital One,Equifax,0.4435187630146034,Equifax,0,Yes
+Alabama,AL,Capital One,TransUnion,0.2369191691939195,Equifax,0,Yes
+Alabama,AL,Synchrony,Experian,0.25681198278421813,TransUnion,0,Yes
+Alabama,AL,Synchrony,Equifax,0.1963016911314414,TransUnion,0,Yes
+Alabama,AL,Synchrony,TransUnion,0.5468863260843404,TransUnion,0,Yes
+Alabama,AL,Discover,Experian,0.5462762425718406,Experian,0,Yes
+Alabama,AL,Discover,Equifax,0.3185825444826375,Experian,0,Yes
+Alabama,AL,Discover,TransUnion,0.13514121294552187,Experian,0,Yes
+Alabama,AL,Elan,Experian,0.18535149286415387,TransUnion,1,Yes
+Alabama,AL,Elan,Equifax,0.2690196266185239,TransUnion,1,Yes
+Alabama,AL,Elan,TransUnion,0.5456288805173222,TransUnion,1,Yes
+Alabama,AL,Navy Federal,Experian,0.17902757045174897,TransUnion,0,Yes
+Alabama,AL,Navy Federal,Equifax,0.24339996398318894,TransUnion,0,Yes
+Alabama,AL,Navy Federal,TransUnion,0.5775724655650621,TransUnion,0,Yes
+Alabama,AL,Comenity / Bread,Experian,0.3748904095155347,Equifax,0,Yes
+Alabama,AL,Comenity / Bread,Equifax,0.5001413983215677,Equifax,0,Yes
+Alabama,AL,Comenity / Bread,TransUnion,0.12496819216289759,Equifax,0,Yes
+Alabama,AL,Apple Card,Experian,0.13705657007384356,TransUnion,0,Yes
+Alabama,AL,Apple Card,Equifax,0.19357429733092943,TransUnion,0,Yes
+Alabama,AL,Apple Card,TransUnion,0.669369132595227,TransUnion,0,Yes
+Alabama,AL,Barclays,Experian,0.21972894914004415,TransUnion,0,Yes
+Alabama,AL,Barclays,Equifax,0.15452021253585674,TransUnion,0,Yes
+Alabama,AL,Barclays,TransUnion,0.6257508383240992,TransUnion,0,Yes
+Alaska,AK,Chase,Experian,0.4502617707210895,Experian,0,No
+Alaska,AK,Chase,Equifax,0.29349491108986886,Experian,0,No
+Alaska,AK,Chase,TransUnion,0.2562433181890416,Experian,0,No
+Alaska,AK,Bank of America,Experian,0.6417803247206434,Experian,1,No
+Alaska,AK,Bank of America,Equifax,0.09230165469376708,Experian,1,No
+Alaska,AK,Bank of America,TransUnion,0.2659180205855895,Experian,1,No
+Alaska,AK,Citi,Experian,0.5105248124852036,Experian,0,No
+Alaska,AK,Citi,Equifax,0.38395102939270986,Experian,0,No
+Alaska,AK,Citi,TransUnion,0.10552415812208653,Experian,0,No
+Alaska,AK,American Express,Experian,0.914474293830294,Experian,0,No
+Alaska,AK,American Express,Equifax,0.03552964812820814,Experian,0,No
+Alaska,AK,American Express,TransUnion,0.04999605804149801,Experian,0,No
+Alaska,AK,U.S. Bank,Experian,0.28795142212278374,TransUnion,0,No
+Alaska,AK,U.S. Bank,Equifax,0.2859934255932299,TransUnion,0,No
+Alaska,AK,U.S. Bank,TransUnion,0.4260551522839863,TransUnion,0,No
+Alaska,AK,Wells Fargo,Experian,0.5237960560726302,Experian,0,No
+Alaska,AK,Wells Fargo,Equifax,0.19831109116802578,Experian,0,No
+Alaska,AK,Wells Fargo,TransUnion,0.2778928527593441,Experian,0,No
+Alaska,AK,Capital One,Experian,0.43680307451776634,Experian,0,No
+Alaska,AK,Capital One,Equifax,0.33097528017261163,Experian,0,No
+Alaska,AK,Capital One,TransUnion,0.23222164530962205,Experian,0,No
+Alaska,AK,Synchrony,Experian,0.3396318168293865,TransUnion,0,No
+Alaska,AK,Synchrony,Equifax,0.1417327529358158,TransUnion,0,No
+Alaska,AK,Synchrony,TransUnion,0.5186354302347977,TransUnion,0,No
+Alaska,AK,Discover,Experian,0.6685430599669904,Experian,0,No
+Alaska,AK,Discover,Equifax,0.2128590625389462,Experian,0,No
+Alaska,AK,Discover,TransUnion,0.11859787749406348,Experian,0,No
+Alaska,AK,Elan,Experian,0.2812329750845511,TransUnion,0,No
+Alaska,AK,Elan,Equifax,0.22822767716707715,TransUnion,0,No
+Alaska,AK,Elan,TransUnion,0.4905393477483718,TransUnion,0,No
+Alaska,AK,Navy Federal,Experian,0.2465666915880583,TransUnion,0,No
+Alaska,AK,Navy Federal,Equifax,0.18301559443840215,TransUnion,0,No
+Alaska,AK,Navy Federal,TransUnion,0.5704177139735396,TransUnion,0,No
+Alaska,AK,Comenity / Bread,Experian,0.5082874852799263,Experian,0,No
+Alaska,AK,Comenity / Bread,Equifax,0.3702124227821738,Experian,0,No
+Alaska,AK,Comenity / Bread,TransUnion,0.1215000919378998,Experian,0,No
+Alaska,AK,Apple Card,Experian,0.18963609390869973,TransUnion,0,No
+Alaska,AK,Apple Card,Equifax,0.14622510126736774,TransUnion,0,No
+Alaska,AK,Apple Card,TransUnion,0.6641388048239324,TransUnion,0,No
+Alaska,AK,Barclays,Experian,0.2918794141918721,TransUnion,0,No
+Alaska,AK,Barclays,Equifax,0.11206102261909001,TransUnion,0,No
+Alaska,AK,Barclays,TransUnion,0.5960595631890379,TransUnion,0,No
+Arizona,AZ,Chase,Experian,0.5886567273961141,Experian,3,No
+Arizona,AZ,Chase,Equifax,0.2138491880333853,Experian,3,No
+Arizona,AZ,Chase,TransUnion,0.19749408457050055,Experian,3,No
+Arizona,AZ,Bank of America,Experian,0.6019313601940874,Experian,3,No
+Arizona,AZ,Bank of America,Equifax,0.08657161991697135,Experian,3,No
+Arizona,AZ,Bank of America,TransUnion,0.3114970198889412,Experian,3,No
+Arizona,AZ,Citi,Experian,0.5410505049618196,Experian,9,No
+Arizona,AZ,Citi,Equifax,0.31794312156474647,Experian,9,No
+Arizona,AZ,Citi,TransUnion,0.14100637347343395,Experian,9,No
+Arizona,AZ,American Express,Experian,0.9269936552151464,Experian,8,No
+Arizona,AZ,American Express,Equifax,0.020865271765269314,Experian,8,No
+Arizona,AZ,American Express,TransUnion,0.052141073019584386,Experian,8,No
+Arizona,AZ,U.S. Bank,Experian,0.2708458252335873,TransUnion,3,No
+Arizona,AZ,U.S. Bank,Equifax,0.16085772533239057,TransUnion,3,No
+Arizona,AZ,U.S. Bank,TransUnion,0.5682964494340221,TransUnion,3,No
+Arizona,AZ,Wells Fargo,Experian,0.7321038801298255,Experian,4,No
+Arizona,AZ,Wells Fargo,Equifax,0.09590602495146475,Experian,4,No
+Arizona,AZ,Wells Fargo,TransUnion,0.17199009491870967,Experian,4,No
+Arizona,AZ,Capital One,Experian,0.5635615999708539,Experian,4,No
+Arizona,AZ,Capital One,Equifax,0.22413288995960098,Experian,4,No
+Arizona,AZ,Capital One,TransUnion,0.21230551006954515,Experian,4,No
+Arizona,AZ,Synchrony,Experian,0.40773477215535137,TransUnion,0,No
+Arizona,AZ,Synchrony,Equifax,0.09366317468114148,TransUnion,0,No
+Arizona,AZ,Synchrony,TransUnion,0.49860205316350714,TransUnion,0,No
+Arizona,AZ,Discover,Experian,0.8086699325550245,Experian,3,No
+Arizona,AZ,Discover,Equifax,0.10529440346482562,Experian,3,No
+Arizona,AZ,Discover,TransUnion,0.08603566398014975,Experian,3,No
+Arizona,AZ,Elan,Experian,0.2867925685617589,TransUnion,2,No
+Arizona,AZ,Elan,Equifax,0.1367484207513854,TransUnion,2,No
+Arizona,AZ,Elan,TransUnion,0.5764590106868557,TransUnion,2,No
+Arizona,AZ,Navy Federal,Experian,0.30663718359609426,TransUnion,0,No
+Arizona,AZ,Navy Federal,Equifax,0.1252875093060865,TransUnion,0,No
+Arizona,AZ,Navy Federal,TransUnion,0.5680753070978193,TransUnion,0,No
+Arizona,AZ,Comenity / Bread,Experian,0.6280013921339185,Experian,0,No
+Arizona,AZ,Comenity / Bread,Equifax,0.25178592360038565,Experian,0,No
+Arizona,AZ,Comenity / Bread,TransUnion,0.12021268426569595,Experian,0,No
+Arizona,AZ,Apple Card,Experian,0.23646334370195035,TransUnion,0,No
+Arizona,AZ,Apple Card,Equifax,0.10036771231581856,TransUnion,0,No
+Arizona,AZ,Apple Card,TransUnion,0.6631689439822311,TransUnion,0,No
+Arizona,AZ,Barclays,Experian,0.3512861957315121,TransUnion,0,No
+Arizona,AZ,Barclays,Equifax,0.07424059924276447,TransUnion,0,No
+Arizona,AZ,Barclays,TransUnion,0.5744732050257235,TransUnion,0,No
+Arkansas,AR,Chase,Experian,0.4375333015590663,Experian,2,No
+Arkansas,AR,Chase,Equifax,0.2870006123871533,Experian,2,No
+Arkansas,AR,Chase,TransUnion,0.2754660860537803,Experian,2,No
+Arkansas,AR,Bank of America,Experian,0.6679214056288119,Experian,3,No
+Arkansas,AR,Bank of America,Equifax,0.06932932991422575,Experian,3,No
+Arkansas,AR,Bank of America,TransUnion,0.2627492644569624,Experian,3,No
+Arkansas,AR,Citi,Experian,0.3976776849756755,Experian,3,No
+Arkansas,AR,Citi,Equifax,0.30371372744933745,Experian,3,No
+Arkansas,AR,Citi,TransUnion,0.29860858757498704,Experian,3,No
+Arkansas,AR,American Express,Experian,0.9118741411157423,Experian,3,No
+Arkansas,AR,American Express,Equifax,0.028949497337448206,Experian,3,No
+Arkansas,AR,American Express,TransUnion,0.05917636154680948,Experian,3,No
+Arkansas,AR,U.S. Bank,Experian,0.25647606708746534,TransUnion,0,No
+Arkansas,AR,U.S. Bank,Equifax,0.23019548851211719,TransUnion,0,No
+Arkansas,AR,U.S. Bank,TransUnion,0.5133284444004175,TransUnion,0,No
+Arkansas,AR,Wells Fargo,Experian,0.4854857897193216,Experian,0,No
+Arkansas,AR,Wells Fargo,Equifax,0.16610183989285274,Experian,0,No
+Arkansas,AR,Wells Fargo,TransUnion,0.34841237038782574,Experian,0,No
+Arkansas,AR,Capital One,Experian,0.41599331222435504,Experian,0,No
+Arkansas,AR,Capital One,Equifax,0.28484549884642735,Experian,0,No
+Arkansas,AR,Capital One,TransUnion,0.2991611889292176,Experian,0,No
+Arkansas,AR,Synchrony,Experian,0.29046453289812596,TransUnion,0,No
+Arkansas,AR,Synchrony,Equifax,0.10953883190090676,TransUnion,0,No
+Arkansas,AR,Synchrony,TransUnion,0.5999966352009672,TransUnion,0,No
+Arkansas,AR,Discover,Experian,0.6545831854430216,Experian,0,No
+Arkansas,AR,Discover,Equifax,0.18833921068969872,Experian,0,No
+Arkansas,AR,Discover,TransUnion,0.1570776038672797,Experian,0,No
+Arkansas,AR,Elan,Experian,0.24433152955882506,TransUnion,0,No
+Arkansas,AR,Elan,Equifax,0.17918214170191732,TransUnion,0,No
+Arkansas,AR,Elan,TransUnion,0.5764863287392575,TransUnion,0,No
+Arkansas,AR,Navy Federal,Experian,0.20832659603669293,TransUnion,0,No
+Arkansas,AR,Navy Federal,Equifax,0.1397370424539125,TransUnion,0,No
+Arkansas,AR,Navy Federal,TransUnion,0.6519363615093946,TransUnion,0,No
+Arkansas,AR,Comenity / Bread,Experian,0.5046573864370657,Experian,0,No
+Arkansas,AR,Comenity / Bread,Equifax,0.33216306981208754,Experian,0,No
+Arkansas,AR,Comenity / Bread,TransUnion,0.16317954375084676,Experian,0,No
+Arkansas,AR,Apple Card,Experian,0.15541932909890815,TransUnion,0,No
+Arkansas,AR,Apple Card,Equifax,0.10829766676048638,TransUnion,0,No
+Arkansas,AR,Apple Card,TransUnion,0.7362830041406054,TransUnion,0,No
+Arkansas,AR,Barclays,Experian,0.2433470403736913,TransUnion,0,No
+Arkansas,AR,Barclays,Equifax,0.08442874321707312,TransUnion,0,No
+Arkansas,AR,Barclays,TransUnion,0.6722242164092357,TransUnion,0,No
+California,CA,Chase,Experian,0.47625332333287557,Experian,8,No
+California,CA,Chase,Equifax,0.28533302126317756,Experian,8,No
+California,CA,Chase,TransUnion,0.23841365540394674,Experian,8,No
+California,CA,Bank of America,Experian,0.6180816195299926,Experian,31,No
+California,CA,Bank of America,Equifax,0.1063010582107467,Experian,31,No
+California,CA,Bank of America,TransUnion,0.2756173222592607,Experian,31,No
+California,CA,Citi,Experian,0.5971512069891322,Experian,73,No
+California,CA,Citi,Equifax,0.3148303617300406,Experian,73,No
+California,CA,Citi,TransUnion,0.08801843128082724,Experian,73,No
+California,CA,American Express,Experian,0.9365363271190343,Experian,45,No
+California,CA,American Express,Equifax,0.022710120221182968,Experian,45,No
+California,CA,American Express,TransUnion,0.04075355265978265,Experian,45,No
+California,CA,U.S. Bank,Experian,0.32919757479399653,TransUnion,18,No
+California,CA,U.S. Bank,Equifax,0.14548500653925417,TransUnion,18,No
+California,CA,U.S. Bank,TransUnion,0.5253174186667493,TransUnion,18,No
+California,CA,Wells Fargo,Experian,0.6567474218631826,Experian,14,No
+California,CA,Wells Fargo,Equifax,0.11532466123940098,Experian,14,No
+California,CA,Wells Fargo,TransUnion,0.2279279168974164,Experian,14,No
+California,CA,Capital One,Experian,0.49108981666837265,Experian,6,No
+California,CA,Capital One,Equifax,0.2759464446703648,Experian,6,No
+California,CA,Capital One,TransUnion,0.23296373866126252,Experian,6,No
+California,CA,Synchrony,Experian,0.3255990981322726,TransUnion,2,No
+California,CA,Synchrony,Equifax,0.09477553802842961,TransUnion,2,No
+California,CA,Synchrony,TransUnion,0.5796253638392977,TransUnion,2,No
+California,CA,Discover,Experian,0.7041825516353523,Experian,2,No
+California,CA,Discover,Equifax,0.1901440842023311,Experian,2,No
+California,CA,Discover,TransUnion,0.10567336416231675,Experian,2,No
+California,CA,Elan,Experian,0.3090196048852021,TransUnion,4,No
+California,CA,Elan,Equifax,0.1390271062508022,TransUnion,4,No
+California,CA,Elan,TransUnion,0.5519532888639956,TransUnion,4,No
+California,CA,Navy Federal,Experian,0.31868683807207865,TransUnion,4,No
+California,CA,Navy Federal,Equifax,0.16425887109703274,TransUnion,4,No
+California,CA,Navy Federal,TransUnion,0.5170542908308886,TransUnion,4,No
+California,CA,Comenity / Bread,Experian,0.6074463812781078,Experian,0,No
+California,CA,Comenity / Bread,Equifax,0.2767455557991334,Experian,0,No
+California,CA,Comenity / Bread,TransUnion,0.11580806292275887,Experian,0,No
+California,CA,Apple Card,Experian,0.21704850433133288,TransUnion,1,No
+California,CA,Apple Card,Equifax,0.10618384007610945,TransUnion,1,No
+California,CA,Apple Card,TransUnion,0.6767676555925577,TransUnion,1,No
+California,CA,Barclays,Experian,0.2845068726709267,TransUnion,2,No
+California,CA,Barclays,Equifax,0.0752618488308363,TransUnion,2,No
+California,CA,Barclays,TransUnion,0.640231278498237,TransUnion,2,No
+Colorado,CO,Chase,Experian,0.49069760471455803,Experian,2,No
+Colorado,CO,Chase,Equifax,0.2573257123352462,Experian,2,No
+Colorado,CO,Chase,TransUnion,0.2519766829501958,Experian,2,No
+Colorado,CO,Bank of America,Experian,0.3884192522617086,TransUnion,5,No
+Colorado,CO,Bank of America,Equifax,0.09071513624358858,TransUnion,5,No
+Colorado,CO,Bank of America,TransUnion,0.5208656114947029,TransUnion,5,No
+Colorado,CO,Citi,Experian,0.5611563629132145,Experian,3,No
+Colorado,CO,Citi,Equifax,0.36062228063024127,Experian,3,No
+Colorado,CO,Citi,TransUnion,0.07822135645654436,Experian,3,No
+Colorado,CO,American Express,Experian,0.942336035074515,Experian,16,No
+Colorado,CO,American Express,Equifax,0.026645236004387087,Experian,16,No
+Colorado,CO,American Express,TransUnion,0.031018728921097923,Experian,16,No
+Colorado,CO,U.S. Bank,Experian,0.5621500856176564,Experian,5,No
+Colorado,CO,U.S. Bank,Equifax,0.2027383082370869,Experian,5,No
+Colorado,CO,U.S. Bank,TransUnion,0.2351116061452566,Experian,5,No
+Colorado,CO,Wells Fargo,Experian,0.45771670173386053,Experian,2,No
+Colorado,CO,Wells Fargo,Equifax,0.3224611719546072,Experian,2,No
+Colorado,CO,Wells Fargo,TransUnion,0.21982212631153225,Experian,2,No
+Colorado,CO,Capital One,Experian,0.47224750714121233,Experian,0,No
+Colorado,CO,Capital One,Equifax,0.3308641325696617,Experian,0,No
+Colorado,CO,Capital One,TransUnion,0.19688836028912593,Experian,0,No
+Colorado,CO,Synchrony,Experian,0.3794558919488955,TransUnion,1,No
+Colorado,CO,Synchrony,Equifax,0.20086746381844076,TransUnion,1,No
+Colorado,CO,Synchrony,TransUnion,0.41967664423266365,TransUnion,1,No
+Colorado,CO,Discover,Experian,0.6975865404668764,Experian,0,No
+Colorado,CO,Discover,Equifax,0.20536715971422265,Experian,0,No
+Colorado,CO,Discover,TransUnion,0.09704629981890095,Experian,0,No
+Colorado,CO,Elan,Experian,0.3843554534043749,TransUnion,1,No
+Colorado,CO,Elan,Equifax,0.2251813651263681,TransUnion,1,No
+Colorado,CO,Elan,TransUnion,0.390463181469257,TransUnion,1,No
+Colorado,CO,Navy Federal,Experian,0.28566989215993116,TransUnion,0,No
+Colorado,CO,Navy Federal,Equifax,0.19605968639732066,TransUnion,0,No
+Colorado,CO,Navy Federal,TransUnion,0.5182704214427482,TransUnion,0,No
+Colorado,CO,Comenity / Bread,Experian,0.5373696596287257,Experian,0,No
+Colorado,CO,Comenity / Bread,Equifax,0.3618968949238526,Experian,0,No
+Colorado,CO,Comenity / Bread,TransUnion,0.10073344544742176,Experian,0,No
+Colorado,CO,Apple Card,Experian,0.22424457779021315,TransUnion,0,No
+Colorado,CO,Apple Card,Equifax,0.15987958935860613,TransUnion,0,No
+Colorado,CO,Apple Card,TransUnion,0.6158758328511807,TransUnion,0,No
+Colorado,CO,Barclays,Experian,0.3382415630260415,TransUnion,0,No
+Colorado,CO,Barclays,Equifax,0.12007379356987363,TransUnion,0,No
+Colorado,CO,Barclays,TransUnion,0.5416846434040848,TransUnion,0,No
+Connecticut,CT,Chase,Experian,0.47953320440936004,Experian,2,Yes
+Connecticut,CT,Chase,Equifax,0.26573443580586814,Experian,2,Yes
+Connecticut,CT,Chase,TransUnion,0.25473235978477177,Experian,2,Yes
+Connecticut,CT,Bank of America,Experian,0.44637667239459833,Experian,1,Yes
+Connecticut,CT,Bank of America,Equifax,0.10949726310314851,Experian,1,Yes
+Connecticut,CT,Bank of America,TransUnion,0.4441260645022531,Experian,1,Yes
+Connecticut,CT,Citi,Experian,0.3415908106540438,Equifax,10,Yes
+Connecticut,CT,Citi,Equifax,0.541752657906969,Equifax,10,Yes
+Connecticut,CT,Citi,TransUnion,0.11665653143898726,Equifax,10,Yes
+Connecticut,CT,American Express,Experian,0.8626472196777109,Experian,5,Yes
+Connecticut,CT,American Express,Equifax,0.04686470974623822,Experian,5,Yes
+Connecticut,CT,American Express,TransUnion,0.09048807057605107,Experian,5,Yes
+Connecticut,CT,U.S. Bank,Experian,0.22065634897414554,TransUnion,0,Yes
+Connecticut,CT,U.S. Bank,Equifax,0.2955677140638323,TransUnion,0,Yes
+Connecticut,CT,U.S. Bank,TransUnion,0.48377593696202215,TransUnion,0,Yes
+Connecticut,CT,Wells Fargo,Experian,0.4921105625506595,Experian,1,Yes
+Connecticut,CT,Wells Fargo,Equifax,0.20351230240364618,Experian,1,Yes
+Connecticut,CT,Wells Fargo,TransUnion,0.3043771350456943,Experian,1,Yes
+Connecticut,CT,Capital One,Experian,0.35591240169138244,Equifax,0,Yes
+Connecticut,CT,Capital One,Equifax,0.36371125118130215,Equifax,0,Yes
+Connecticut,CT,Capital One,TransUnion,0.28037634712731546,Equifax,0,Yes
+Connecticut,CT,Synchrony,Experian,0.2613998432395586,TransUnion,0,Yes
+Connecticut,CT,Synchrony,Equifax,0.14711973026441172,TransUnion,0,Yes
+Connecticut,CT,Synchrony,TransUnion,0.5914804264960297,TransUnion,0,Yes
+Connecticut,CT,Discover,Experian,0.590923301072942,Experian,0,Yes
+Connecticut,CT,Discover,Equifax,0.25374507307468475,Experian,0,Yes
+Connecticut,CT,Discover,TransUnion,0.15533162585237323,Experian,0,Yes
+Connecticut,CT,Elan,Experian,0.1931037777037576,TransUnion,1,Yes
+Connecticut,CT,Elan,Equifax,0.2103293598790821,TransUnion,1,Yes
+Connecticut,CT,Elan,TransUnion,0.5965668624171603,TransUnion,1,Yes
+Connecticut,CT,Navy Federal,Experian,0.1841944196632979,TransUnion,0,Yes
+Connecticut,CT,Navy Federal,Equifax,0.184388529334594,TransUnion,0,Yes
+Connecticut,CT,Navy Federal,TransUnion,0.6314170510021082,TransUnion,0,Yes
+Connecticut,CT,Comenity / Bread,Experian,0.4279901184858685,Experian,0,Yes
+Connecticut,CT,Comenity / Bread,Equifax,0.42041582563386193,Experian,0,Yes
+Connecticut,CT,Comenity / Bread,TransUnion,0.15159405588026958,Experian,0,Yes
+Connecticut,CT,Apple Card,Experian,0.13832493359056156,TransUnion,0,Yes
+Connecticut,CT,Apple Card,Equifax,0.14384843548013704,TransUnion,0,Yes
+Connecticut,CT,Apple Card,TransUnion,0.7178266309293014,TransUnion,0,Yes
+Connecticut,CT,Barclays,Experian,0.22008102659267065,TransUnion,0,Yes
+Connecticut,CT,Barclays,Equifax,0.11395606949769646,TransUnion,0,Yes
+Connecticut,CT,Barclays,TransUnion,0.6659629039096329,TransUnion,0,Yes
+Delaware,DE,Chase,Experian,0.47939371268656544,Experian,1,Yes
+Delaware,DE,Chase,Equifax,0.2402341353217291,Experian,1,Yes
+Delaware,DE,Chase,TransUnion,0.28037215199170545,Experian,1,Yes
+Delaware,DE,Bank of America,Experian,0.5363488180384591,Experian,2,Yes
+Delaware,DE,Bank of America,Equifax,0.08216439443697145,Experian,2,Yes
+Delaware,DE,Bank of America,TransUnion,0.38148678752456944,Experian,2,Yes
+Delaware,DE,Citi,Experian,0.38370305878060257,Equifax,9,Yes
+Delaware,DE,Citi,Equifax,0.5218301763918067,Equifax,9,Yes
+Delaware,DE,Citi,TransUnion,0.09446676482759071,Equifax,9,Yes
+Delaware,DE,American Express,Experian,0.8891571669246587,Experian,7,Yes
+Delaware,DE,American Express,Equifax,0.03319237374083475,Experian,7,Yes
+Delaware,DE,American Express,TransUnion,0.07765045933450651,Experian,7,Yes
+Delaware,DE,U.S. Bank,Experian,0.2320422326856745,TransUnion,1,Yes
+Delaware,DE,U.S. Bank,Equifax,0.22221815050274532,TransUnion,1,Yes
+Delaware,DE,U.S. Bank,TransUnion,0.5457396168115802,TransUnion,1,Yes
+Delaware,DE,Wells Fargo,Experian,0.4871831756009279,Experian,0,Yes
+Delaware,DE,Wells Fargo,Equifax,0.1761676757713925,Experian,0,Yes
+Delaware,DE,Wells Fargo,TransUnion,0.33664914862767964,Experian,0,Yes
+Delaware,DE,Capital One,Experian,0.49667336012371766,Experian,5,Yes
+Delaware,DE,Capital One,Equifax,0.2599392557611195,Experian,5,Yes
+Delaware,DE,Capital One,TransUnion,0.24338738411516278,Experian,5,Yes
+Delaware,DE,Synchrony,Experian,0.28114067261112885,TransUnion,2,Yes
+Delaware,DE,Synchrony,Equifax,0.15468543087719824,TransUnion,2,Yes
+Delaware,DE,Synchrony,TransUnion,0.5641738965116728,TransUnion,2,Yes
+Delaware,DE,Discover,Experian,0.7156550900218726,Experian,2,Yes
+Delaware,DE,Discover,Equifax,0.1607840865633777,Experian,2,Yes
+Delaware,DE,Discover,TransUnion,0.12356082341474971,Experian,2,Yes
+Delaware,DE,Elan,Experian,0.24710100253935974,TransUnion,0,Yes
+Delaware,DE,Elan,Equifax,0.19152511818695708,TransUnion,0,Yes
+Delaware,DE,Elan,TransUnion,0.5613738792736831,TransUnion,0,Yes
+Delaware,DE,Navy Federal,Experian,0.19078773520014444,TransUnion,1,Yes
+Delaware,DE,Navy Federal,Equifax,0.1374054723343241,TransUnion,1,Yes
+Delaware,DE,Navy Federal,TransUnion,0.6718067924655314,TransUnion,1,Yes
+Delaware,DE,Comenity / Bread,Experian,0.49825818955863327,Experian,0,Yes
+Delaware,DE,Comenity / Bread,Equifax,0.34661326484304716,Experian,0,Yes
+Delaware,DE,Comenity / Bread,TransUnion,0.15512854559831943,Experian,0,Yes
+Delaware,DE,Apple Card,Experian,0.14526542343876883,TransUnion,1,Yes
+Delaware,DE,Apple Card,Equifax,0.10816087073434215,TransUnion,1,Yes
+Delaware,DE,Apple Card,TransUnion,0.746573705826889,TransUnion,1,Yes
+Delaware,DE,Barclays,Experian,0.24835244726793224,TransUnion,0,Yes
+Delaware,DE,Barclays,Equifax,0.0910686129284307,TransUnion,0,Yes
+Delaware,DE,Barclays,TransUnion,0.660578939803637,TransUnion,0,Yes
+District of Columbia,DC,Chase,Experian,0.42538242453949154,Experian,3,No
+District of Columbia,DC,Chase,Equifax,0.319635165068047,Experian,3,No
+District of Columbia,DC,Chase,TransUnion,0.2549824103924615,Experian,3,No
+District of Columbia,DC,Bank of America,Experian,0.6559321376378163,Experian,1,No
+District of Columbia,DC,Bank of America,Equifax,0.0958171770366075,Experian,1,No
+District of Columbia,DC,Bank of America,TransUnion,0.2482506853255763,Experian,1,No
+District of Columbia,DC,Citi,Experian,0.637605119035533,Experian,3,No
+District of Columbia,DC,Citi,Equifax,0.28151257732926216,Experian,3,No
+District of Columbia,DC,Citi,TransUnion,0.08088230363520478,Experian,3,No
+District of Columbia,DC,American Express,Experian,0.8967220491280689,Experian,4,No
+District of Columbia,DC,American Express,Equifax,0.053403282010034706,Experian,4,No
+District of Columbia,DC,American Express,TransUnion,0.04987466886189635,Experian,4,No
+District of Columbia,DC,U.S. Bank,Experian,0.2994159130872377,TransUnion,0,No
+District of Columbia,DC,U.S. Bank,Equifax,0.30050203750054083,TransUnion,0,No
+District of Columbia,DC,U.S. Bank,TransUnion,0.4000820494122216,TransUnion,0,No
+District of Columbia,DC,Wells Fargo,Experian,0.5371444130662723,Experian,0,No
+District of Columbia,DC,Wells Fargo,Equifax,0.20549987590001786,Experian,0,No
+District of Columbia,DC,Wells Fargo,TransUnion,0.2573557110337099,Experian,0,No
+District of Columbia,DC,Capital One,Experian,0.4452773615296021,Experian,0,No
+District of Columbia,DC,Capital One,Equifax,0.34093862746004705,Experian,0,No
+District of Columbia,DC,Capital One,TransUnion,0.21378401101035086,Experian,0,No
+District of Columbia,DC,Synchrony,Experian,0.35704740056619905,TransUnion,0,No
+District of Columbia,DC,Synchrony,Equifax,0.15056479975849837,TransUnion,0,No
+District of Columbia,DC,Synchrony,TransUnion,0.49238779967530255,TransUnion,0,No
+District of Columbia,DC,Discover,Experian,0.6747912517167157,Experian,0,No
+District of Columbia,DC,Discover,Equifax,0.2171040498364861,Experian,0,No
+District of Columbia,DC,Discover,TransUnion,0.10810469844679818,Experian,0,No
+District of Columbia,DC,Elan,Experian,0.2945296956678437,TransUnion,0,No
+District of Columbia,DC,Elan,Equifax,0.2415276626665167,TransUnion,0,No
+District of Columbia,DC,Elan,TransUnion,0.4639426416656395,TransUnion,0,No
+District of Columbia,DC,Navy Federal,Experian,0.2604656189670983,TransUnion,0,No
+District of Columbia,DC,Navy Federal,Equifax,0.19536187514032374,TransUnion,0,No
+District of Columbia,DC,Navy Federal,TransUnion,0.544172505892578,TransUnion,0,No
+District of Columbia,DC,Comenity / Bread,Experian,0.5123291095190496,Experian,0,No
+District of Columbia,DC,Comenity / Bread,Equifax,0.3770737709074854,Experian,0,No
+District of Columbia,DC,Comenity / Bread,TransUnion,0.11059711957346495,Experian,0,No
+District of Columbia,DC,Apple Card,Experian,0.20235000376864756,TransUnion,0,No
+District of Columbia,DC,Apple Card,Equifax,0.15766665988765746,TransUnion,0,No
+District of Columbia,DC,Apple Card,TransUnion,0.639983336343695,TransUnion,0,No
+District of Columbia,DC,Barclays,Experian,0.30938828829049736,TransUnion,0,No
+District of Columbia,DC,Barclays,Equifax,0.12003024872609427,TransUnion,0,No
+District of Columbia,DC,Barclays,TransUnion,0.5705814629834083,TransUnion,0,No
+Florida,FL,Chase,Experian,0.42509929341178987,Experian,189,Yes
+Florida,FL,Chase,Equifax,0.369333094593273,Experian,189,Yes
+Florida,FL,Chase,TransUnion,0.2055676119949371,Experian,189,Yes
+Florida,FL,Bank of America,Experian,0.6045086556618535,Experian,94,Yes
+Florida,FL,Bank of America,Equifax,0.13979653864412342,Experian,94,Yes
+Florida,FL,Bank of America,TransUnion,0.25569480569402303,Experian,94,Yes
+Florida,FL,Citi,Experian,0.4358895955203582,Equifax,142,Yes
+Florida,FL,Citi,Equifax,0.4823049704311916,Equifax,142,Yes
+Florida,FL,Citi,TransUnion,0.08180543404845013,Equifax,142,Yes
+Florida,FL,American Express,Experian,0.8811407960410317,Experian,303,Yes
+Florida,FL,American Express,Equifax,0.06159066483310113,Experian,303,Yes
+Florida,FL,American Express,TransUnion,0.05726853912586715,Experian,303,Yes
+Florida,FL,U.S. Bank,Experian,0.1459918445100027,Equifax,19,Yes
+Florida,FL,U.S. Bank,Equifax,0.49918761243024085,Equifax,19,Yes
+Florida,FL,U.S. Bank,TransUnion,0.35482054305975635,Equifax,19,Yes
+Florida,FL,Wells Fargo,Experian,0.4106686235335422,Equifax,40,Yes
+Florida,FL,Wells Fargo,Equifax,0.4180898094024349,Equifax,40,Yes
+Florida,FL,Wells Fargo,TransUnion,0.17124156706402296,Equifax,40,Yes
+Florida,FL,Capital One,Experian,0.3335788556645209,Equifax,4,Yes
+Florida,FL,Capital One,Equifax,0.44399224761938294,Equifax,4,Yes
+Florida,FL,Capital One,TransUnion,0.2224288967160962,Equifax,4,Yes
+Florida,FL,Synchrony,Experian,0.33124913535701084,TransUnion,5,Yes
+Florida,FL,Synchrony,Equifax,0.14763972845283918,TransUnion,5,Yes
+Florida,FL,Synchrony,TransUnion,0.52111113619015,TransUnion,5,Yes
+Florida,FL,Discover,Experian,0.5822335270966464,Experian,5,Yes
+Florida,FL,Discover,Equifax,0.31312528776564613,Experian,5,Yes
+Florida,FL,Discover,TransUnion,0.10464118513770738,Experian,5,Yes
+Florida,FL,Elan,Experian,0.19385646335251405,TransUnion,2,Yes
+Florida,FL,Elan,Equifax,0.32115442155449875,TransUnion,2,Yes
+Florida,FL,Elan,TransUnion,0.4849891150929872,TransUnion,2,Yes
+Florida,FL,Navy Federal,Experian,0.22052402951222064,TransUnion,3,Yes
+Florida,FL,Navy Federal,Equifax,0.2608409931523794,TransUnion,3,Yes
+Florida,FL,Navy Federal,TransUnion,0.5186349773354,TransUnion,3,Yes
+Florida,FL,Comenity / Bread,Experian,0.46136517200219207,Experian,1,Yes
+Florida,FL,Comenity / Bread,Equifax,0.4184118285560861,Experian,1,Yes
+Florida,FL,Comenity / Bread,TransUnion,0.12022299944172195,Experian,1,Yes
+Florida,FL,Apple Card,Experian,0.12558565627522802,TransUnion,2,Yes
+Florida,FL,Apple Card,Equifax,0.1562497032812199,TransUnion,2,Yes
+Florida,FL,Apple Card,TransUnion,0.7181646404435521,TransUnion,2,Yes
+Florida,FL,Barclays,Experian,0.19382808999584247,TransUnion,2,Yes
+Florida,FL,Barclays,Equifax,0.12590073722898706,TransUnion,2,Yes
+Florida,FL,Barclays,TransUnion,0.6802711727751705,TransUnion,2,Yes
+Georgia,GA,Chase,Experian,0.34645927842847596,Equifax,8,Yes
+Georgia,GA,Chase,Equifax,0.39382169747897483,Equifax,8,Yes
+Georgia,GA,Chase,TransUnion,0.25971902409254927,Equifax,8,Yes
+Georgia,GA,Bank of America,Experian,0.49927378459144073,Experian,9,Yes
+Georgia,GA,Bank of America,Equifax,0.10790534475141407,Experian,9,Yes
+Georgia,GA,Bank of America,TransUnion,0.39282087065714516,Experian,9,Yes
+Georgia,GA,Citi,Experian,0.5016378657292476,Experian,13,Yes
+Georgia,GA,Citi,Equifax,0.396658748205549,Experian,13,Yes
+Georgia,GA,Citi,TransUnion,0.10170338606520343,Experian,13,Yes
+Georgia,GA,American Express,Experian,0.7880803753696314,Experian,24,Yes
+Georgia,GA,American Express,Equifax,0.061997514406813906,Experian,24,Yes
+Georgia,GA,American Express,TransUnion,0.14992211022355473,Experian,24,Yes
+Georgia,GA,U.S. Bank,Experian,0.1907900930877435,TransUnion,10,Yes
+Georgia,GA,U.S. Bank,Equifax,0.3957263824795459,TransUnion,10,Yes
+Georgia,GA,U.S. Bank,TransUnion,0.4134835244327105,TransUnion,10,Yes
+Georgia,GA,Wells Fargo,Experian,0.24931255471488067,TransUnion,12,Yes
+Georgia,GA,Wells Fargo,Equifax,0.14997341407315515,TransUnion,12,Yes
+Georgia,GA,Wells Fargo,TransUnion,0.6007140312119642,TransUnion,12,Yes
+Georgia,GA,Capital One,Experian,0.26594625535787525,Equifax,1,Yes
+Georgia,GA,Capital One,Equifax,0.5044427223004636,Equifax,1,Yes
+Georgia,GA,Capital One,TransUnion,0.22961102234166114,Equifax,1,Yes
+Georgia,GA,Synchrony,Experian,0.19630485930726524,TransUnion,2,Yes
+Georgia,GA,Synchrony,Equifax,0.16454211375859978,TransUnion,2,Yes
+Georgia,GA,Synchrony,TransUnion,0.639153026934135,TransUnion,2,Yes
+Georgia,GA,Discover,Experian,0.4584609685935979,Experian,3,Yes
+Georgia,GA,Discover,Equifax,0.4113090979830989,Experian,3,Yes
+Georgia,GA,Discover,TransUnion,0.13022993342330316,Experian,3,Yes
+Georgia,GA,Elan,Experian,0.16500593158032617,TransUnion,2,Yes
+Georgia,GA,Elan,Equifax,0.3271261366507369,TransUnion,2,Yes
+Georgia,GA,Elan,TransUnion,0.507867931768937,TransUnion,2,Yes
+Georgia,GA,Navy Federal,Experian,0.14743711303552828,TransUnion,1,Yes
+Georgia,GA,Navy Federal,Equifax,0.21443131071684776,TransUnion,1,Yes
+Georgia,GA,Navy Federal,TransUnion,0.6381315762476238,TransUnion,1,Yes
+Georgia,GA,Comenity / Bread,Experian,0.34178721942399787,Equifax,3,Yes
+Georgia,GA,Comenity / Bread,Equifax,0.5430887747889787,Equifax,3,Yes
+Georgia,GA,Comenity / Bread,TransUnion,0.11512400578702332,Equifax,3,Yes
+Georgia,GA,Apple Card,Experian,0.11524766336142016,TransUnion,3,Yes
+Georgia,GA,Apple Card,Equifax,0.21749223006959423,TransUnion,3,Yes
+Georgia,GA,Apple Card,TransUnion,0.6672601065689856,TransUnion,3,Yes
+Georgia,GA,Barclays,Experian,0.22322944952732,TransUnion,3,Yes
+Georgia,GA,Barclays,Equifax,0.13491074466411324,TransUnion,3,Yes
+Georgia,GA,Barclays,TransUnion,0.6418598058085668,TransUnion,3,Yes
+Hawaii,HI,Chase,Experian,0.3875836167386716,Experian,1,Yes
+Hawaii,HI,Chase,Equifax,0.38431239150087254,Experian,1,Yes
+Hawaii,HI,Chase,TransUnion,0.2281039917604559,Experian,1,Yes
+Hawaii,HI,Bank of America,Experian,0.4043224301310198,Experian,2,Yes
+Hawaii,HI,Bank of America,Equifax,0.21304167080884812,Experian,2,Yes
+Hawaii,HI,Bank of America,TransUnion,0.38263589906013207,Experian,2,Yes
+Hawaii,HI,Citi,Experian,0.2449684917032684,Equifax,3,Yes
+Hawaii,HI,Citi,Equifax,0.6726119112190257,Equifax,3,Yes
+Hawaii,HI,Citi,TransUnion,0.08241959707770583,Equifax,3,Yes
+Hawaii,HI,American Express,Experian,0.872938278280499,Experian,1,Yes
+Hawaii,HI,American Express,Equifax,0.06593463056729082,Experian,1,Yes
+Hawaii,HI,American Express,TransUnion,0.06112709115221015,Experian,1,Yes
+Hawaii,HI,U.S. Bank,Experian,0.19405532771670758,Equifax,0,Yes
+Hawaii,HI,U.S. Bank,Equifax,0.4055775819545297,Equifax,0,Yes
+Hawaii,HI,U.S. Bank,TransUnion,0.4003670903287626,Equifax,0,Yes
+Hawaii,HI,Wells Fargo,Experian,0.394247039023771,Experian,0,Yes
+Hawaii,HI,Wells Fargo,Equifax,0.3140977095008881,Experian,0,Yes
+Hawaii,HI,Wells Fargo,TransUnion,0.2916552514753409,Experian,0,Yes
+Hawaii,HI,Capital One,Experian,0.3297993520979442,Equifax,3,Yes
+Hawaii,HI,Capital One,Equifax,0.4389774335253796,Equifax,3,Yes
+Hawaii,HI,Capital One,TransUnion,0.23122321437667614,Equifax,3,Yes
+Hawaii,HI,Synchrony,Experian,0.23188174522376176,TransUnion,2,Yes
+Hawaii,HI,Synchrony,Equifax,0.2609831926230638,TransUnion,2,Yes
+Hawaii,HI,Synchrony,TransUnion,0.5071350621531744,TransUnion,2,Yes
+Hawaii,HI,Discover,Experian,0.5215500111717946,Experian,0,Yes
+Hawaii,HI,Discover,Equifax,0.3494381105291525,Experian,0,Yes
+Hawaii,HI,Discover,TransUnion,0.12901187829905286,Experian,0,Yes
+Hawaii,HI,Elan,Experian,0.1945571700250373,TransUnion,0,Yes
+Hawaii,HI,Elan,Equifax,0.3322468396195601,TransUnion,0,Yes
+Hawaii,HI,Elan,TransUnion,0.4731959903554025,TransUnion,0,Yes
+Hawaii,HI,Navy Federal,Experian,0.17277728329886685,TransUnion,0,Yes
+Hawaii,HI,Navy Federal,Equifax,0.2698683035246488,TransUnion,0,Yes
+Hawaii,HI,Navy Federal,TransUnion,0.5573544131764844,TransUnion,0,Yes
+Hawaii,HI,Comenity / Bread,Experian,0.34891839822598364,Equifax,0,Yes
+Hawaii,HI,Comenity / Bread,Equifax,0.5347822572318148,Equifax,0,Yes
+Hawaii,HI,Comenity / Bread,TransUnion,0.11629934454220155,Equifax,0,Yes
+Hawaii,HI,Apple Card,Experian,0.12557025883467776,TransUnion,1,Yes
+Hawaii,HI,Apple Card,Equifax,0.1986599719996907,TransUnion,1,Yes
+Hawaii,HI,Apple Card,TransUnion,0.6757697691656315,TransUnion,1,Yes
+Hawaii,HI,Barclays,Experian,0.21480125671849992,TransUnion,0,Yes
+Hawaii,HI,Barclays,Equifax,0.17353995574260617,TransUnion,0,Yes
+Hawaii,HI,Barclays,TransUnion,0.6116587875388939,TransUnion,0,Yes
+Idaho,ID,Chase,Experian,0.487107879825773,Experian,1,No
+Idaho,ID,Chase,Equifax,0.20808527800279936,Experian,1,No
+Idaho,ID,Chase,TransUnion,0.3048068421714276,Experian,1,No
+Idaho,ID,Bank of America,Experian,0.6672224395388989,Experian,3,No
+Idaho,ID,Bank of America,Equifax,0.06241673586431502,Experian,3,No
+Idaho,ID,Bank of America,TransUnion,0.2703608245967861,Experian,3,No
+Idaho,ID,Citi,Experian,0.5732111281377804,Experian,1,No
+Idaho,ID,Citi,Equifax,0.28628948215211025,Experian,1,No
+Idaho,ID,Citi,TransUnion,0.14049938971010936,Experian,1,No
+Idaho,ID,American Express,Experian,0.9127501393084743,Experian,3,No
+Idaho,ID,American Express,Equifax,0.026073262440277103,Experian,3,No
+Idaho,ID,American Express,TransUnion,0.06117659825124859,Experian,3,No
+Idaho,ID,U.S. Bank,Experian,0.2583127487097099,TransUnion,0,No
+Idaho,ID,U.S. Bank,Equifax,0.20806993980587557,TransUnion,0,No
+Idaho,ID,U.S. Bank,TransUnion,0.5336173114844146,TransUnion,0,No
+Idaho,ID,Wells Fargo,Experian,0.488336281616191,Experian,0,No
+Idaho,ID,Wells Fargo,Equifax,0.14994446910501763,Experian,0,No
+Idaho,ID,Wells Fargo,TransUnion,0.36171924927879145,Experian,0,No
+Idaho,ID,Capital One,Experian,0.42430809039212264,Experian,0,No
+Idaho,ID,Capital One,Equifax,0.26074612521038254,Experian,0,No
+Idaho,ID,Capital One,TransUnion,0.3149457843974949,Experian,0,No
+Idaho,ID,Synchrony,Experian,0.2557233019353923,TransUnion,1,No
+Idaho,ID,Synchrony,Equifax,0.09091262146064448,TransUnion,1,No
+Idaho,ID,Synchrony,TransUnion,0.6533640766039633,TransUnion,1,No
+Idaho,ID,Discover,Experian,0.6345599135323139,Experian,2,No
+Idaho,ID,Discover,Equifax,0.16163047516243714,Experian,2,No
+Idaho,ID,Discover,TransUnion,0.20380961130524886,Experian,2,No
+Idaho,ID,Elan,Experian,0.24429483355928297,TransUnion,0,No
+Idaho,ID,Elan,Equifax,0.16078407455050317,TransUnion,0,No
+Idaho,ID,Elan,TransUnion,0.5949210918902138,TransUnion,0,No
+Idaho,ID,Navy Federal,Experian,0.20695665441198952,TransUnion,0,No
+Idaho,ID,Navy Federal,Equifax,0.12458328061029277,TransUnion,0,No
+Idaho,ID,Navy Federal,TransUnion,0.6684600649777177,TransUnion,0,No
+Idaho,ID,Comenity / Bread,Experian,0.5196319616092918,Experian,0,No
+Idaho,ID,Comenity / Bread,Equifax,0.3069475035395609,Experian,0,No
+Idaho,ID,Comenity / Bread,TransUnion,0.17342053485114742,Experian,0,No
+Idaho,ID,Apple Card,Experian,0.15349243850276648,TransUnion,0,No
+Idaho,ID,Apple Card,Equifax,0.09598748087931223,TransUnion,0,No
+Idaho,ID,Apple Card,TransUnion,0.7505200806179213,TransUnion,0,No
+Idaho,ID,Barclays,Experian,0.24023767796797713,TransUnion,0,No
+Idaho,ID,Barclays,Equifax,0.07480298276881527,TransUnion,0,No
+Idaho,ID,Barclays,TransUnion,0.6849593392632076,TransUnion,0,No
+Illinois,IL,Chase,Experian,0.41724064492986324,Experian,2,Yes
+Illinois,IL,Chase,Equifax,0.2468813874737131,Experian,2,Yes
+Illinois,IL,Chase,TransUnion,0.33587796759642374,Experian,2,Yes
+Illinois,IL,Bank of America,Experian,0.622689573794247,Experian,17,Yes
+Illinois,IL,Bank of America,Equifax,0.0825250429096587,Experian,17,Yes
+Illinois,IL,Bank of America,TransUnion,0.29478538329609416,Experian,17,Yes
+Illinois,IL,Citi,Experian,0.42491043539657436,Equifax,26,Yes
+Illinois,IL,Citi,Equifax,0.4785294418635212,Equifax,26,Yes
+Illinois,IL,Citi,TransUnion,0.09656012273990443,Equifax,26,Yes
+Illinois,IL,American Express,Experian,0.9239698424593585,Experian,19,Yes
+Illinois,IL,American Express,Equifax,0.028828073633996153,Experian,19,Yes
+Illinois,IL,American Express,TransUnion,0.04720208390664522,Experian,19,Yes
+Illinois,IL,U.S. Bank,Experian,0.1354727025401447,TransUnion,12,Yes
+Illinois,IL,U.S. Bank,Equifax,0.20761854843657127,TransUnion,12,Yes
+Illinois,IL,U.S. Bank,TransUnion,0.656908749023284,TransUnion,12,Yes
+Illinois,IL,Wells Fargo,Experian,0.43817895610973545,Experian,3,Yes
+Illinois,IL,Wells Fargo,Equifax,0.21920097703842484,Experian,3,Yes
+Illinois,IL,Wells Fargo,TransUnion,0.3426200668518397,Experian,3,Yes
+Illinois,IL,Capital One,Experian,0.37910611872376965,Experian,3,Yes
+Illinois,IL,Capital One,Equifax,0.32686413563631417,Experian,3,Yes
+Illinois,IL,Capital One,TransUnion,0.29402974563991613,Experian,3,Yes
+Illinois,IL,Synchrony,Experian,0.3166367140590412,TransUnion,2,Yes
+Illinois,IL,Synchrony,Equifax,0.11986098706438512,TransUnion,2,Yes
+Illinois,IL,Synchrony,TransUnion,0.5635022988765735,TransUnion,2,Yes
+Illinois,IL,Discover,Experian,0.6648988706149115,Experian,1,Yes
+Illinois,IL,Discover,Equifax,0.19650339232115197,Experian,1,Yes
+Illinois,IL,Discover,TransUnion,0.13859773706393655,Experian,1,Yes
+Illinois,IL,Elan,Experian,0.21199106214970354,TransUnion,1,Yes
+Illinois,IL,Elan,Equifax,0.18825381393638663,TransUnion,1,Yes
+Illinois,IL,Elan,TransUnion,0.5997551239139098,TransUnion,1,Yes
+Illinois,IL,Navy Federal,Experian,0.1830152606846055,TransUnion,1,Yes
+Illinois,IL,Navy Federal,Equifax,0.1490998875590752,TransUnion,1,Yes
+Illinois,IL,Navy Federal,TransUnion,0.6678848517563194,TransUnion,1,Yes
+Illinois,IL,Comenity / Bread,Experian,0.5280333971128126,Experian,1,Yes
+Illinois,IL,Comenity / Bread,Equifax,0.3296530720603978,Experian,1,Yes
+Illinois,IL,Comenity / Bread,TransUnion,0.14231353082678966,Experian,1,Yes
+Illinois,IL,Apple Card,Experian,0.1394218781785075,TransUnion,1,Yes
+Illinois,IL,Apple Card,Equifax,0.1175779708733947,TransUnion,1,Yes
+Illinois,IL,Apple Card,TransUnion,0.7430001509480978,TransUnion,1,Yes
+Illinois,IL,Barclays,Experian,0.2393463367843249,TransUnion,0,Yes
+Illinois,IL,Barclays,Equifax,0.09982122526977626,TransUnion,0,Yes
+Illinois,IL,Barclays,TransUnion,0.6608324379458989,TransUnion,0,Yes
+Indiana,IN,Chase,Experian,0.37713728585058276,TransUnion,5,Yes
+Indiana,IN,Chase,Equifax,0.21574750646256569,TransUnion,5,Yes
+Indiana,IN,Chase,TransUnion,0.4071152076868515,TransUnion,5,Yes
+Indiana,IN,Bank of America,Experian,0.5747214378780655,Experian,0,Yes
+Indiana,IN,Bank of America,Equifax,0.06842519551657233,Experian,0,Yes
+Indiana,IN,Bank of America,TransUnion,0.35685336660536215,Experian,0,Yes
+Indiana,IN,Citi,Experian,0.6460521557209196,Experian,5,Yes
+Indiana,IN,Citi,Equifax,0.21038613532653644,Experian,5,Yes
+Indiana,IN,Citi,TransUnion,0.14356170895254391,Experian,5,Yes
+Indiana,IN,American Express,Experian,0.9209086125518544,Experian,3,Yes
+Indiana,IN,American Express,Equifax,0.023720440001572834,Experian,3,Yes
+Indiana,IN,American Express,TransUnion,0.05537094744657272,Experian,3,Yes
+Indiana,IN,U.S. Bank,Experian,0.20769765221523506,TransUnion,3,Yes
+Indiana,IN,U.S. Bank,Equifax,0.1581743079329878,TransUnion,3,Yes
+Indiana,IN,U.S. Bank,TransUnion,0.634128039851777,TransUnion,3,Yes
+Indiana,IN,Wells Fargo,Experian,0.5172205021393703,Experian,0,Yes
+Indiana,IN,Wells Fargo,Equifax,0.14214241011039022,Experian,0,Yes
+Indiana,IN,Wells Fargo,TransUnion,0.3406370877502395,Experian,0,Yes
+Indiana,IN,Capital One,Experian,0.45046712860391436,Experian,3,Yes
+Indiana,IN,Capital One,Equifax,0.2642086116262994,Experian,3,Yes
+Indiana,IN,Capital One,TransUnion,0.2853242597697863,Experian,3,Yes
+Indiana,IN,Synchrony,Experian,0.277020588314738,TransUnion,1,Yes
+Indiana,IN,Synchrony,Equifax,0.08865877117360602,TransUnion,1,Yes
+Indiana,IN,Synchrony,TransUnion,0.6343206405116559,TransUnion,1,Yes
+Indiana,IN,Discover,Experian,0.655948121606199,Experian,2,Yes
+Indiana,IN,Discover,Equifax,0.19866011288065835,Experian,2,Yes
+Indiana,IN,Discover,TransUnion,0.14539176551314265,Experian,2,Yes
+Indiana,IN,Elan,Experian,0.23772769798315901,TransUnion,1,Yes
+Indiana,IN,Elan,Equifax,0.14397273906701896,TransUnion,1,Yes
+Indiana,IN,Elan,TransUnion,0.618299562949822,TransUnion,1,Yes
+Indiana,IN,Navy Federal,Experian,0.19111957231796523,TransUnion,2,Yes
+Indiana,IN,Navy Federal,Equifax,0.10654938494322799,TransUnion,2,Yes
+Indiana,IN,Navy Federal,TransUnion,0.7023310427388069,TransUnion,2,Yes
+Indiana,IN,Comenity / Bread,Experian,0.48445153863952556,Experian,1,Yes
+Indiana,IN,Comenity / Bread,Equifax,0.35724651342125424,Experian,1,Yes
+Indiana,IN,Comenity / Bread,TransUnion,0.15830194793922028,Experian,1,Yes
+Indiana,IN,Apple Card,Experian,0.16928481360648784,TransUnion,0,Yes
+Indiana,IN,Apple Card,Equifax,0.09475062699045618,TransUnion,0,Yes
+Indiana,IN,Apple Card,TransUnion,0.7359645594030559,TransUnion,0,Yes
+Indiana,IN,Barclays,Experian,0.26220982742649906,TransUnion,0,Yes
+Indiana,IN,Barclays,Equifax,0.07307406098532149,TransUnion,0,Yes
+Indiana,IN,Barclays,TransUnion,0.6647161115881794,TransUnion,0,Yes
+Iowa,IA,Chase,Experian,0.4182792993207262,Experian,3,Yes
+Iowa,IA,Chase,Equifax,0.34361586849841735,Experian,3,Yes
+Iowa,IA,Chase,TransUnion,0.23810483218085646,Experian,3,Yes
+Iowa,IA,Bank of America,Experian,0.6202096498458293,Experian,0,Yes
+Iowa,IA,Bank of America,Equifax,0.11584670130100949,Experian,0,Yes
+Iowa,IA,Bank of America,TransUnion,0.26394364885316124,Experian,0,Yes
+Iowa,IA,Citi,Experian,0.5897626137030783,Experian,2,Yes
+Iowa,IA,Citi,Equifax,0.3321409344651748,Experian,2,Yes
+Iowa,IA,Citi,TransUnion,0.0780964518317471,Experian,2,Yes
+Iowa,IA,American Express,Experian,0.9167904120366264,Experian,0,Yes
+Iowa,IA,American Express,Equifax,0.04056384676808584,Experian,0,Yes
+Iowa,IA,American Express,TransUnion,0.042645741195287704,Experian,0,Yes
+Iowa,IA,U.S. Bank,Experian,0.2458275099761118,Equifax,2,Yes
+Iowa,IA,U.S. Bank,Equifax,0.45626292853377853,Equifax,2,Yes
+Iowa,IA,U.S. Bank,TransUnion,0.2979095614901097,Equifax,2,Yes
+Iowa,IA,Wells Fargo,Experian,0.5767387801037465,Experian,1,Yes
+Iowa,IA,Wells Fargo,Equifax,0.20793828831686403,Experian,1,Yes
+Iowa,IA,Wells Fargo,TransUnion,0.21532293157938948,Experian,1,Yes
+Iowa,IA,Capital One,Experian,0.431922300070691,Experian,0,Yes
+Iowa,IA,Capital One,Equifax,0.3727049538250637,Experian,0,Yes
+Iowa,IA,Capital One,TransUnion,0.19537274610424532,Experian,0,Yes
+Iowa,IA,Synchrony,Experian,0.36042586477879307,TransUnion,0,Yes
+Iowa,IA,Synchrony,Equifax,0.17128820950407686,TransUnion,0,Yes
+Iowa,IA,Synchrony,TransUnion,0.46828592571713,TransUnion,0,Yes
+Iowa,IA,Discover,Experian,0.6607106736461669,Experian,0,Yes
+Iowa,IA,Discover,Equifax,0.23956520990521027,Experian,0,Yes
+Iowa,IA,Discover,TransUnion,0.09972411644862302,Experian,0,Yes
+Iowa,IA,Elan,Experian,0.29340819065655344,TransUnion,0,Yes
+Iowa,IA,Elan,Equifax,0.2711589655333032,TransUnion,0,Yes
+Iowa,IA,Elan,TransUnion,0.43543284381014336,TransUnion,0,Yes
+Iowa,IA,Navy Federal,Experian,0.26221773645820284,TransUnion,0,Yes
+Iowa,IA,Navy Federal,Equifax,0.2216488177547301,TransUnion,0,Yes
+Iowa,IA,Navy Federal,TransUnion,0.5161334457870671,TransUnion,0,Yes
+Iowa,IA,Comenity / Bread,Experian,0.491924543561316,Experian,0,Yes
+Iowa,IA,Comenity / Bread,Equifax,0.4080277761567561,Experian,0,Yes
+Iowa,IA,Comenity / Bread,TransUnion,0.10004768028192804,Experian,0,Yes
+Iowa,IA,Apple Card,Experian,0.20585199960150616,TransUnion,0,Yes
+Iowa,IA,Apple Card,Equifax,0.18076139561047955,TransUnion,0,Yes
+Iowa,IA,Apple Card,TransUnion,0.6133866047880143,TransUnion,0,Yes
+Iowa,IA,Barclays,Experian,0.3149872512700767,TransUnion,0,Yes
+Iowa,IA,Barclays,Equifax,0.13771896752260954,TransUnion,0,Yes
+Iowa,IA,Barclays,TransUnion,0.5472937812073138,TransUnion,0,Yes
+Kansas,KS,Chase,Experian,0.26776874092151715,TransUnion,1,Yes
+Kansas,KS,Chase,Equifax,0.3484082293615191,TransUnion,1,Yes
+Kansas,KS,Chase,TransUnion,0.3838230297169638,TransUnion,1,Yes
+Kansas,KS,Bank of America,Experian,0.3914142790708598,TransUnion,0,Yes
+Kansas,KS,Bank of America,Equifax,0.09685911026168711,TransUnion,0,Yes
+Kansas,KS,Bank of America,TransUnion,0.5117266106674531,TransUnion,0,Yes
+Kansas,KS,Citi,Experian,0.3738420021144426,Equifax,0,Yes
+Kansas,KS,Citi,Equifax,0.4241850903525626,Equifax,0,Yes
+Kansas,KS,Citi,TransUnion,0.201972907532995,Equifax,0,Yes
+Kansas,KS,American Express,Experian,0.8422737133990476,Experian,1,Yes
+Kansas,KS,American Express,Equifax,0.04656507753258696,Experian,1,Yes
+Kansas,KS,American Express,TransUnion,0.11116120906836537,Experian,1,Yes
+Kansas,KS,U.S. Bank,Experian,0.15708851995283363,TransUnion,0,Yes
+Kansas,KS,U.S. Bank,Equifax,0.23539085892935777,TransUnion,0,Yes
+Kansas,KS,U.S. Bank,TransUnion,0.6075206211178086,TransUnion,0,Yes
+Kansas,KS,Wells Fargo,Experian,0.3380759968903121,TransUnion,0,Yes
+Kansas,KS,Wells Fargo,Equifax,0.19311119048001146,TransUnion,0,Yes
+Kansas,KS,Wells Fargo,TransUnion,0.46881281262967645,TransUnion,0,Yes
+Kansas,KS,Capital One,Experian,0.2609735919316546,Equifax,1,Yes
+Kansas,KS,Capital One,Equifax,0.38595099359342977,Equifax,1,Yes
+Kansas,KS,Capital One,TransUnion,0.35307541447491564,Equifax,1,Yes
+Kansas,KS,Synchrony,Experian,0.16198025878790215,TransUnion,1,Yes
+Kansas,KS,Synchrony,Equifax,0.10374952645263477,TransUnion,1,Yes
+Kansas,KS,Synchrony,TransUnion,0.7342702147594631,TransUnion,1,Yes
+Kansas,KS,Discover,Experian,0.5143917048425914,Experian,0,Yes
+Kansas,KS,Discover,Equifax,0.24709561621172385,Experian,0,Yes
+Kansas,KS,Discover,TransUnion,0.23851267894568468,Experian,0,Yes
+Kansas,KS,Elan,Experian,0.14741766605783535,TransUnion,0,Yes
+Kansas,KS,Elan,Equifax,0.180492817296617,TransUnion,0,Yes
+Kansas,KS,Elan,TransUnion,0.6720895166455476,TransUnion,0,Yes
+Kansas,KS,Navy Federal,Experian,0.12244852527178968,TransUnion,0,Yes
+Kansas,KS,Navy Federal,Equifax,0.13712466249788896,TransUnion,0,Yes
+Kansas,KS,Navy Federal,TransUnion,0.7404268122303214,TransUnion,0,Yes
+Kansas,KS,Comenity / Bread,Experian,0.3671512002429456,Equifax,0,Yes
+Kansas,KS,Comenity / Bread,Equifax,0.40345476298688376,Equifax,0,Yes
+Kansas,KS,Comenity / Bread,TransUnion,0.2293940367701707,Equifax,0,Yes
+Kansas,KS,Apple Card,Experian,0.08836043681084754,TransUnion,0,Yes
+Kansas,KS,Apple Card,Equifax,0.10279384413927992,TransUnion,0,Yes
+Kansas,KS,Apple Card,TransUnion,0.8088457190498725,TransUnion,0,Yes
+Kansas,KS,Barclays,Experian,0.14457205740277826,TransUnion,0,Yes
+Kansas,KS,Barclays,Equifax,0.08374209096838722,TransUnion,0,Yes
+Kansas,KS,Barclays,TransUnion,0.7716858516288345,TransUnion,0,Yes
+Kentucky,KY,Chase,Experian,0.26649592591508625,TransUnion,3,Yes
+Kentucky,KY,Chase,Equifax,0.2798197643092237,TransUnion,3,Yes
+Kentucky,KY,Chase,TransUnion,0.45368430977568996,TransUnion,3,Yes
+Kentucky,KY,Bank of America,Experian,0.5070734382755203,Experian,5,Yes
+Kentucky,KY,Bank of America,Equifax,0.0771843703017965,Experian,5,Yes
+Kentucky,KY,Bank of America,TransUnion,0.4157421914226832,Experian,5,Yes
+Kentucky,KY,Citi,Experian,0.44012502503539996,Equifax,8,Yes
+Kentucky,KY,Citi,Equifax,0.4409230896231526,Equifax,8,Yes
+Kentucky,KY,Citi,TransUnion,0.11895188534144742,Equifax,8,Yes
+Kentucky,KY,American Express,Experian,0.8612573345184241,Experian,7,Yes
+Kentucky,KY,American Express,Equifax,0.03744648705736573,Experian,7,Yes
+Kentucky,KY,American Express,TransUnion,0.1012961784242101,Experian,7,Yes
+Kentucky,KY,U.S. Bank,Experian,0.19734836563506652,TransUnion,0,Yes
+Kentucky,KY,U.S. Bank,Equifax,0.23273489638763303,TransUnion,0,Yes
+Kentucky,KY,U.S. Bank,TransUnion,0.5699167379773005,TransUnion,0,Yes
+Kentucky,KY,Wells Fargo,Experian,0.4633058100703359,Experian,1,Yes
+Kentucky,KY,Wells Fargo,Equifax,0.16910721056099642,Experian,1,Yes
+Kentucky,KY,Wells Fargo,TransUnion,0.36758697936866774,Experian,1,Yes
+Kentucky,KY,Capital One,Experian,0.34044284207251896,TransUnion,0,Yes
+Kentucky,KY,Capital One,Equifax,0.30629875376017446,TransUnion,0,Yes
+Kentucky,KY,Capital One,TransUnion,0.3532584041673066,TransUnion,0,Yes
+Kentucky,KY,Synchrony,Experian,0.2010026222566586,TransUnion,1,Yes
+Kentucky,KY,Synchrony,Equifax,0.10258407341940647,TransUnion,1,Yes
+Kentucky,KY,Synchrony,TransUnion,0.696413304323935,TransUnion,1,Yes
+Kentucky,KY,Discover,Experian,0.600197135410692,Experian,3,Yes
+Kentucky,KY,Discover,Equifax,0.1819432389473595,Experian,3,Yes
+Kentucky,KY,Discover,TransUnion,0.21785962564194838,Experian,3,Yes
+Kentucky,KY,Elan,Experian,0.16880522436956144,TransUnion,1,Yes
+Kentucky,KY,Elan,Equifax,0.1630805382929745,TransUnion,1,Yes
+Kentucky,KY,Elan,TransUnion,0.6681142373374641,TransUnion,1,Yes
+Kentucky,KY,Navy Federal,Experian,0.15633117619902503,TransUnion,0,Yes
+Kentucky,KY,Navy Federal,Equifax,0.1377813497103988,TransUnion,0,Yes
+Kentucky,KY,Navy Federal,TransUnion,0.7058874740905762,TransUnion,0,Yes
+Kentucky,KY,Comenity / Bread,Experian,0.428929725794619,Experian,0,Yes
+Kentucky,KY,Comenity / Bread,Equifax,0.37095298162952417,Experian,0,Yes
+Kentucky,KY,Comenity / Bread,TransUnion,0.20011729257585695,Experian,0,Yes
+Kentucky,KY,Apple Card,Experian,0.10603489439017529,TransUnion,1,Yes
+Kentucky,KY,Apple Card,Equifax,0.09741885154413737,TransUnion,1,Yes
+Kentucky,KY,Apple Card,TransUnion,0.7965462540656874,TransUnion,1,Yes
+Kentucky,KY,Barclays,Experian,0.18376645892094645,TransUnion,0,Yes
+Kentucky,KY,Barclays,Equifax,0.0837738573011247,TransUnion,0,Yes
+Kentucky,KY,Barclays,TransUnion,0.7324596837779288,TransUnion,0,Yes
+Louisiana,LA,Chase,Experian,0.3190490052652725,Equifax,3,Yes
+Louisiana,LA,Chase,Equifax,0.368537043522455,Equifax,3,Yes
+Louisiana,LA,Chase,TransUnion,0.31241395121227256,Equifax,3,Yes
+Louisiana,LA,Bank of America,Experian,0.4005062514313245,TransUnion,4,Yes
+Louisiana,LA,Bank of America,Equifax,0.16040356766413538,TransUnion,4,Yes
+Louisiana,LA,Bank of America,TransUnion,0.4390901809045402,TransUnion,4,Yes
+Louisiana,LA,Citi,Experian,0.3025656897029447,Equifax,3,Yes
+Louisiana,LA,Citi,Equifax,0.48538113263111465,Equifax,3,Yes
+Louisiana,LA,Citi,TransUnion,0.2120531776659407,Equifax,3,Yes
+Louisiana,LA,American Express,Experian,0.8661658549448409,Experian,1,Yes
+Louisiana,LA,American Express,Equifax,0.05720919176185443,Experian,1,Yes
+Louisiana,LA,American Express,TransUnion,0.07662495329330482,Experian,1,Yes
+Louisiana,LA,U.S. Bank,Experian,0.1782141662727741,TransUnion,1,Yes
+Louisiana,LA,U.S. Bank,Equifax,0.39967798661718795,TransUnion,1,Yes
+Louisiana,LA,U.S. Bank,TransUnion,0.42210784711003785,TransUnion,1,Yes
+Louisiana,LA,Wells Fargo,Experian,0.4959337369827077,Experian,2,Yes
+Louisiana,LA,Wells Fargo,Equifax,0.22186821973944282,Experian,2,Yes
+Louisiana,LA,Wells Fargo,TransUnion,0.28219804327784936,Experian,2,Yes
+Louisiana,LA,Capital One,Experian,0.3054936327117892,Equifax,0,Yes
+Louisiana,LA,Capital One,Equifax,0.41506581652646485,Equifax,0,Yes
+Louisiana,LA,Capital One,TransUnion,0.279440550761746,Equifax,0,Yes
+Louisiana,LA,Synchrony,Experian,0.22853634129182757,TransUnion,0,Yes
+Louisiana,LA,Synchrony,Equifax,0.1710102168621738,TransUnion,0,Yes
+Louisiana,LA,Synchrony,TransUnion,0.6004534418459987,TransUnion,0,Yes
+Louisiana,LA,Discover,Experian,0.5330111304913628,Experian,0,Yes
+Louisiana,LA,Discover,Equifax,0.304301414774098,Experian,0,Yes
+Louisiana,LA,Discover,TransUnion,0.1626874547345393,Experian,0,Yes
+Louisiana,LA,Elan,Experian,0.18327674974954292,TransUnion,0,Yes
+Louisiana,LA,Elan,Equifax,0.26669469469928764,TransUnion,0,Yes
+Louisiana,LA,Elan,TransUnion,0.5500285555511694,TransUnion,0,Yes
+Louisiana,LA,Navy Federal,Experian,0.1584444559260367,TransUnion,0,Yes
+Louisiana,LA,Navy Federal,Equifax,0.21088013428958677,TransUnion,0,Yes
+Louisiana,LA,Navy Federal,TransUnion,0.6306754097843765,TransUnion,0,Yes
+Louisiana,LA,Comenity / Bread,Experian,0.3680137377193893,Equifax,0,Yes
+Louisiana,LA,Comenity / Bread,Equifax,0.48062962333549775,Equifax,0,Yes
+Louisiana,LA,Comenity / Bread,TransUnion,0.15135663894511311,Equifax,0,Yes
+Louisiana,LA,Apple Card,Experian,0.11892956703807751,TransUnion,0,Yes
+Louisiana,LA,Apple Card,Equifax,0.1644355443900222,TransUnion,0,Yes
+Louisiana,LA,Apple Card,TransUnion,0.7166348885719004,TransUnion,0,Yes
+Louisiana,LA,Barclays,Experian,0.19223163181238745,TransUnion,0,Yes
+Louisiana,LA,Barclays,Equifax,0.13233688292020546,TransUnion,0,Yes
+Louisiana,LA,Barclays,TransUnion,0.675431485267407,TransUnion,0,Yes
+Maine,ME,Chase,Experian,0.37491379222354954,TransUnion,2,No
+Maine,ME,Chase,Equifax,0.24458425113718846,TransUnion,2,No
+Maine,ME,Chase,TransUnion,0.380501956639262,TransUnion,2,No
+Maine,ME,Bank of America,Experian,0.4769102284429399,Experian,0,No
+Maine,ME,Bank of America,Equifax,0.09598851488321244,Experian,0,No
+Maine,ME,Bank of America,TransUnion,0.4271012566738477,Experian,0,No
+Maine,ME,Citi,Experian,0.36118943393125114,Equifax,2,No
+Maine,ME,Citi,Equifax,0.4397658442874934,Equifax,2,No
+Maine,ME,Citi,TransUnion,0.1990447217812555,Equifax,2,No
+Maine,ME,American Express,Experian,0.8729322966484876,Experian,0,No
+Maine,ME,American Express,Equifax,0.04161856628867329,Experian,0,No
+Maine,ME,American Express,TransUnion,0.08544913706283908,Experian,0,No
+Maine,ME,U.S. Bank,Experian,0.20542553833100632,TransUnion,0,No
+Maine,ME,U.S. Bank,Equifax,0.25036776041959286,TransUnion,0,No
+Maine,ME,U.S. Bank,TransUnion,0.5442067012494008,TransUnion,0,No
+Maine,ME,Wells Fargo,Experian,0.4141657123580804,Experian,0,No
+Maine,ME,Wells Fargo,Equifax,0.1924181659890763,Experian,0,No
+Maine,ME,Wells Fargo,TransUnion,0.3934161216528433,Experian,0,No
+Maine,ME,Capital One,Experian,0.3470184815924243,Experian,0,No
+Maine,ME,Capital One,Equifax,0.3226633406436388,Experian,0,No
+Maine,ME,Capital One,TransUnion,0.3303181777639369,Experian,0,No
+Maine,ME,Synchrony,Experian,0.23550426920899606,TransUnion,0,No
+Maine,ME,Synchrony,Equifax,0.12060013323008031,TransUnion,0,No
+Maine,ME,Synchrony,TransUnion,0.6438955975609237,TransUnion,0,No
+Maine,ME,Discover,Experian,0.5853677807728157,Experian,0,No
+Maine,ME,Discover,Equifax,0.2287066138213011,Experian,0,No
+Maine,ME,Discover,TransUnion,0.1859256054058832,Experian,0,No
+Maine,ME,Elan,Experian,0.19535720775296675,TransUnion,0,No
+Maine,ME,Elan,Equifax,0.1945443655151759,TransUnion,0,No
+Maine,ME,Elan,TransUnion,0.6100984267318574,TransUnion,0,No
+Maine,ME,Navy Federal,Experian,0.16520881724785635,TransUnion,0,No
+Maine,ME,Navy Federal,Equifax,0.15047836359915634,TransUnion,0,No
+Maine,ME,Navy Federal,TransUnion,0.6843128191529874,TransUnion,0,No
+Maine,ME,Comenity / Bread,Experian,0.4307072675300616,Experian,0,No
+Maine,ME,Comenity / Bread,Equifax,0.3849558462437831,Experian,0,No
+Maine,ME,Comenity / Bread,TransUnion,0.18433688622615524,Experian,0,No
+Maine,ME,Apple Card,Experian,0.12170350663778651,TransUnion,0,No
+Maine,ME,Apple Card,Equifax,0.1151572194852598,TransUnion,0,No
+Maine,ME,Apple Card,TransUnion,0.7631392738769537,TransUnion,0,No
+Maine,ME,Barclays,Experian,0.1950272665962607,TransUnion,0,No
+Maine,ME,Barclays,Equifax,0.09188266817515942,TransUnion,0,No
+Maine,ME,Barclays,TransUnion,0.7130900652285799,TransUnion,0,No
+Maryland,MD,Chase,Experian,0.3839344559018112,Equifax,6,Yes
+Maryland,MD,Chase,Equifax,0.39891947801526234,Equifax,6,Yes
+Maryland,MD,Chase,TransUnion,0.21714606608292641,Equifax,6,Yes
+Maryland,MD,Bank of America,Experian,0.49420723103606723,Experian,5,Yes
+Maryland,MD,Bank of America,Equifax,0.10051607315800697,Experian,5,Yes
+Maryland,MD,Bank of America,TransUnion,0.40527669580592585,Experian,5,Yes
+Maryland,MD,Citi,Experian,0.5351204776219057,Experian,11,Yes
+Maryland,MD,Citi,Equifax,0.3898442942457778,Experian,11,Yes
+Maryland,MD,Citi,TransUnion,0.07503522813231649,Experian,11,Yes
+Maryland,MD,American Express,Experian,0.9222349100640512,Experian,8,Yes
+Maryland,MD,American Express,Equifax,0.03493058578172218,Experian,8,Yes
+Maryland,MD,American Express,TransUnion,0.04283450415422651,Experian,8,Yes
+Maryland,MD,U.S. Bank,Experian,0.2334020529277213,Equifax,1,Yes
+Maryland,MD,U.S. Bank,Equifax,0.3856710687456571,Equifax,1,Yes
+Maryland,MD,U.S. Bank,TransUnion,0.3809268783266217,Equifax,1,Yes
+Maryland,MD,Wells Fargo,Experian,0.47640925139070917,Experian,0,Yes
+Maryland,MD,Wells Fargo,Equifax,0.23124265595002425,Experian,0,Yes
+Maryland,MD,Wells Fargo,TransUnion,0.29234809265926665,Experian,0,Yes
+Maryland,MD,Capital One,Experian,0.3866441209559913,Experian,0,Yes
+Maryland,MD,Capital One,Equifax,0.37559885977767316,Experian,0,Yes
+Maryland,MD,Capital One,TransUnion,0.2377570192663355,Experian,0,Yes
+Maryland,MD,Synchrony,Experian,0.2814097907323864,TransUnion,6,Yes
+Maryland,MD,Synchrony,Equifax,0.16544096151583684,TransUnion,6,Yes
+Maryland,MD,Synchrony,TransUnion,0.5531492477517768,TransUnion,6,Yes
+Maryland,MD,Discover,Experian,0.6198162389402005,Experian,0,Yes
+Maryland,MD,Discover,Equifax,0.25300476057234156,Experian,0,Yes
+Maryland,MD,Discover,TransUnion,0.12717900048745784,Experian,0,Yes
+Maryland,MD,Elan,Experian,0.23479918170142147,TransUnion,1,Yes
+Maryland,MD,Elan,Equifax,0.3198127005216201,TransUnion,1,Yes
+Maryland,MD,Elan,TransUnion,0.4453881177769584,TransUnion,1,Yes
+Maryland,MD,Navy Federal,Experian,0.21610100626714315,TransUnion,0,Yes
+Maryland,MD,Navy Federal,Equifax,0.20564277720045834,TransUnion,0,Yes
+Maryland,MD,Navy Federal,TransUnion,0.5782562165323986,TransUnion,0,Yes
+Maryland,MD,Comenity / Bread,Experian,0.470257516652888,Experian,2,Yes
+Maryland,MD,Comenity / Bread,Equifax,0.4194363343711588,Experian,2,Yes
+Maryland,MD,Comenity / Bread,TransUnion,0.11030614897595314,Experian,2,Yes
+Maryland,MD,Apple Card,Experian,0.15522184501106598,TransUnion,1,Yes
+Maryland,MD,Apple Card,Equifax,0.15210811921044223,TransUnion,1,Yes
+Maryland,MD,Apple Card,TransUnion,0.6926700357784918,TransUnion,1,Yes
+Maryland,MD,Barclays,Experian,0.23968573612309807,TransUnion,1,Yes
+Maryland,MD,Barclays,Equifax,0.11968167491070986,TransUnion,1,Yes
+Maryland,MD,Barclays,TransUnion,0.640632588966192,TransUnion,1,Yes
+Massachusetts,MA,Chase,Experian,0.5268699127254799,Experian,4,No
+Massachusetts,MA,Chase,Equifax,0.26447059050802524,Experian,4,No
+Massachusetts,MA,Chase,TransUnion,0.20865949676649478,Experian,4,No
+Massachusetts,MA,Bank of America,Experian,0.7156883467114713,Experian,12,No
+Massachusetts,MA,Bank of America,Equifax,0.06253184031277755,Experian,12,No
+Massachusetts,MA,Bank of America,TransUnion,0.22177981297575114,Experian,12,No
+Massachusetts,MA,Citi,Experian,0.5337070180803913,Experian,10,No
+Massachusetts,MA,Citi,Equifax,0.3817111562221747,Experian,10,No
+Massachusetts,MA,Citi,TransUnion,0.08458182569743387,Experian,10,No
+Massachusetts,MA,American Express,Experian,0.9512006017157533,Experian,12,No
+Massachusetts,MA,American Express,Equifax,0.02222316925005175,Experian,12,No
+Massachusetts,MA,American Express,TransUnion,0.026576229034195077,Experian,12,No
+Massachusetts,MA,U.S. Bank,Experian,0.4462732196884035,Experian,3,No
+Massachusetts,MA,U.S. Bank,Equifax,0.28279168368854396,Experian,3,No
+Massachusetts,MA,U.S. Bank,TransUnion,0.27093509662305254,Experian,3,No
+Massachusetts,MA,Wells Fargo,Experian,0.5931652913661942,Experian,2,No
+Massachusetts,MA,Wells Fargo,Equifax,0.15996229106079715,Experian,2,No
+Massachusetts,MA,Wells Fargo,TransUnion,0.24687241757300865,Experian,2,No
+Massachusetts,MA,Capital One,Experian,0.4800772537503152,Experian,3,No
+Massachusetts,MA,Capital One,Equifax,0.3117731840414625,Experian,3,No
+Massachusetts,MA,Capital One,TransUnion,0.20814956220822237,Experian,3,No
+Massachusetts,MA,Synchrony,Experian,0.49810894019887203,Experian,1,No
+Massachusetts,MA,Synchrony,Equifax,0.12702458014314227,Experian,1,No
+Massachusetts,MA,Synchrony,TransUnion,0.37486647965798564,Experian,1,No
+Massachusetts,MA,Discover,Experian,0.7624151572042345,Experian,1,No
+Massachusetts,MA,Discover,Equifax,0.158899340978457,Experian,1,No
+Massachusetts,MA,Discover,TransUnion,0.07868550181730852,Experian,1,No
+Massachusetts,MA,Elan,Experian,0.43066577781881826,Experian,1,No
+Massachusetts,MA,Elan,Equifax,0.20474540734677754,Experian,1,No
+Massachusetts,MA,Elan,TransUnion,0.3645888148344042,Experian,1,No
+Massachusetts,MA,Navy Federal,Experian,0.29264002765115577,TransUnion,1,No
+Massachusetts,MA,Navy Federal,Equifax,0.16606601067791057,TransUnion,1,No
+Massachusetts,MA,Navy Federal,TransUnion,0.5412939616709336,TransUnion,1,No
+Massachusetts,MA,Comenity / Bread,Experian,0.5092832077960467,Experian,3,No
+Massachusetts,MA,Comenity / Bread,Equifax,0.4060045466902133,Experian,3,No
+Massachusetts,MA,Comenity / Bread,TransUnion,0.08471224551374006,Experian,3,No
+Massachusetts,MA,Apple Card,Experian,0.2345986840947702,TransUnion,1,No
+Massachusetts,MA,Apple Card,Equifax,0.13707295725204563,TransUnion,1,No
+Massachusetts,MA,Apple Card,TransUnion,0.6283283586531841,TransUnion,1,No
+Massachusetts,MA,Barclays,Experian,0.3863769841486504,TransUnion,0,No
+Massachusetts,MA,Barclays,Equifax,0.10920631001538415,TransUnion,0,No
+Massachusetts,MA,Barclays,TransUnion,0.5044167058359654,TransUnion,0,No
+Michigan,MI,Chase,Experian,0.36565050561006074,Experian,3,No
+Michigan,MI,Chase,Equifax,0.3281103550510647,Experian,3,No
+Michigan,MI,Chase,TransUnion,0.30623913933887453,Experian,3,No
+Michigan,MI,Bank of America,Experian,0.4167435305128174,TransUnion,4,No
+Michigan,MI,Bank of America,Equifax,0.09733552187956052,TransUnion,4,No
+Michigan,MI,Bank of America,TransUnion,0.4859209476076221,TransUnion,4,No
+Michigan,MI,Citi,Experian,0.4577930618140317,Experian,19,No
+Michigan,MI,Citi,Equifax,0.4420244625463048,Experian,19,No
+Michigan,MI,Citi,TransUnion,0.10018247563966351,Experian,19,No
+Michigan,MI,American Express,Experian,0.9168470409535104,Experian,9,No
+Michigan,MI,American Express,Equifax,0.033983749501266224,Experian,9,No
+Michigan,MI,American Express,TransUnion,0.0491692095452234,Experian,9,No
+Michigan,MI,U.S. Bank,Experian,0.20857552475077,TransUnion,1,No
+Michigan,MI,U.S. Bank,Equifax,0.2650849743568282,TransUnion,1,No
+Michigan,MI,U.S. Bank,TransUnion,0.5263395008924018,TransUnion,1,No
+Michigan,MI,Wells Fargo,Experian,0.4080807978842133,Experian,1,No
+Michigan,MI,Wells Fargo,Equifax,0.28040657421874593,Experian,1,No
+Michigan,MI,Wells Fargo,TransUnion,0.31151262789704076,Experian,1,No
+Michigan,MI,Capital One,Experian,0.3674036968771668,Experian,0,No
+Michigan,MI,Capital One,Equifax,0.3592130867519694,Experian,0,No
+Michigan,MI,Capital One,TransUnion,0.2733832163708639,Experian,0,No
+Michigan,MI,Synchrony,Experian,0.27205205477340566,TransUnion,0,No
+Michigan,MI,Synchrony,Equifax,0.14649156588760762,TransUnion,0,No
+Michigan,MI,Synchrony,TransUnion,0.5814563793389868,TransUnion,0,No
+Michigan,MI,Discover,Experian,0.5354512062276975,Experian,1,No
+Michigan,MI,Discover,Equifax,0.3153994174923631,Experian,1,No
+Michigan,MI,Discover,TransUnion,0.14914937627993938,Experian,1,No
+Michigan,MI,Elan,Experian,0.22279564783973088,TransUnion,0,No
+Michigan,MI,Elan,Equifax,0.23329612670147978,TransUnion,0,No
+Michigan,MI,Elan,TransUnion,0.5439082254587894,TransUnion,0,No
+Michigan,MI,Navy Federal,Experian,0.19246688691325117,TransUnion,0,No
+Michigan,MI,Navy Federal,Equifax,0.1843352818185131,TransUnion,0,No
+Michigan,MI,Navy Federal,TransUnion,0.6231978312682357,TransUnion,0,No
+Michigan,MI,Comenity / Bread,Experian,0.4396814179606422,Experian,0,No
+Michigan,MI,Comenity / Bread,Equifax,0.41321724611364447,Experian,0,No
+Michigan,MI,Comenity / Bread,TransUnion,0.1471013359257133,Experian,0,No
+Michigan,MI,Apple Card,Experian,0.14499742966446857,TransUnion,0,No
+Michigan,MI,Apple Card,Equifax,0.14426467104333188,TransUnion,0,No
+Michigan,MI,Apple Card,TransUnion,0.7107378992921995,TransUnion,0,No
+Michigan,MI,Barclays,Experian,0.22969363437158868,TransUnion,0,No
+Michigan,MI,Barclays,Equifax,0.11378862026250466,TransUnion,0,No
+Michigan,MI,Barclays,TransUnion,0.6565177453659066,TransUnion,0,No
+Minnesota,MN,Chase,Experian,0.49458638687413264,Experian,2,No
+Minnesota,MN,Chase,Equifax,0.3071049119530548,Experian,2,No
+Minnesota,MN,Chase,TransUnion,0.19830870117281255,Experian,2,No
+Minnesota,MN,Bank of America,Experian,0.6691856239507069,Experian,3,No
+Minnesota,MN,Bank of America,Equifax,0.11239648278770907,Experian,3,No
+Minnesota,MN,Bank of America,TransUnion,0.21841789326158403,Experian,3,No
+Minnesota,MN,Citi,Experian,0.43685912191937054,Equifax,6,No
+Minnesota,MN,Citi,Equifax,0.4862739001429255,Equifax,6,No
+Minnesota,MN,Citi,TransUnion,0.07686697793770393,Equifax,6,No
+Minnesota,MN,American Express,Experian,0.9365073851002753,Experian,4,No
+Minnesota,MN,American Express,Equifax,0.02740115797075068,Experian,4,No
+Minnesota,MN,American Express,TransUnion,0.03609145692897402,Experian,4,No
+Minnesota,MN,U.S. Bank,Experian,0.29647921692065776,TransUnion,4,No
+Minnesota,MN,U.S. Bank,Equifax,0.20703874275308257,TransUnion,4,No
+Minnesota,MN,U.S. Bank,TransUnion,0.49648204032625964,TransUnion,4,No
+Minnesota,MN,Wells Fargo,Experian,0.6994491659801376,Experian,4,No
+Minnesota,MN,Wells Fargo,Equifax,0.13314713982152726,Experian,4,No
+Minnesota,MN,Wells Fargo,TransUnion,0.16740369419833517,Experian,4,No
+Minnesota,MN,Capital One,Experian,0.4866401418773548,Experian,0,No
+Minnesota,MN,Capital One,Equifax,0.30808102450126007,Experian,0,No
+Minnesota,MN,Capital One,TransUnion,0.20527883362138516,Experian,0,No
+Minnesota,MN,Synchrony,Experian,0.34338534148776756,TransUnion,1,No
+Minnesota,MN,Synchrony,Equifax,0.1275530239676764,TransUnion,1,No
+Minnesota,MN,Synchrony,TransUnion,0.529061634544556,TransUnion,1,No
+Minnesota,MN,Discover,Experian,0.7352648666104586,Experian,1,No
+Minnesota,MN,Discover,Equifax,0.1717406631160537,Experian,1,No
+Minnesota,MN,Discover,TransUnion,0.09299447027348773,Experian,1,No
+Minnesota,MN,Elan,Experian,0.3265838258618216,TransUnion,0,No
+Minnesota,MN,Elan,Equifax,0.22143378790004364,TransUnion,0,No
+Minnesota,MN,Elan,TransUnion,0.45198238623813475,TransUnion,0,No
+Minnesota,MN,Navy Federal,Experian,0.289372374495943,TransUnion,0,No
+Minnesota,MN,Navy Federal,Equifax,0.1794559675476796,TransUnion,0,No
+Minnesota,MN,Navy Federal,TransUnion,0.5311716579563774,TransUnion,0,No
+Minnesota,MN,Comenity / Bread,Experian,0.5561104039701245,Experian,0,No
+Minnesota,MN,Comenity / Bread,Equifax,0.3384151046175272,Experian,0,No
+Minnesota,MN,Comenity / Bread,TransUnion,0.10547449141234826,Experian,0,No
+Minnesota,MN,Apple Card,Experian,0.20335166530166876,TransUnion,1,No
+Minnesota,MN,Apple Card,Equifax,0.1336683704162923,TransUnion,1,No
+Minnesota,MN,Apple Card,TransUnion,0.662979964282039,TransUnion,1,No
+Minnesota,MN,Barclays,Experian,0.30002001787658006,TransUnion,1,No
+Minnesota,MN,Barclays,Equifax,0.10188940877223523,TransUnion,1,No
+Minnesota,MN,Barclays,TransUnion,0.5980905733511847,TransUnion,1,No
+Mississippi,MS,Chase,Experian,0.3050706233511246,Equifax,1,No
+Mississippi,MS,Chase,Equifax,0.3716173438774957,Equifax,1,No
+Mississippi,MS,Chase,TransUnion,0.32331203277137976,Equifax,1,No
+Mississippi,MS,Bank of America,Experian,0.5919740934636031,Experian,2,No
+Mississippi,MS,Bank of America,Equifax,0.13375886217453542,Experian,2,No
+Mississippi,MS,Bank of America,TransUnion,0.2742670443618615,Experian,2,No
+Mississippi,MS,Citi,Experian,0.37004255917244205,Equifax,0,No
+Mississippi,MS,Citi,Equifax,0.5231820378986957,Equifax,0,No
+Mississippi,MS,Citi,TransUnion,0.10677540292886228,Equifax,0,No
+Mississippi,MS,American Express,Experian,0.7905146200628105,Experian,4,No
+Mississippi,MS,American Express,Equifax,0.1306595384143927,Experian,4,No
+Mississippi,MS,American Express,TransUnion,0.07882584152279681,Experian,4,No
+Mississippi,MS,U.S. Bank,Experian,0.20272966991614788,TransUnion,0,No
+Mississippi,MS,U.S. Bank,Equifax,0.37852651189371506,TransUnion,0,No
+Mississippi,MS,U.S. Bank,TransUnion,0.41874381819013706,TransUnion,0,No
+Mississippi,MS,Wells Fargo,Experian,0.4077677590224618,Experian,0,No
+Mississippi,MS,Wells Fargo,Equifax,0.2902283495162243,Experian,0,No
+Mississippi,MS,Wells Fargo,TransUnion,0.30200389146131384,Experian,0,No
+Mississippi,MS,Capital One,Experian,0.3157928684869025,Equifax,0,No
+Mississippi,MS,Capital One,Equifax,0.4498361542362256,Equifax,0,No
+Mississippi,MS,Capital One,TransUnion,0.23437097727687187,Equifax,0,No
+Mississippi,MS,Synchrony,Experian,0.25534435510939935,TransUnion,0,No
+Mississippi,MS,Synchrony,Equifax,0.20032275450824613,TransUnion,0,No
+Mississippi,MS,Synchrony,TransUnion,0.5443328903823544,TransUnion,0,No
+Mississippi,MS,Discover,Experian,0.5416523624893822,Experian,0,No
+Mississippi,MS,Discover,Equifax,0.3242093754522834,Experian,0,No
+Mississippi,MS,Discover,TransUnion,0.13413826205833435,Experian,0,No
+Mississippi,MS,Elan,Experian,0.2015895718933748,TransUnion,0,No
+Mississippi,MS,Elan,Equifax,0.3075475694349909,TransUnion,0,No
+Mississippi,MS,Elan,TransUnion,0.4908628586716344,TransUnion,0,No
+Mississippi,MS,Navy Federal,Experian,0.1777793937235306,TransUnion,0,No
+Mississippi,MS,Navy Federal,Equifax,0.24807173109882172,TransUnion,0,No
+Mississippi,MS,Navy Federal,TransUnion,0.5741488751776477,TransUnion,0,No
+Mississippi,MS,Comenity / Bread,Experian,0.3699661962747447,Equifax,0,No
+Mississippi,MS,Comenity / Bread,Equifax,0.5065773676268973,Equifax,0,No
+Mississippi,MS,Comenity / Bread,TransUnion,0.12345643609835796,Equifax,0,No
+Mississippi,MS,Apple Card,Experian,0.13626560298097512,TransUnion,0,No
+Mississippi,MS,Apple Card,Equifax,0.19752830610268007,TransUnion,0,No
+Mississippi,MS,Apple Card,TransUnion,0.6662060909163448,TransUnion,0,No
+Mississippi,MS,Barclays,Experian,0.21869459639070515,TransUnion,0,No
+Mississippi,MS,Barclays,Equifax,0.15784518387208243,TransUnion,0,No
+Mississippi,MS,Barclays,TransUnion,0.6234602197372124,TransUnion,0,No
+Missouri,MO,Chase,Experian,0.45471694197223383,Experian,4,Yes
+Missouri,MO,Chase,Equifax,0.2961812384785014,Experian,4,Yes
+Missouri,MO,Chase,TransUnion,0.2491018195492648,Experian,4,Yes
+Missouri,MO,Bank of America,Experian,0.6238675830187602,Experian,1,Yes
+Missouri,MO,Bank of America,Equifax,0.09988474502083886,Experian,1,Yes
+Missouri,MO,Bank of America,TransUnion,0.27624767196040084,Experian,1,Yes
+Missouri,MO,Citi,Experian,0.5337567977315766,Experian,5,Yes
+Missouri,MO,Citi,Equifax,0.3440287883405236,Experian,5,Yes
+Missouri,MO,Citi,TransUnion,0.12221441392789976,Experian,5,Yes
+Missouri,MO,American Express,Experian,0.9160648205207328,Experian,3,Yes
+Missouri,MO,American Express,Equifax,0.03600291780855945,Experian,3,Yes
+Missouri,MO,American Express,TransUnion,0.04793226167070768,Experian,3,Yes
+Missouri,MO,U.S. Bank,Experian,0.2510221417456845,TransUnion,1,Yes
+Missouri,MO,U.S. Bank,Equifax,0.3662175011980094,TransUnion,1,Yes
+Missouri,MO,U.S. Bank,TransUnion,0.38276035705630607,TransUnion,1,Yes
+Missouri,MO,Wells Fargo,Experian,0.5014653746449214,Experian,0,Yes
+Missouri,MO,Wells Fargo,Equifax,0.21252102909473602,Experian,0,Yes
+Missouri,MO,Wells Fargo,TransUnion,0.2860135962603427,Experian,0,Yes
+Missouri,MO,Capital One,Experian,0.41780776444320866,Experian,3,Yes
+Missouri,MO,Capital One,Equifax,0.34393577009959037,Experian,3,Yes
+Missouri,MO,Capital One,TransUnion,0.2382564654572009,Experian,3,Yes
+Missouri,MO,Synchrony,Experian,0.3216680703447301,TransUnion,0,Yes
+Missouri,MO,Synchrony,Equifax,0.15026090050336935,TransUnion,0,Yes
+Missouri,MO,Synchrony,TransUnion,0.5280710291519005,TransUnion,0,Yes
+Missouri,MO,Discover,Experian,0.6463651731573887,Experian,0,Yes
+Missouri,MO,Discover,Equifax,0.23036520757865395,Experian,0,Yes
+Missouri,MO,Discover,TransUnion,0.12326961926395742,Experian,0,Yes
+Missouri,MO,Elan,Experian,0.25164998998596927,TransUnion,1,Yes
+Missouri,MO,Elan,Equifax,0.3024169733974665,TransUnion,1,Yes
+Missouri,MO,Elan,TransUnion,0.4459330366165642,TransUnion,1,Yes
+Missouri,MO,Navy Federal,Experian,0.21885452188280213,TransUnion,2,Yes
+Missouri,MO,Navy Federal,Equifax,0.2352823155741773,TransUnion,2,Yes
+Missouri,MO,Navy Federal,TransUnion,0.5458631625430206,TransUnion,2,Yes
+Missouri,MO,Comenity / Bread,Experian,0.48256035233519484,Experian,0,Yes
+Missouri,MO,Comenity / Bread,Equifax,0.3934317339162434,Experian,0,Yes
+Missouri,MO,Comenity / Bread,TransUnion,0.12400791374856168,Experian,0,Yes
+Missouri,MO,Apple Card,Experian,0.16623140944490816,TransUnion,1,Yes
+Missouri,MO,Apple Card,Equifax,0.1428654300755151,TransUnion,1,Yes
+Missouri,MO,Apple Card,TransUnion,0.6909031604795767,TransUnion,1,Yes
+Missouri,MO,Barclays,Experian,0.2758485994766805,TransUnion,0,Yes
+Missouri,MO,Barclays,Equifax,0.11854904991814949,TransUnion,0,Yes
+Missouri,MO,Barclays,TransUnion,0.60560235060517,TransUnion,0,Yes
+Montana,MT,Chase,Experian,0.3067543278363421,TransUnion,1,Yes
+Montana,MT,Chase,Equifax,0.304084789096697,TransUnion,1,Yes
+Montana,MT,Chase,TransUnion,0.3891608830669609,TransUnion,1,Yes
+Montana,MT,Bank of America,Experian,0.477034289738828,Experian,0,Yes
+Montana,MT,Bank of America,Equifax,0.1175396081391801,Experian,0,Yes
+Montana,MT,Bank of America,TransUnion,0.40542610212199187,Experian,0,Yes
+Montana,MT,Citi,Experian,0.35126448665322546,Equifax,1,Yes
+Montana,MT,Citi,Equifax,0.5163804513035483,Equifax,1,Yes
+Montana,MT,Citi,TransUnion,0.13235506204322628,Equifax,1,Yes
+Montana,MT,American Express,Experian,0.8686124718084274,Experian,0,Yes
+Montana,MT,American Express,Equifax,0.05069727536774578,Experian,0,Yes
+Montana,MT,American Express,TransUnion,0.08069025282382677,Experian,0,Yes
+Montana,MT,U.S. Bank,Experian,0.19975651802755315,TransUnion,0,Yes
+Montana,MT,U.S. Bank,Equifax,0.29804163372146,TransUnion,0,Yes
+Montana,MT,U.S. Bank,TransUnion,0.5022018482509868,TransUnion,0,Yes
+Montana,MT,Wells Fargo,Experian,0.40482352800838045,Experian,0,Yes
+Montana,MT,Wells Fargo,Equifax,0.23024471999288113,Experian,0,Yes
+Montana,MT,Wells Fargo,TransUnion,0.36493175199873834,Experian,0,Yes
+Montana,MT,Capital One,Experian,0.328772971481022,Equifax,0,Yes
+Montana,MT,Capital One,Equifax,0.37423562980853425,Equifax,0,Yes
+Montana,MT,Capital One,TransUnion,0.29699139871044367,Equifax,0,Yes
+Montana,MT,Synchrony,Experian,0.23687765804587857,TransUnion,0,Yes
+Montana,MT,Synchrony,Equifax,0.1484995402792191,TransUnion,0,Yes
+Montana,MT,Synchrony,TransUnion,0.6146228016749024,TransUnion,0,Yes
+Montana,MT,Discover,Experian,0.5618842432010074,Experian,0,Yes
+Montana,MT,Discover,Equifax,0.26875018255401295,Experian,0,Yes
+Montana,MT,Discover,TransUnion,0.1693655742449797,Experian,0,Yes
+Montana,MT,Elan,Experian,0.19294465315486184,TransUnion,0,Yes
+Montana,MT,Elan,Equifax,0.2352198513495501,TransUnion,0,Yes
+Montana,MT,Elan,TransUnion,0.5718354954955881,TransUnion,0,Yes
+Montana,MT,Navy Federal,Experian,0.1654007390105285,TransUnion,0,Yes
+Montana,MT,Navy Federal,Equifax,0.18442945748386808,TransUnion,0,Yes
+Montana,MT,Navy Federal,TransUnion,0.6501698035056034,TransUnion,0,Yes
+Montana,MT,Comenity / Bread,Experian,0.39994873181140667,Equifax,0,Yes
+Montana,MT,Comenity / Bread,Equifax,0.43760779469284,Equifax,0,Yes
+Montana,MT,Comenity / Bread,TransUnion,0.16244347349575328,Equifax,0,Yes
+Montana,MT,Apple Card,Experian,0.12331888125009055,TransUnion,0,Yes
+Montana,MT,Apple Card,Equifax,0.1428465184470596,TransUnion,0,Yes
+Montana,MT,Apple Card,TransUnion,0.7338346003028499,TransUnion,0,Yes
+Montana,MT,Barclays,Experian,0.19815111326212945,TransUnion,0,Yes
+Montana,MT,Barclays,Equifax,0.11428435622860512,TransUnion,0,Yes
+Montana,MT,Barclays,TransUnion,0.6875645305092654,TransUnion,0,Yes
+Nebraska,NE,Chase,Experian,0.32104508508121243,TransUnion,1,Yes
+Nebraska,NE,Chase,Equifax,0.31594529664129706,TransUnion,1,Yes
+Nebraska,NE,Chase,TransUnion,0.3630096182774905,TransUnion,1,Yes
+Nebraska,NE,Bank of America,Experian,0.5016325115684832,Experian,0,Yes
+Nebraska,NE,Bank of America,Equifax,0.12254839915994474,Experian,0,Yes
+Nebraska,NE,Bank of America,TransUnion,0.37581908927157215,Experian,0,Yes
+Nebraska,NE,Citi,Experian,0.4115614178989047,Equifax,0,Yes
+Nebraska,NE,Citi,Equifax,0.461020371586279,Equifax,0,Yes
+Nebraska,NE,Citi,TransUnion,0.12741821051481625,Equifax,0,Yes
+Nebraska,NE,American Express,Experian,0.8773791702318078,Experian,0,Yes
+Nebraska,NE,American Express,Equifax,0.05077304430766337,Experian,0,Yes
+Nebraska,NE,American Express,TransUnion,0.07184778546052889,Experian,0,Yes
+Nebraska,NE,U.S. Bank,Experian,0.20084203412866755,TransUnion,1,Yes
+Nebraska,NE,U.S. Bank,Equifax,0.38281425884811127,TransUnion,1,Yes
+Nebraska,NE,U.S. Bank,TransUnion,0.4163437070232212,TransUnion,1,Yes
+Nebraska,NE,Wells Fargo,Experian,0.42398682402228216,Experian,0,Yes
+Nebraska,NE,Wells Fargo,Equifax,0.2390912157927135,Experian,0,Yes
+Nebraska,NE,Wells Fargo,TransUnion,0.33692196018500425,Experian,0,Yes
+Nebraska,NE,Capital One,Experian,0.34189270242985154,Equifax,0,Yes
+Nebraska,NE,Capital One,Equifax,0.3858568217889494,Equifax,0,Yes
+Nebraska,NE,Capital One,TransUnion,0.2722504757811991,Equifax,0,Yes
+Nebraska,NE,Synchrony,Experian,0.25583116010499546,TransUnion,0,Yes
+Nebraska,NE,Synchrony,Equifax,0.15901634773334816,TransUnion,0,Yes
+Nebraska,NE,Synchrony,TransUnion,0.5851524921616563,TransUnion,0,Yes
+Nebraska,NE,Discover,Experian,0.5747320936009058,Experian,0,Yes
+Nebraska,NE,Discover,Equifax,0.2725553362921344,Experian,0,Yes
+Nebraska,NE,Discover,TransUnion,0.15271257010695974,Experian,0,Yes
+Nebraska,NE,Elan,Experian,0.2074126460707065,TransUnion,0,Yes
+Nebraska,NE,Elan,Equifax,0.25070545338371797,TransUnion,0,Yes
+Nebraska,NE,Elan,TransUnion,0.5418819005455755,TransUnion,0,Yes
+Nebraska,NE,Navy Federal,Experian,0.17951092911959654,TransUnion,0,Yes
+Nebraska,NE,Navy Federal,Equifax,0.19845912101696947,TransUnion,0,Yes
+Nebraska,NE,Navy Federal,TransUnion,0.622029949863434,TransUnion,0,Yes
+Nebraska,NE,Comenity / Bread,Experian,0.4093522595966829,Equifax,0,Yes
+Nebraska,NE,Comenity / Bread,Equifax,0.44408411917169177,Equifax,0,Yes
+Nebraska,NE,Comenity / Bread,TransUnion,0.14656362123162536,Equifax,0,Yes
+Nebraska,NE,Apple Card,Experian,0.13524214578761865,TransUnion,0,Yes
+Nebraska,NE,Apple Card,Equifax,0.15532432044447145,TransUnion,0,Yes
+Nebraska,NE,Apple Card,TransUnion,0.70943353376791,TransUnion,0,Yes
+Nebraska,NE,Barclays,Experian,0.21595369462147068,TransUnion,0,Yes
+Nebraska,NE,Barclays,Equifax,0.12349183209602375,TransUnion,0,Yes
+Nebraska,NE,Barclays,TransUnion,0.6605544732825056,TransUnion,0,Yes
+Nevada,NV,Chase,Experian,0.4732957429500506,Experian,9,Yes
+Nevada,NV,Chase,Equifax,0.34464268031192147,Experian,9,Yes
+Nevada,NV,Chase,TransUnion,0.18206157673802797,Experian,9,Yes
+Nevada,NV,Bank of America,Experian,0.5812949172644879,Experian,6,Yes
+Nevada,NV,Bank of America,Equifax,0.10852448816598137,Experian,6,Yes
+Nevada,NV,Bank of America,TransUnion,0.31018059456953073,Experian,6,Yes
+Nevada,NV,Citi,Experian,0.5271825964352265,Experian,7,Yes
+Nevada,NV,Citi,Equifax,0.3881169582946101,Experian,7,Yes
+Nevada,NV,Citi,TransUnion,0.08470044527016345,Experian,7,Yes
+Nevada,NV,American Express,Experian,0.9204587993175809,Experian,2,Yes
+Nevada,NV,American Express,Equifax,0.0316559324337335,Experian,2,Yes
+Nevada,NV,American Express,TransUnion,0.047885268248685525,Experian,2,Yes
+Nevada,NV,U.S. Bank,Experian,0.409288099885695,Experian,2,Yes
+Nevada,NV,U.S. Bank,Equifax,0.23788443235090218,Experian,2,Yes
+Nevada,NV,U.S. Bank,TransUnion,0.35282746776340285,Experian,2,Yes
+Nevada,NV,Wells Fargo,Experian,0.6517959830701602,Experian,3,Yes
+Nevada,NV,Wells Fargo,Equifax,0.14522947257681484,Experian,3,Yes
+Nevada,NV,Wells Fargo,TransUnion,0.20297454435302503,Experian,3,Yes
+Nevada,NV,Capital One,Experian,0.4426981106477348,Experian,0,Yes
+Nevada,NV,Capital One,Equifax,0.31609181234316386,Experian,0,Yes
+Nevada,NV,Capital One,TransUnion,0.24121007700910133,Experian,0,Yes
+Nevada,NV,Synchrony,Experian,0.3614942618553343,TransUnion,2,Yes
+Nevada,NV,Synchrony,Equifax,0.12186986830407602,TransUnion,2,Yes
+Nevada,NV,Synchrony,TransUnion,0.5166358698405897,TransUnion,2,Yes
+Nevada,NV,Discover,Experian,0.6748385434540771,Experian,0,Yes
+Nevada,NV,Discover,Equifax,0.20246891047191676,Experian,0,Yes
+Nevada,NV,Discover,TransUnion,0.12269254607400606,Experian,0,Yes
+Nevada,NV,Elan,Experian,0.2815042035466602,TransUnion,0,Yes
+Nevada,NV,Elan,Equifax,0.21526957800525773,TransUnion,0,Yes
+Nevada,NV,Elan,TransUnion,0.503226218448082,TransUnion,0,Yes
+Nevada,NV,Navy Federal,Experian,0.2456745121768391,TransUnion,0,Yes
+Nevada,NV,Navy Federal,Equifax,0.17183415730762636,TransUnion,0,Yes
+Nevada,NV,Navy Federal,TransUnion,0.5824913305155346,TransUnion,0,Yes
+Nevada,NV,Comenity / Bread,Experian,0.5177803387470967,Experian,0,Yes
+Nevada,NV,Comenity / Bread,Equifax,0.3553716938326973,Experian,0,Yes
+Nevada,NV,Comenity / Bread,TransUnion,0.12684796742020588,Experian,0,Yes
+Nevada,NV,Apple Card,Experian,0.18811515934330902,TransUnion,0,Yes
+Nevada,NV,Apple Card,Equifax,0.13668486573758964,TransUnion,0,Yes
+Nevada,NV,Apple Card,TransUnion,0.6751999749191013,TransUnion,0,Yes
+Nevada,NV,Barclays,Experian,0.26622640538122894,TransUnion,1,Yes
+Nevada,NV,Barclays,Equifax,0.09877982018880176,TransUnion,1,Yes
+Nevada,NV,Barclays,TransUnion,0.6349937744299693,TransUnion,1,Yes
+New Hampshire,NH,Chase,Experian,0.3470596681225716,Equifax,2,No
+New Hampshire,NH,Chase,Equifax,0.37826474369171825,Equifax,2,No
+New Hampshire,NH,Chase,TransUnion,0.27467558818571025,Equifax,2,No
+New Hampshire,NH,Bank of America,Experian,0.565085965349709,Experian,2,No
+New Hampshire,NH,Bank of America,Equifax,0.11248789425202292,Experian,2,No
+New Hampshire,NH,Bank of America,TransUnion,0.32242614039826817,Experian,2,No
+New Hampshire,NH,Citi,Experian,0.38427204269970644,Equifax,6,No
+New Hampshire,NH,Citi,Equifax,0.5384834430265881,Equifax,6,No
+New Hampshire,NH,Citi,TransUnion,0.07724451427370532,Equifax,6,No
+New Hampshire,NH,American Express,Experian,0.9184892606254679,Experian,4,No
+New Hampshire,NH,American Express,Equifax,0.03856576277001731,Experian,4,No
+New Hampshire,NH,American Express,TransUnion,0.0429449766045148,Experian,4,No
+New Hampshire,NH,U.S. Bank,Experian,0.33204838963449435,TransUnion,1,No
+New Hampshire,NH,U.S. Bank,Equifax,0.30914466809965657,TransUnion,1,No
+New Hampshire,NH,U.S. Bank,TransUnion,0.3588069422658491,TransUnion,1,No
+New Hampshire,NH,Wells Fargo,Experian,0.5503210028956106,Experian,1,No
+New Hampshire,NH,Wells Fargo,Equifax,0.21363107008742308,Experian,1,No
+New Hampshire,NH,Wells Fargo,TransUnion,0.23604792701696628,Experian,1,No
+New Hampshire,NH,Capital One,Experian,0.40556113722647325,Experian,0,No
+New Hampshire,NH,Capital One,Equifax,0.38070974478278613,Experian,0,No
+New Hampshire,NH,Capital One,TransUnion,0.21372911799074062,Experian,0,No
+New Hampshire,NH,Synchrony,Experian,0.32995524048048214,TransUnion,0,No
+New Hampshire,NH,Synchrony,Equifax,0.17058650600893813,TransUnion,0,No
+New Hampshire,NH,Synchrony,TransUnion,0.4994582535105799,TransUnion,0,No
+New Hampshire,NH,Discover,Experian,0.6368222466848976,Experian,0,No
+New Hampshire,NH,Discover,Equifax,0.25119371916351413,Experian,0,No
+New Hampshire,NH,Discover,TransUnion,0.11198403415158821,Experian,0,No
+New Hampshire,NH,Elan,Experian,0.26778128542723995,TransUnion,0,No
+New Hampshire,NH,Elan,Equifax,0.2692217111076687,TransUnion,0,No
+New Hampshire,NH,Elan,TransUnion,0.4629970034650914,TransUnion,0,No
+New Hampshire,NH,Navy Federal,Experian,0.23737181870726964,TransUnion,0,No
+New Hampshire,NH,Navy Federal,Equifax,0.21827833653522258,TransUnion,0,No
+New Hampshire,NH,Navy Federal,TransUnion,0.5443498447575077,TransUnion,0,No
+New Hampshire,NH,Comenity / Bread,Experian,0.4674450936179621,Experian,0,No
+New Hampshire,NH,Comenity / Bread,Equifax,0.42179358059092326,Experian,0,No
+New Hampshire,NH,Comenity / Bread,TransUnion,0.11076132579111468,Experian,0,No
+New Hampshire,NH,Apple Card,Experian,0.18426848740233295,TransUnion,0,No
+New Hampshire,NH,Apple Card,Equifax,0.17602720357891063,TransUnion,0,No
+New Hampshire,NH,Apple Card,TransUnion,0.6397043090187564,TransUnion,0,No
+New Hampshire,NH,Barclays,Experian,0.28571850080310507,TransUnion,0,No
+New Hampshire,NH,Barclays,Equifax,0.13589931487525317,TransUnion,0,No
+New Hampshire,NH,Barclays,TransUnion,0.5783821843216417,TransUnion,0,No
+New Jersey,NJ,Chase,Experian,0.47175344893413396,Experian,4,No
+New Jersey,NJ,Chase,Equifax,0.23189832072213015,Experian,4,No
+New Jersey,NJ,Chase,TransUnion,0.29634823034373586,Experian,4,No
+New Jersey,NJ,Bank of America,Experian,0.6640960226561338,Experian,8,No
+New Jersey,NJ,Bank of America,Equifax,0.05595088984642493,Experian,8,No
+New Jersey,NJ,Bank of America,TransUnion,0.2799530874974412,Experian,8,No
+New Jersey,NJ,Citi,Experian,0.5815573559827371,Experian,8,No
+New Jersey,NJ,Citi,Equifax,0.28708630335965185,Experian,8,No
+New Jersey,NJ,Citi,TransUnion,0.1313563406576111,Experian,8,No
+New Jersey,NJ,American Express,Experian,0.9380139477307043,Experian,18,No
+New Jersey,NJ,American Express,Equifax,0.020121345190346744,Experian,18,No
+New Jersey,NJ,American Express,TransUnion,0.04186470707894892,Experian,18,No
+New Jersey,NJ,U.S. Bank,Experian,0.3061345438045991,TransUnion,6,No
+New Jersey,NJ,U.S. Bank,Equifax,0.20172348797997391,TransUnion,6,No
+New Jersey,NJ,U.S. Bank,TransUnion,0.4921419682154269,TransUnion,6,No
+New Jersey,NJ,Wells Fargo,Experian,0.406021448426555,TransUnion,2,No
+New Jersey,NJ,Wells Fargo,Equifax,0.1361383521566714,TransUnion,2,No
+New Jersey,NJ,Wells Fargo,TransUnion,0.4578401994167735,TransUnion,2,No
+New Jersey,NJ,Capital One,Experian,0.4262132437994021,Experian,6,No
+New Jersey,NJ,Capital One,Equifax,0.2826796457932478,Experian,6,No
+New Jersey,NJ,Capital One,TransUnion,0.2911071104073501,Experian,6,No
+New Jersey,NJ,Synchrony,Experian,0.3456707465661907,TransUnion,2,No
+New Jersey,NJ,Synchrony,Equifax,0.09284440306203388,TransUnion,2,No
+New Jersey,NJ,Synchrony,TransUnion,0.5614848503717754,TransUnion,2,No
+New Jersey,NJ,Discover,Experian,0.6830431524956833,Experian,3,No
+New Jersey,NJ,Discover,Equifax,0.14479695340814921,Experian,3,No
+New Jersey,NJ,Discover,TransUnion,0.17215989409616758,Experian,3,No
+New Jersey,NJ,Elan,Experian,0.33636193751856897,TransUnion,1,No
+New Jersey,NJ,Elan,Equifax,0.15976116832378737,TransUnion,1,No
+New Jersey,NJ,Elan,TransUnion,0.5038768941576437,TransUnion,1,No
+New Jersey,NJ,Navy Federal,Experian,0.18747876447122236,TransUnion,2,No
+New Jersey,NJ,Navy Federal,Equifax,0.10885809242963397,TransUnion,2,No
+New Jersey,NJ,Navy Federal,TransUnion,0.7036631430991437,TransUnion,2,No
+New Jersey,NJ,Comenity / Bread,Experian,0.48520543254265924,Experian,3,No
+New Jersey,NJ,Comenity / Bread,Equifax,0.37805378425605746,Experian,3,No
+New Jersey,NJ,Comenity / Bread,TransUnion,0.13674078320128316,Experian,3,No
+New Jersey,NJ,Apple Card,Experian,0.17198156731805317,TransUnion,0,No
+New Jersey,NJ,Apple Card,Equifax,0.09888806035091537,TransUnion,0,No
+New Jersey,NJ,Apple Card,TransUnion,0.7291303723310315,TransUnion,0,No
+New Jersey,NJ,Barclays,Experian,0.23756303118299923,TransUnion,1,No
+New Jersey,NJ,Barclays,Equifax,0.07139418245268418,TransUnion,1,No
+New Jersey,NJ,Barclays,TransUnion,0.6910427863643166,TransUnion,1,No
+New Mexico,NM,Chase,Experian,0.44976112765885534,Experian,2,No
+New Mexico,NM,Chase,Equifax,0.2563654677930175,Experian,2,No
+New Mexico,NM,Chase,TransUnion,0.2938734045481273,Experian,2,No
+New Mexico,NM,Bank of America,Experian,0.6318660295078684,Experian,1,No
+New Mexico,NM,Bank of America,Equifax,0.09471259184851713,Experian,1,No
+New Mexico,NM,Bank of America,TransUnion,0.2734213786436146,Experian,1,No
+New Mexico,NM,Citi,Experian,0.594516429062444,Experian,2,No
+New Mexico,NM,Citi,Equifax,0.30970952340089847,Experian,2,No
+New Mexico,NM,Citi,TransUnion,0.09577404753665758,Experian,2,No
+New Mexico,NM,American Express,Experian,0.9165464846675417,Experian,2,No
+New Mexico,NM,American Express,Equifax,0.03491751871065178,Experian,2,No
+New Mexico,NM,American Express,TransUnion,0.048535996621806486,Experian,2,No
+New Mexico,NM,U.S. Bank,Experian,0.27850133063236604,TransUnion,0,No
+New Mexico,NM,U.S. Bank,Equifax,0.28995068010372343,TransUnion,0,No
+New Mexico,NM,U.S. Bank,TransUnion,0.4315479892639106,TransUnion,0,No
+New Mexico,NM,Wells Fargo,Experian,0.5121698569051597,Experian,0,No
+New Mexico,NM,Wells Fargo,Equifax,0.2032632336909969,Experian,0,No
+New Mexico,NM,Wells Fargo,TransUnion,0.28456690940384344,Experian,0,No
+New Mexico,NM,Capital One,Experian,0.42534393113916336,Experian,0,No
+New Mexico,NM,Capital One,Equifax,0.3378392838709337,Experian,0,No
+New Mexico,NM,Capital One,TransUnion,0.23681678498990288,Experian,0,No
+New Mexico,NM,Synchrony,Experian,0.3293084726420644,TransUnion,0,No
+New Mexico,NM,Synchrony,Equifax,0.1440538249655904,TransUnion,0,No
+New Mexico,NM,Synchrony,TransUnion,0.5266377023923452,TransUnion,0,No
+New Mexico,NM,Discover,Experian,0.5871634858331929,Experian,1,No
+New Mexico,NM,Discover,Equifax,0.2877865311445594,Experian,1,No
+New Mexico,NM,Discover,TransUnion,0.12504998302224768,Experian,1,No
+New Mexico,NM,Elan,Experian,0.2719346971371831,TransUnion,0,No
+New Mexico,NM,Elan,Equifax,0.23132721464659056,TransUnion,0,No
+New Mexico,NM,Elan,TransUnion,0.4967380882162264,TransUnion,0,No
+New Mexico,NM,Navy Federal,Experian,0.2380476130406675,TransUnion,0,No
+New Mexico,NM,Navy Federal,Equifax,0.18521559676908894,TransUnion,0,No
+New Mexico,NM,Navy Federal,TransUnion,0.5767367901902435,TransUnion,0,No
+New Mexico,NM,Comenity / Bread,Experian,0.49656811450909094,Experian,0,No
+New Mexico,NM,Comenity / Bread,Equifax,0.37912326468261,Experian,0,No
+New Mexico,NM,Comenity / Bread,TransUnion,0.12430862080829899,Experian,0,No
+New Mexico,NM,Apple Card,Experian,0.17238456823607345,TransUnion,2,No
+New Mexico,NM,Apple Card,Equifax,0.18591890668755898,TransUnion,2,No
+New Mexico,NM,Apple Card,TransUnion,0.6416965250763675,TransUnion,2,No
+New Mexico,NM,Barclays,Experian,0.2513787067644884,TransUnion,1,No
+New Mexico,NM,Barclays,Equifax,0.1055562745965275,TransUnion,1,No
+New Mexico,NM,Barclays,TransUnion,0.6430650186389841,TransUnion,1,No
+New York,NY,Chase,Experian,0.5737914540628315,Experian,5,No
+New York,NY,Chase,Equifax,0.21772201334911573,Experian,5,No
+New York,NY,Chase,TransUnion,0.20848653258805283,Experian,5,No
+New York,NY,Bank of America,Experian,0.6326324596768474,Experian,12,No
+New York,NY,Bank of America,Equifax,0.07846019748548554,Experian,12,No
+New York,NY,Bank of America,TransUnion,0.288907342837667,Experian,12,No
+New York,NY,Citi,Experian,0.49664935673704763,Experian,43,No
+New York,NY,Citi,Equifax,0.38998484544903855,Experian,43,No
+New York,NY,Citi,TransUnion,0.11336579781391372,Experian,43,No
+New York,NY,American Express,Experian,0.9426679120671337,Experian,41,No
+New York,NY,American Express,Equifax,0.020920237167673463,Experian,41,No
+New York,NY,American Express,TransUnion,0.03641185076519275,Experian,41,No
+New York,NY,U.S. Bank,Experian,0.4818716022574939,Experian,8,No
+New York,NY,U.S. Bank,Equifax,0.15231316694403813,Experian,8,No
+New York,NY,U.S. Bank,TransUnion,0.36581523079846795,Experian,8,No
+New York,NY,Wells Fargo,Experian,0.637769883405588,Experian,6,No
+New York,NY,Wells Fargo,Equifax,0.19263723540869174,Experian,6,No
+New York,NY,Wells Fargo,TransUnion,0.16959288118572036,Experian,6,No
+New York,NY,Capital One,Experian,0.5134460139429404,Experian,3,No
+New York,NY,Capital One,Equifax,0.2724850485624206,Experian,3,No
+New York,NY,Capital One,TransUnion,0.214068937494639,Experian,3,No
+New York,NY,Synchrony,Experian,0.4336653214862666,TransUnion,2,No
+New York,NY,Synchrony,Equifax,0.10308350022642175,TransUnion,2,No
+New York,NY,Synchrony,TransUnion,0.4632511782873116,TransUnion,2,No
+New York,NY,Discover,Experian,0.7310760092120302,Experian,3,No
+New York,NY,Discover,Equifax,0.1784925347573066,Experian,3,No
+New York,NY,Discover,TransUnion,0.09043145603066333,Experian,3,No
+New York,NY,Elan,Experian,0.4266086317348809,Experian,1,No
+New York,NY,Elan,Equifax,0.17496901587845842,Experian,1,No
+New York,NY,Elan,TransUnion,0.39842235238666057,Experian,1,No
+New York,NY,Navy Federal,Experian,0.28368604675413184,TransUnion,1,No
+New York,NY,Navy Federal,Equifax,0.13858959118631847,TransUnion,1,No
+New York,NY,Navy Federal,TransUnion,0.5777243620595498,TransUnion,1,No
+New York,NY,Comenity / Bread,Experian,0.6824324356689679,Experian,2,No
+New York,NY,Comenity / Bread,Equifax,0.22644435844076868,Experian,2,No
+New York,NY,Comenity / Bread,TransUnion,0.09112320589026335,Experian,2,No
+New York,NY,Apple Card,Experian,0.2509908257433601,TransUnion,0,No
+New York,NY,Apple Card,Equifax,0.12198665848444443,TransUnion,0,No
+New York,NY,Apple Card,TransUnion,0.6270225157721954,TransUnion,0,No
+New York,NY,Barclays,Experian,0.30104741276380614,TransUnion,2,No
+New York,NY,Barclays,Equifax,0.08066675869147177,TransUnion,2,No
+New York,NY,Barclays,TransUnion,0.618285828544722,TransUnion,2,No
+North Carolina,NC,Chase,Experian,0.37528265798586596,Equifax,5,Yes
+North Carolina,NC,Chase,Equifax,0.43365022225215727,Equifax,5,Yes
+North Carolina,NC,Chase,TransUnion,0.19106711976197677,Equifax,5,Yes
+North Carolina,NC,Bank of America,Experian,0.5022711285940527,Experian,11,Yes
+North Carolina,NC,Bank of America,Equifax,0.22863426729943928,Experian,11,Yes
+North Carolina,NC,Bank of America,TransUnion,0.26909460410650804,Experian,11,Yes
+North Carolina,NC,Citi,Experian,0.4122562984822488,Equifax,29,Yes
+North Carolina,NC,Citi,Equifax,0.5188207153101855,Equifax,29,Yes
+North Carolina,NC,Citi,TransUnion,0.06892298620756555,Equifax,29,Yes
+North Carolina,NC,American Express,Experian,0.8989883623699442,Experian,14,Yes
+North Carolina,NC,American Express,Equifax,0.052808855141232784,Experian,14,Yes
+North Carolina,NC,American Express,TransUnion,0.04820278248882306,Experian,14,Yes
+North Carolina,NC,U.S. Bank,Experian,0.24709128004650008,Equifax,3,Yes
+North Carolina,NC,U.S. Bank,Equifax,0.505036584533232,Equifax,3,Yes
+North Carolina,NC,U.S. Bank,TransUnion,0.24787213542026795,Equifax,3,Yes
+North Carolina,NC,Wells Fargo,Experian,0.3350120568464466,Equifax,6,Yes
+North Carolina,NC,Wells Fargo,Equifax,0.4111030368677136,Equifax,6,Yes
+North Carolina,NC,Wells Fargo,TransUnion,0.2538849062858399,Equifax,6,Yes
+North Carolina,NC,Capital One,Experian,0.34165432071645063,Equifax,0,Yes
+North Carolina,NC,Capital One,Equifax,0.49164255171193566,Equifax,0,Yes
+North Carolina,NC,Capital One,TransUnion,0.16670312757161362,Equifax,0,Yes
+North Carolina,NC,Synchrony,Experian,0.3209091626640678,TransUnion,3,Yes
+North Carolina,NC,Synchrony,Equifax,0.26661697993671807,TransUnion,3,Yes
+North Carolina,NC,Synchrony,TransUnion,0.41247385739921416,TransUnion,3,Yes
+North Carolina,NC,Discover,Experian,0.5463884611737896,Experian,2,Yes
+North Carolina,NC,Discover,Equifax,0.3669170893210782,Experian,2,Yes
+North Carolina,NC,Discover,TransUnion,0.08669444950513222,Experian,2,Yes
+North Carolina,NC,Elan,Experian,0.22272879490041383,Equifax,1,Yes
+North Carolina,NC,Elan,Equifax,0.43318003705278535,Equifax,1,Yes
+North Carolina,NC,Elan,TransUnion,0.34409116804680073,Equifax,1,Yes
+North Carolina,NC,Navy Federal,Experian,0.22061074866771474,TransUnion,0,Yes
+North Carolina,NC,Navy Federal,Equifax,0.3109804102452981,TransUnion,0,Yes
+North Carolina,NC,Navy Federal,TransUnion,0.4684088410869873,TransUnion,0,Yes
+North Carolina,NC,Comenity / Bread,Experian,0.4024341950859477,Equifax,2,Yes
+North Carolina,NC,Comenity / Bread,Equifax,0.5182786596631163,Equifax,2,Yes
+North Carolina,NC,Comenity / Bread,TransUnion,0.07928714525093587,Equifax,2,Yes
+North Carolina,NC,Apple Card,Experian,0.1760992858805649,TransUnion,0,Yes
+North Carolina,NC,Apple Card,Equifax,0.25787616274675396,TransUnion,0,Yes
+North Carolina,NC,Apple Card,TransUnion,0.5660245513726812,TransUnion,0,Yes
+North Carolina,NC,Barclays,Experian,0.27751787273204964,TransUnion,0,Yes
+North Carolina,NC,Barclays,Equifax,0.20234605795067193,TransUnion,0,Yes
+North Carolina,NC,Barclays,TransUnion,0.5201360693172784,TransUnion,0,Yes
+Ohio,OH,Chase,Experian,0.4264821121136539,Experian,5,No
+Ohio,OH,Chase,Equifax,0.2148369268170437,Experian,5,No
+Ohio,OH,Chase,TransUnion,0.3586809610693025,Experian,5,No
+Ohio,OH,Bank of America,Experian,0.6070371863756843,Experian,1,No
+Ohio,OH,Bank of America,Equifax,0.06434620876842086,Experian,1,No
+Ohio,OH,Bank of America,TransUnion,0.328616604855895,Experian,1,No
+Ohio,OH,Citi,Experian,0.7336389420543904,Experian,7,No
+Ohio,OH,Citi,Equifax,0.17032545616465114,Experian,7,No
+Ohio,OH,Citi,TransUnion,0.09603560178095841,Experian,7,No
+Ohio,OH,American Express,Experian,0.929632644906888,Experian,9,No
+Ohio,OH,American Express,Equifax,0.021004264487338355,Experian,9,No
+Ohio,OH,American Express,TransUnion,0.04936309060577356,Experian,9,No
+Ohio,OH,U.S. Bank,Experian,0.17171578315443978,TransUnion,5,No
+Ohio,OH,U.S. Bank,Equifax,0.13595384701298258,TransUnion,5,No
+Ohio,OH,U.S. Bank,TransUnion,0.6923303698325776,TransUnion,5,No
+Ohio,OH,Wells Fargo,Experian,0.42116219861733206,TransUnion,8,No
+Ohio,OH,Wells Fargo,Equifax,0.10483349733802562,TransUnion,8,No
+Ohio,OH,Wells Fargo,TransUnion,0.47400430404464233,TransUnion,8,No
+Ohio,OH,Capital One,Experian,0.49540524003570785,Experian,1,No
+Ohio,OH,Capital One,Equifax,0.2239813997987226,Experian,1,No
+Ohio,OH,Capital One,TransUnion,0.2806133601655694,Experian,1,No
+Ohio,OH,Synchrony,Experian,0.2642518584480538,TransUnion,1,No
+Ohio,OH,Synchrony,Equifax,0.08588149024356267,TransUnion,1,No
+Ohio,OH,Synchrony,TransUnion,0.6498666513083834,TransUnion,1,No
+Ohio,OH,Discover,Experian,0.6786321604357196,Experian,0,No
+Ohio,OH,Discover,Equifax,0.15957595366506816,Experian,0,No
+Ohio,OH,Discover,TransUnion,0.1617918858992123,Experian,0,No
+Ohio,OH,Elan,Experian,0.22674784333091663,TransUnion,1,No
+Ohio,OH,Elan,Equifax,0.1396314503522557,TransUnion,1,No
+Ohio,OH,Elan,TransUnion,0.6336207063168277,TransUnion,1,No
+Ohio,OH,Navy Federal,Experian,0.21471799734569172,TransUnion,0,No
+Ohio,OH,Navy Federal,Equifax,0.11770431602338026,TransUnion,0,No
+Ohio,OH,Navy Federal,TransUnion,0.667577686630928,TransUnion,0,No
+Ohio,OH,Comenity / Bread,Experian,0.47552290366557415,Experian,1,No
+Ohio,OH,Comenity / Bread,Equifax,0.3569501782100218,Experian,1,No
+Ohio,OH,Comenity / Bread,TransUnion,0.16752691812440415,Experian,1,No
+Ohio,OH,Apple Card,Experian,0.15933390195668687,TransUnion,0,No
+Ohio,OH,Apple Card,Equifax,0.09073594623098043,TransUnion,0,No
+Ohio,OH,Apple Card,TransUnion,0.7499301518123328,TransUnion,0,No
+Ohio,OH,Barclays,Experian,0.24826030164838161,TransUnion,0,No
+Ohio,OH,Barclays,Equifax,0.07039286563668366,TransUnion,0,No
+Ohio,OH,Barclays,TransUnion,0.6813468327149347,TransUnion,0,No
+Oklahoma,OK,Chase,Experian,0.30304855244905776,TransUnion,1,Yes
+Oklahoma,OK,Chase,Equifax,0.31136525113083874,TransUnion,1,Yes
+Oklahoma,OK,Chase,TransUnion,0.38558619642010344,TransUnion,1,Yes
+Oklahoma,OK,Bank of America,Experian,0.47376033242654714,Experian,0,Yes
+Oklahoma,OK,Bank of America,Equifax,0.1216697560659012,Experian,0,Yes
+Oklahoma,OK,Bank of America,TransUnion,0.4045699115075517,Experian,0,Yes
+Oklahoma,OK,Citi,Experian,0.3443832194433717,Equifax,6,Yes
+Oklahoma,OK,Citi,Equifax,0.5508170551483161,Equifax,6,Yes
+Oklahoma,OK,Citi,TransUnion,0.10479972540831219,Equifax,6,Yes
+Oklahoma,OK,American Express,Experian,0.8489096445457595,Experian,5,Yes
+Oklahoma,OK,American Express,Equifax,0.051855336099653565,Experian,5,Yes
+Oklahoma,OK,American Express,TransUnion,0.09923501935458696,Experian,5,Yes
+Oklahoma,OK,U.S. Bank,Experian,0.19680303303348065,TransUnion,0,Yes
+Oklahoma,OK,U.S. Bank,Equifax,0.30605329900559286,TransUnion,0,Yes
+Oklahoma,OK,U.S. Bank,TransUnion,0.4971436679609265,TransUnion,0,Yes
+Oklahoma,OK,Wells Fargo,Experian,0.4002275775621804,Experian,0,Yes
+Oklahoma,OK,Wells Fargo,Equifax,0.23725766193520054,Experian,0,Yes
+Oklahoma,OK,Wells Fargo,TransUnion,0.3625147605026192,Experian,0,Yes
+Oklahoma,OK,Capital One,Experian,0.3231984657679616,Equifax,0,Yes
+Oklahoma,OK,Capital One,Equifax,0.3834490078261594,Equifax,0,Yes
+Oklahoma,OK,Capital One,TransUnion,0.29335252640587894,Equifax,0,Yes
+Oklahoma,OK,Synchrony,Experian,0.23471342279856225,TransUnion,0,Yes
+Oklahoma,OK,Synchrony,Equifax,0.15336569854808288,TransUnion,0,Yes
+Oklahoma,OK,Synchrony,TransUnion,0.6119208786533548,TransUnion,0,Yes
+Oklahoma,OK,Discover,Experian,0.5551249378490218,Experian,0,Yes
+Oklahoma,OK,Discover,Equifax,0.27674638322125017,Experian,0,Yes
+Oklahoma,OK,Discover,TransUnion,0.16812867892972805,Experian,0,Yes
+Oklahoma,OK,Elan,Experian,0.19052806958522167,TransUnion,0,Yes
+Oklahoma,OK,Elan,Equifax,0.2420970470462129,TransUnion,0,Yes
+Oklahoma,OK,Elan,TransUnion,0.5673748833685653,TransUnion,0,Yes
+Oklahoma,OK,Navy Federal,Experian,0.16361563391273373,TransUnion,0,Yes
+Oklahoma,OK,Navy Federal,Equifax,0.19015464744751506,TransUnion,0,Yes
+Oklahoma,OK,Navy Federal,TransUnion,0.6462297186397511,TransUnion,0,Yes
+Oklahoma,OK,Comenity / Bread,Experian,0.3923818996917335,Equifax,0,Yes
+Oklahoma,OK,Comenity / Bread,Equifax,0.4474855257246286,Equifax,0,Yes
+Oklahoma,OK,Comenity / Bread,TransUnion,0.16013257458363803,Equifax,0,Yes
+Oklahoma,OK,Apple Card,Experian,0.12215208361828872,TransUnion,0,Yes
+Oklahoma,OK,Apple Card,Equifax,0.14747902743210786,TransUnion,0,Yes
+Oklahoma,OK,Apple Card,TransUnion,0.7303688889496034,TransUnion,0,Yes
+Oklahoma,OK,Barclays,Experian,0.19655455943787306,TransUnion,0,Yes
+Oklahoma,OK,Barclays,Equifax,0.11815788099272638,TransUnion,0,Yes
+Oklahoma,OK,Barclays,TransUnion,0.6852875595694007,TransUnion,0,Yes
+Oregon,OR,Chase,Experian,0.43967447394671416,Experian,2,No
+Oregon,OR,Chase,Equifax,0.28159197296107785,Experian,2,No
+Oregon,OR,Chase,TransUnion,0.2787335530922079,Experian,2,No
+Oregon,OR,Bank of America,Experian,0.4774367817809205,Experian,5,No
+Oregon,OR,Bank of America,Equifax,0.07032745991049318,Experian,5,No
+Oregon,OR,Bank of America,TransUnion,0.4522357583085863,Experian,5,No
+Oregon,OR,Citi,Experian,0.54528265199558,Experian,12,No
+Oregon,OR,Citi,Equifax,0.3027808131116081,Experian,12,No
+Oregon,OR,Citi,TransUnion,0.151936534892812,Experian,12,No
+Oregon,OR,American Express,Experian,0.9199503728741624,Experian,6,No
+Oregon,OR,American Express,Equifax,0.02609289426532943,Experian,6,No
+Oregon,OR,American Express,TransUnion,0.05395673286050822,Experian,6,No
+Oregon,OR,U.S. Bank,Experian,0.2242430163212588,TransUnion,5,No
+Oregon,OR,U.S. Bank,Equifax,0.16252138468542693,TransUnion,5,No
+Oregon,OR,U.S. Bank,TransUnion,0.6132355989933143,TransUnion,5,No
+Oregon,OR,Wells Fargo,Experian,0.5392552481399935,Experian,1,No
+Oregon,OR,Wells Fargo,Equifax,0.15036235710236723,Experian,1,No
+Oregon,OR,Wells Fargo,TransUnion,0.3103823947576392,Experian,1,No
+Oregon,OR,Capital One,Experian,0.41819771043012127,Experian,0,No
+Oregon,OR,Capital One,Equifax,0.27808197390552153,Experian,0,No
+Oregon,OR,Capital One,TransUnion,0.3037203156643571,Experian,0,No
+Oregon,OR,Synchrony,Experian,0.2896626778709412,TransUnion,0,No
+Oregon,OR,Synchrony,Equifax,0.10608053723492286,TransUnion,0,No
+Oregon,OR,Synchrony,TransUnion,0.6042567848941359,TransUnion,0,No
+Oregon,OR,Discover,Experian,0.6571381477536907,Experian,0,No
+Oregon,OR,Discover,Equifax,0.18361187030445564,Experian,0,No
+Oregon,OR,Discover,TransUnion,0.15924998194185372,Experian,0,No
+Oregon,OR,Elan,Experian,0.24420363311980536,TransUnion,0,No
+Oregon,OR,Elan,Equifax,0.17391438473271417,TransUnion,0,No
+Oregon,OR,Elan,TransUnion,0.5818819821474804,TransUnion,0,No
+Oregon,OR,Navy Federal,Experian,0.20782586384252016,TransUnion,0,No
+Oregon,OR,Navy Federal,Equifax,0.1353737931957007,TransUnion,0,No
+Oregon,OR,Navy Federal,TransUnion,0.6568003429617791,TransUnion,0,No
+Oregon,OR,Comenity / Bread,Experian,0.5087183985315233,Experian,0,No
+Oregon,OR,Comenity / Bread,Equifax,0.32516240755455367,Experian,0,No
+Oregon,OR,Comenity / Bread,TransUnion,0.166119193913923,Experian,0,No
+Oregon,OR,Apple Card,Experian,0.14195430035917972,TransUnion,1,No
+Oregon,OR,Apple Card,Equifax,0.09736798443684667,TransUnion,1,No
+Oregon,OR,Apple Card,TransUnion,0.7606777152039735,TransUnion,1,No
+Oregon,OR,Barclays,Experian,0.24232735561058935,TransUnion,0,No
+Oregon,OR,Barclays,Equifax,0.08164599260860507,TransUnion,0,No
+Oregon,OR,Barclays,TransUnion,0.6760266517808056,TransUnion,0,No
+Pennsylvania,PA,Chase,Experian,0.4327800291399074,Experian,5,No
+Pennsylvania,PA,Chase,Equifax,0.2304908344611696,Experian,5,No
+Pennsylvania,PA,Chase,TransUnion,0.3367291363989229,Experian,5,No
+Pennsylvania,PA,Bank of America,Experian,0.5797747638271438,Experian,10,No
+Pennsylvania,PA,Bank of America,Equifax,0.06023620578839589,Experian,10,No
+Pennsylvania,PA,Bank of America,TransUnion,0.3599890303844604,Experian,10,No
+Pennsylvania,PA,Citi,Experian,0.6444019927683662,Experian,31,No
+Pennsylvania,PA,Citi,Equifax,0.1962037095953922,Experian,31,No
+Pennsylvania,PA,Citi,TransUnion,0.15939429763624174,Experian,31,No
+Pennsylvania,PA,American Express,Experian,0.9340279322541563,Experian,10,No
+Pennsylvania,PA,American Express,Equifax,0.022316960892796524,Experian,10,No
+Pennsylvania,PA,American Express,TransUnion,0.04365510685304713,Experian,10,No
+Pennsylvania,PA,U.S. Bank,Experian,0.2593277611837318,TransUnion,4,No
+Pennsylvania,PA,U.S. Bank,Equifax,0.17095225947060122,TransUnion,4,No
+Pennsylvania,PA,U.S. Bank,TransUnion,0.569719979345667,TransUnion,4,No
+Pennsylvania,PA,Wells Fargo,Experian,0.4422527415854244,Experian,4,No
+Pennsylvania,PA,Wells Fargo,Equifax,0.23625922386625656,Experian,4,No
+Pennsylvania,PA,Wells Fargo,TransUnion,0.321488034548319,Experian,4,No
+Pennsylvania,PA,Capital One,Experian,0.44767315708211214,Experian,0,No
+Pennsylvania,PA,Capital One,Equifax,0.26950950756475,Experian,0,No
+Pennsylvania,PA,Capital One,TransUnion,0.28281733535313786,Experian,0,No
+Pennsylvania,PA,Synchrony,Experian,0.3465302077973353,TransUnion,2,No
+Pennsylvania,PA,Synchrony,Equifax,0.09890695884445584,TransUnion,2,No
+Pennsylvania,PA,Synchrony,TransUnion,0.5545628333582089,TransUnion,2,No
+Pennsylvania,PA,Discover,Experian,0.710302695456569,Experian,1,No
+Pennsylvania,PA,Discover,Equifax,0.15751303431092475,Experian,1,No
+Pennsylvania,PA,Discover,TransUnion,0.13218427023250637,Experian,1,No
+Pennsylvania,PA,Elan,Experian,0.23997685290933155,TransUnion,1,No
+Pennsylvania,PA,Elan,Equifax,0.15863163481671236,TransUnion,1,No
+Pennsylvania,PA,Elan,TransUnion,0.601391512273956,TransUnion,1,No
+Pennsylvania,PA,Navy Federal,Experian,0.23047795648276503,TransUnion,0,No
+Pennsylvania,PA,Navy Federal,Equifax,0.13592090193227555,TransUnion,0,No
+Pennsylvania,PA,Navy Federal,TransUnion,0.6336011415849593,TransUnion,0,No
+Pennsylvania,PA,Comenity / Bread,Experian,0.5228282271758916,Experian,2,No
+Pennsylvania,PA,Comenity / Bread,Equifax,0.33832163351994543,Experian,2,No
+Pennsylvania,PA,Comenity / Bread,TransUnion,0.13885013930416296,Experian,2,No
+Pennsylvania,PA,Apple Card,Experian,0.17318144229551033,TransUnion,0,No
+Pennsylvania,PA,Apple Card,Equifax,0.10609757215388117,TransUnion,0,No
+Pennsylvania,PA,Apple Card,TransUnion,0.7207209855506086,TransUnion,0,No
+Pennsylvania,PA,Barclays,Experian,0.3413382601106369,TransUnion,1,No
+Pennsylvania,PA,Barclays,Equifax,0.0835791185273218,TransUnion,1,No
+Pennsylvania,PA,Barclays,TransUnion,0.5750826213620414,TransUnion,1,No
+Rhode Island,RI,Chase,Experian,0.4502617707210895,Experian,0,No
+Rhode Island,RI,Chase,Equifax,0.29349491108986886,Experian,0,No
+Rhode Island,RI,Chase,TransUnion,0.2562433181890416,Experian,0,No
+Rhode Island,RI,Bank of America,Experian,0.6417803247206434,Experian,1,No
+Rhode Island,RI,Bank of America,Equifax,0.09230165469376708,Experian,1,No
+Rhode Island,RI,Bank of America,TransUnion,0.2659180205855895,Experian,1,No
+Rhode Island,RI,Citi,Experian,0.5105248124852036,Experian,0,No
+Rhode Island,RI,Citi,Equifax,0.38395102939270986,Experian,0,No
+Rhode Island,RI,Citi,TransUnion,0.10552415812208653,Experian,0,No
+Rhode Island,RI,American Express,Experian,0.914474293830294,Experian,0,No
+Rhode Island,RI,American Express,Equifax,0.03552964812820814,Experian,0,No
+Rhode Island,RI,American Express,TransUnion,0.04999605804149801,Experian,0,No
+Rhode Island,RI,U.S. Bank,Experian,0.28795142212278374,TransUnion,0,No
+Rhode Island,RI,U.S. Bank,Equifax,0.2859934255932299,TransUnion,0,No
+Rhode Island,RI,U.S. Bank,TransUnion,0.4260551522839863,TransUnion,0,No
+Rhode Island,RI,Wells Fargo,Experian,0.5237960560726302,Experian,0,No
+Rhode Island,RI,Wells Fargo,Equifax,0.19831109116802578,Experian,0,No
+Rhode Island,RI,Wells Fargo,TransUnion,0.2778928527593441,Experian,0,No
+Rhode Island,RI,Capital One,Experian,0.43680307451776634,Experian,0,No
+Rhode Island,RI,Capital One,Equifax,0.33097528017261163,Experian,0,No
+Rhode Island,RI,Capital One,TransUnion,0.23222164530962205,Experian,0,No
+Rhode Island,RI,Synchrony,Experian,0.3396318168293865,TransUnion,0,No
+Rhode Island,RI,Synchrony,Equifax,0.14173275293581583,TransUnion,0,No
+Rhode Island,RI,Synchrony,TransUnion,0.5186354302347977,TransUnion,0,No
+Rhode Island,RI,Discover,Experian,0.6685430599669904,Experian,0,No
+Rhode Island,RI,Discover,Equifax,0.2128590625389462,Experian,0,No
+Rhode Island,RI,Discover,TransUnion,0.11859787749406348,Experian,0,No
+Rhode Island,RI,Elan,Experian,0.2812329750845511,TransUnion,0,No
+Rhode Island,RI,Elan,Equifax,0.22822767716707715,TransUnion,0,No
+Rhode Island,RI,Elan,TransUnion,0.4905393477483718,TransUnion,0,No
+Rhode Island,RI,Navy Federal,Experian,0.2465666915880583,TransUnion,0,No
+Rhode Island,RI,Navy Federal,Equifax,0.18301559443840215,TransUnion,0,No
+Rhode Island,RI,Navy Federal,TransUnion,0.5704177139735396,TransUnion,0,No
+Rhode Island,RI,Comenity / Bread,Experian,0.5082874852799263,Experian,0,No
+Rhode Island,RI,Comenity / Bread,Equifax,0.37021242278217387,Experian,0,No
+Rhode Island,RI,Comenity / Bread,TransUnion,0.1215000919378998,Experian,0,No
+Rhode Island,RI,Apple Card,Experian,0.18963609390869973,TransUnion,0,No
+Rhode Island,RI,Apple Card,Equifax,0.14622510126736774,TransUnion,0,No
+Rhode Island,RI,Apple Card,TransUnion,0.6641388048239324,TransUnion,0,No
+Rhode Island,RI,Barclays,Experian,0.2918794141918721,TransUnion,0,No
+Rhode Island,RI,Barclays,Equifax,0.11206102261909,TransUnion,0,No
+Rhode Island,RI,Barclays,TransUnion,0.5960595631890379,TransUnion,0,No
+South Carolina,SC,Chase,Experian,0.23851163185800975,Equifax,2,Yes
+South Carolina,SC,Chase,Equifax,0.4556376392632003,Equifax,2,Yes
+South Carolina,SC,Chase,TransUnion,0.30585072887879,Equifax,2,Yes
+South Carolina,SC,Bank of America,Experian,0.41034858155053,TransUnion,5,Yes
+South Carolina,SC,Bank of America,Equifax,0.13678189708866817,TransUnion,5,Yes
+South Carolina,SC,Bank of America,TransUnion,0.4528695213608017,TransUnion,5,Yes
+South Carolina,SC,Citi,Experian,0.2481647680441609,Equifax,2,Yes
+South Carolina,SC,Citi,Equifax,0.6533162775486276,Equifax,2,Yes
+South Carolina,SC,Citi,TransUnion,0.09851895440721152,Equifax,2,Yes
+South Carolina,SC,American Express,Experian,0.8829568896445379,Experian,7,Yes
+South Carolina,SC,American Express,Equifax,0.05841901050543674,Experian,7,Yes
+South Carolina,SC,American Express,TransUnion,0.05862409985002546,Experian,7,Yes
+South Carolina,SC,U.S. Bank,Experian,0.1831179691165369,Equifax,4,Yes
+South Carolina,SC,U.S. Bank,Equifax,0.4417435110961902,Equifax,4,Yes
+South Carolina,SC,U.S. Bank,TransUnion,0.37513851978727303,Equifax,4,Yes
+South Carolina,SC,Wells Fargo,Experian,0.4129098350501569,Experian,1,Yes
+South Carolina,SC,Wells Fargo,Equifax,0.2917292338446553,Experian,1,Yes
+South Carolina,SC,Wells Fargo,TransUnion,0.29536093110518785,Experian,1,Yes
+South Carolina,SC,Capital One,Experian,0.2658048254749346,Equifax,0,Yes
+South Carolina,SC,Capital One,Equifax,0.4870525746330817,Equifax,0,Yes
+South Carolina,SC,Capital One,TransUnion,0.24714259989198373,Equifax,0,Yes
+South Carolina,SC,Synchrony,Experian,0.19296501350042525,TransUnion,1,Yes
+South Carolina,SC,Synchrony,Equifax,0.19481218509952195,TransUnion,1,Yes
+South Carolina,SC,Synchrony,TransUnion,0.6122228014000528,TransUnion,1,Yes
+South Carolina,SC,Discover,Experian,0.5349522678887486,Experian,1,Yes
+South Carolina,SC,Discover,Equifax,0.32615760536484234,Experian,1,Yes
+South Carolina,SC,Discover,TransUnion,0.13889012674640902,Experian,1,Yes
+South Carolina,SC,Elan,Experian,0.16630605810741428,TransUnion,0,Yes
+South Carolina,SC,Elan,Equifax,0.3263722679125248,TransUnion,0,Yes
+South Carolina,SC,Elan,TransUnion,0.5073216739800609,TransUnion,0,Yes
+South Carolina,SC,Navy Federal,Experian,0.1347790252047929,TransUnion,2,Yes
+South Carolina,SC,Navy Federal,Equifax,0.2961876931541618,TransUnion,2,Yes
+South Carolina,SC,Navy Federal,TransUnion,0.5690332816410453,TransUnion,2,Yes
+South Carolina,SC,Comenity / Bread,Experian,0.31452450911248075,Equifax,0,Yes
+South Carolina,SC,Comenity / Bread,Equifax,0.5539864911036011,Equifax,0,Yes
+South Carolina,SC,Comenity / Bread,TransUnion,0.1314889997839182,Equifax,0,Yes
+South Carolina,SC,Apple Card,Experian,0.10294175621331102,TransUnion,1,Yes
+South Carolina,SC,Apple Card,Equifax,0.18747892487509302,TransUnion,1,Yes
+South Carolina,SC,Apple Card,TransUnion,0.709579318911596,TransUnion,1,Yes
+South Carolina,SC,Barclays,Experian,0.1818192468762528,TransUnion,0,Yes
+South Carolina,SC,Barclays,Equifax,0.16880841046366354,TransUnion,0,Yes
+South Carolina,SC,Barclays,TransUnion,0.6493723426600836,TransUnion,0,Yes
+South Dakota,SD,Chase,Experian,0.3751866106094496,Experian,0,Yes
+South Dakota,SD,Chase,Equifax,0.3627143187930928,Experian,0,Yes
+South Dakota,SD,Chase,TransUnion,0.2620990705974577,Experian,0,Yes
+South Dakota,SD,Bank of America,Experian,0.5384290948510527,Experian,0,Yes
+South Dakota,SD,Bank of America,Equifax,0.13098026809556573,Experian,0,Yes
+South Dakota,SD,Bank of America,TransUnion,0.33059063705338165,Experian,0,Yes
+South Dakota,SD,Citi,Experian,0.4555380898778328,Experian,4,Yes
+South Dakota,SD,Citi,Equifax,0.41622441893954315,Experian,4,Yes
+South Dakota,SD,Citi,TransUnion,0.12823749118262404,Experian,4,Yes
+South Dakota,SD,American Express,Experian,0.8890983943194704,Experian,0,Yes
+South Dakota,SD,American Express,Equifax,0.051233154793446437,Experian,0,Yes
+South Dakota,SD,American Express,TransUnion,0.05966845088708325,Experian,0,Yes
+South Dakota,SD,U.S. Bank,Experian,0.19986935482285487,Equifax,2,Yes
+South Dakota,SD,U.S. Bank,Equifax,0.4674254587315376,Equifax,2,Yes
+South Dakota,SD,U.S. Bank,TransUnion,0.33270518644560754,Equifax,2,Yes
+South Dakota,SD,Wells Fargo,Experian,0.45192246083567694,Experian,0,Yes
+South Dakota,SD,Wells Fargo,Equifax,0.25376432963134987,Experian,0,Yes
+South Dakota,SD,Wells Fargo,TransUnion,0.2943132095329733,Experian,0,Yes
+South Dakota,SD,Capital One,Experian,0.3601776176395363,Equifax,0,Yes
+South Dakota,SD,Capital One,Equifax,0.4047701352113446,Equifax,0,Yes
+South Dakota,SD,Capital One,TransUnion,0.23505224714911913,Equifax,0,Yes
+South Dakota,SD,Synchrony,Experian,0.28625170332194605,TransUnion,0,Yes
+South Dakota,SD,Synchrony,Equifax,0.1771706598920064,TransUnion,0,Yes
+South Dakota,SD,Synchrony,TransUnion,0.5365776367860476,TransUnion,0,Yes
+South Dakota,SD,Discover,Experian,0.5917228655340117,Experian,0,Yes
+South Dakota,SD,Discover,Equifax,0.2794235338490566,Experian,0,Yes
+South Dakota,SD,Discover,TransUnion,0.12885360061693177,Experian,0,Yes
+South Dakota,SD,Elan,Experian,0.23016488293895002,TransUnion,0,Yes
+South Dakota,SD,Elan,Equifax,0.2770275749642173,TransUnion,0,Yes
+South Dakota,SD,Elan,TransUnion,0.4928075420968326,TransUnion,0,Yes
+South Dakota,SD,Navy Federal,Experian,0.2024013421498869,TransUnion,0,Yes
+South Dakota,SD,Navy Federal,Equifax,0.22281731970427004,TransUnion,0,Yes
+South Dakota,SD,Navy Federal,TransUnion,0.5747813381458431,TransUnion,0,Yes
+South Dakota,SD,Comenity / Bread,Experian,0.42128794439963196,Equifax,0,Yes
+South Dakota,SD,Comenity / Bread,Equifax,0.45509542659639396,Equifax,0,Yes
+South Dakota,SD,Comenity / Bread,TransUnion,0.12361662900397408,Equifax,0,Yes
+South Dakota,SD,Apple Card,Experian,0.15521603026959277,TransUnion,0,Yes
+South Dakota,SD,Apple Card,Equifax,0.17750858838031308,TransUnion,0,Yes
+South Dakota,SD,Apple Card,TransUnion,0.6672753813500942,TransUnion,0,Yes
+South Dakota,SD,Barclays,Experian,0.24532628330108178,TransUnion,0,Yes
+South Dakota,SD,Barclays,Equifax,0.1396937781791033,TransUnion,0,Yes
+South Dakota,SD,Barclays,TransUnion,0.6149799385198149,TransUnion,0,Yes
+Tennessee,TN,Chase,Experian,0.3580416378876413,Experian,3,Yes
+Tennessee,TN,Chase,Equifax,0.35209845202960677,Experian,3,Yes
+Tennessee,TN,Chase,TransUnion,0.2898599100827519,Experian,3,Yes
+Tennessee,TN,Bank of America,Experian,0.5737934870417805,Experian,1,Yes
+Tennessee,TN,Bank of America,Equifax,0.11703736597074568,Experian,1,Yes
+Tennessee,TN,Bank of America,TransUnion,0.30916914698747394,Experian,1,Yes
+Tennessee,TN,Citi,Experian,0.304387617608453,Equifax,9,Yes
+Tennessee,TN,Citi,Equifax,0.5864752043293464,Equifax,9,Yes
+Tennessee,TN,Citi,TransUnion,0.10913717806220055,Equifax,9,Yes
+Tennessee,TN,American Express,Experian,0.9103443150297568,Experian,7,Yes
+Tennessee,TN,American Express,Equifax,0.03972719492871609,Experian,7,Yes
+Tennessee,TN,American Express,TransUnion,0.04992849004152707,Experian,7,Yes
+Tennessee,TN,U.S. Bank,Experian,0.22578901809442448,TransUnion,0,Yes
+Tennessee,TN,U.S. Bank,Equifax,0.3262006393830356,TransUnion,0,Yes
+Tennessee,TN,U.S. Bank,TransUnion,0.44801034252254,TransUnion,0,Yes
+Tennessee,TN,Wells Fargo,Experian,0.3935408063223064,Experian,1,Yes
+Tennessee,TN,Wells Fargo,Equifax,0.22923353769428406,Experian,1,Yes
+Tennessee,TN,Wells Fargo,TransUnion,0.3772256559834095,Experian,1,Yes
+Tennessee,TN,Capital One,Experian,0.35522328693283306,Equifax,0,Yes
+Tennessee,TN,Capital One,Equifax,0.3915222713791482,Equifax,0,Yes
+Tennessee,TN,Capital One,TransUnion,0.2532544416880188,Equifax,0,Yes
+Tennessee,TN,Synchrony,Experian,0.2736091328745113,TransUnion,0,Yes
+Tennessee,TN,Synchrony,Equifax,0.16608775513912702,TransUnion,0,Yes
+Tennessee,TN,Synchrony,TransUnion,0.5603031119863617,TransUnion,0,Yes
+Tennessee,TN,Discover,Experian,0.5878788267159826,Experian,0,Yes
+Tennessee,TN,Discover,Equifax,0.2722674664677669,Experian,0,Yes
+Tennessee,TN,Discover,TransUnion,0.13985370681625048,Experian,0,Yes
+Tennessee,TN,Elan,Experian,0.22126168594966963,TransUnion,0,Yes
+Tennessee,TN,Elan,Equifax,0.26118814282115005,TransUnion,0,Yes
+Tennessee,TN,Elan,TransUnion,0.5175501712291803,TransUnion,0,Yes
+Tennessee,TN,Navy Federal,Experian,0.19297250401916977,TransUnion,0,Yes
+Tennessee,TN,Navy Federal,Equifax,0.20835037779766682,TransUnion,0,Yes
+Tennessee,TN,Navy Federal,TransUnion,0.5986771181831634,TransUnion,0,Yes
+Tennessee,TN,Comenity / Bread,Experian,0.420164055885936,Equifax,0,Yes
+Tennessee,TN,Comenity / Bread,Equifax,0.44514924246559756,Equifax,0,Yes
+Tennessee,TN,Comenity / Bread,TransUnion,0.1346867016484665,Equifax,0,Yes
+Tennessee,TN,Apple Card,Experian,0.1466674742984214,TransUnion,0,Yes
+Tennessee,TN,Apple Card,Equifax,0.1645053073413182,TransUnion,0,Yes
+Tennessee,TN,Apple Card,TransUnion,0.6888272183602604,TransUnion,0,Yes
+Tennessee,TN,Barclays,Experian,0.23271825002498256,TransUnion,0,Yes
+Tennessee,TN,Barclays,Equifax,0.12996509511018234,TransUnion,0,Yes
+Tennessee,TN,Barclays,TransUnion,0.6373166548648351,TransUnion,0,Yes
+Texas,TX,Chase,Experian,0.5163259571971884,Experian,6,No
+Texas,TX,Chase,Equifax,0.29427722378679533,Experian,6,No
+Texas,TX,Chase,TransUnion,0.18939681901601635,Experian,6,No
+Texas,TX,Bank of America,Experian,0.6076544635455046,Experian,25,No
+Texas,TX,Bank of America,Equifax,0.06705223823990089,Experian,25,No
+Texas,TX,Bank of America,TransUnion,0.3252932982145946,Experian,25,No
+Texas,TX,Citi,Experian,0.6276707162459583,Experian,46,No
+Texas,TX,Citi,Equifax,0.3050005247134104,Experian,46,No
+Texas,TX,Citi,TransUnion,0.0673287590406313,Experian,46,No
+Texas,TX,American Express,Experian,0.9409712703185708,Experian,46,No
+Texas,TX,American Express,Equifax,0.0270707001922008,Experian,46,No
+Texas,TX,American Express,TransUnion,0.03195802948922842,Experian,46,No
+Texas,TX,U.S. Bank,Experian,0.36299467173146704,Equifax,10,No
+Texas,TX,U.S. Bank,Equifax,0.44883642736178603,Equifax,10,No
+Texas,TX,U.S. Bank,TransUnion,0.18816890090674687,Equifax,10,No
+Texas,TX,Wells Fargo,Experian,0.5025673245946164,Experian,16,No
+Texas,TX,Wells Fargo,Equifax,0.17765713821423365,Experian,16,No
+Texas,TX,Wells Fargo,TransUnion,0.31977553719115,Experian,16,No
+Texas,TX,Capital One,Experian,0.4665003962080901,Experian,3,No
+Texas,TX,Capital One,Equifax,0.3203909142208006,Experian,3,No
+Texas,TX,Capital One,TransUnion,0.21310868957110934,Experian,3,No
+Texas,TX,Synchrony,Experian,0.38163135726184705,TransUnion,4,No
+Texas,TX,Synchrony,Equifax,0.16002464333262068,TransUnion,4,No
+Texas,TX,Synchrony,TransUnion,0.4583439994055322,TransUnion,4,No
+Texas,TX,Discover,Experian,0.7681088602163366,Experian,2,No
+Texas,TX,Discover,Equifax,0.15440517450880098,Experian,2,No
+Texas,TX,Discover,TransUnion,0.07748596527486237,Experian,2,No
+Texas,TX,Elan,Experian,0.35201803611908333,TransUnion,0,No
+Texas,TX,Elan,Equifax,0.22736525834187554,TransUnion,0,No
+Texas,TX,Elan,TransUnion,0.42061670553904107,TransUnion,0,No
+Texas,TX,Navy Federal,Experian,0.34058273663619065,TransUnion,2,No
+Texas,TX,Navy Federal,Equifax,0.16577122048918727,TransUnion,2,No
+Texas,TX,Navy Federal,TransUnion,0.4936460428746221,TransUnion,2,No
+Texas,TX,Comenity / Bread,Experian,0.6184949171559445,Experian,1,No
+Texas,TX,Comenity / Bread,Equifax,0.29344602705204703,Experian,1,No
+Texas,TX,Comenity / Bread,TransUnion,0.0880590557920084,Experian,1,No
+Texas,TX,Apple Card,Experian,0.2492011827791033,TransUnion,0,No
+Texas,TX,Apple Card,Equifax,0.1529354442261859,TransUnion,0,No
+Texas,TX,Apple Card,TransUnion,0.5978633729947108,TransUnion,0,No
+Texas,TX,Barclays,Experian,0.3892660693631909,TransUnion,2,No
+Texas,TX,Barclays,Equifax,0.10433776855011899,TransUnion,2,No
+Texas,TX,Barclays,TransUnion,0.5063961620866901,TransUnion,2,No
+Utah,UT,Chase,Experian,0.4432674601990908,Experian,1,Yes
+Utah,UT,Chase,Equifax,0.2077160592652028,Experian,1,Yes
+Utah,UT,Chase,TransUnion,0.3490164805357065,Experian,1,Yes
+Utah,UT,Bank of America,Experian,0.48754224539955443,Experian,0,Yes
+Utah,UT,Bank of America,Equifax,0.07163916914608777,Experian,0,Yes
+Utah,UT,Bank of America,TransUnion,0.4408185854543578,Experian,0,Yes
+Utah,UT,Citi,Experian,0.4071176401411436,Experian,2,Yes
+Utah,UT,Citi,Equifax,0.2978744788686262,Experian,2,Yes
+Utah,UT,Citi,TransUnion,0.2950078809902302,Experian,2,Yes
+Utah,UT,American Express,Experian,0.8965687224772059,Experian,3,Yes
+Utah,UT,American Express,Equifax,0.02783908300586542,Experian,3,Yes
+Utah,UT,American Express,TransUnion,0.07559219451692882,Experian,3,Yes
+Utah,UT,U.S. Bank,Experian,0.19755864461567832,TransUnion,1,Yes
+Utah,UT,U.S. Bank,Equifax,0.17762308595621193,TransUnion,1,Yes
+Utah,UT,U.S. Bank,TransUnion,0.6248182694281098,TransUnion,1,Yes
+Utah,UT,Wells Fargo,Experian,0.4351219530812005,Experian,0,Yes
+Utah,UT,Wells Fargo,Equifax,0.14758376175832785,Experian,0,Yes
+Utah,UT,Wells Fargo,TransUnion,0.4172942851604718,Experian,0,Yes
+Utah,UT,Capital One,Experian,0.3788109983815858,Experian,0,Yes
+Utah,UT,Capital One,Equifax,0.25714332325237216,Experian,0,Yes
+Utah,UT,Capital One,TransUnion,0.36404567836604207,Experian,0,Yes
+Utah,UT,Synchrony,Experian,0.241882187160292,TransUnion,0,Yes
+Utah,UT,Synchrony,Equifax,0.09042916941829413,TransUnion,0,Yes
+Utah,UT,Synchrony,TransUnion,0.6676886434214139,TransUnion,0,Yes
+Utah,UT,Discover,Experian,0.6226995701642803,Experian,0,Yes
+Utah,UT,Discover,Equifax,0.17761683493998479,Experian,0,Yes
+Utah,UT,Discover,TransUnion,0.199683594895735,Experian,0,Yes
+Utah,UT,Elan,Experian,0.20491732009270824,TransUnion,0,Yes
+Utah,UT,Elan,Equifax,0.14897847938712439,TransUnion,0,Yes
+Utah,UT,Elan,TransUnion,0.6461042005201674,TransUnion,0,Yes
+Utah,UT,Navy Federal,Experian,0.17103157972665106,TransUnion,0,Yes
+Utah,UT,Navy Federal,Equifax,0.11372941273790502,TransUnion,0,Yes
+Utah,UT,Navy Federal,TransUnion,0.7152390075354439,TransUnion,0,Yes
+Utah,UT,Comenity / Bread,Experian,0.4797071847153575,Experian,0,Yes
+Utah,UT,Comenity / Bread,Equifax,0.31301171677265266,Experian,0,Yes
+Utah,UT,Comenity / Bread,TransUnion,0.20728109851198975,Experian,0,Yes
+Utah,UT,Apple Card,Experian,0.12466462942391492,TransUnion,0,Yes
+Utah,UT,Apple Card,Equifax,0.08611662094525531,TransUnion,0,Yes
+Utah,UT,Apple Card,TransUnion,0.7892187496308297,TransUnion,0,Yes
+Utah,UT,Barclays,Experian,0.19859215711779962,TransUnion,0,Yes
+Utah,UT,Barclays,Equifax,0.06830555259613579,TransUnion,0,Yes
+Utah,UT,Barclays,TransUnion,0.7331022902860646,TransUnion,0,Yes
+Vermont,VT,Chase,Experian,0.33511350693232134,TransUnion,1,No
+Vermont,VT,Chase,Equifax,0.2644525115941983,TransUnion,1,No
+Vermont,VT,Chase,TransUnion,0.4004339814734804,TransUnion,1,No
+Vermont,VT,Bank of America,Experian,0.5027513347390916,Experian,0,No
+Vermont,VT,Bank of America,Equifax,0.09689359052295006,Experian,0,No
+Vermont,VT,Bank of America,TransUnion,0.4003550747379583,Experian,0,No
+Vermont,VT,Citi,Experian,0.45192090032463234,Experian,0,No
+Vermont,VT,Citi,Equifax,0.3993629203467294,Experian,0,No
+Vermont,VT,Citi,TransUnion,0.1487161793286382,Experian,0,No
+Vermont,VT,American Express,Experian,0.8828510886231842,Experian,0,No
+Vermont,VT,American Express,Equifax,0.04030446792020902,Experian,0,No
+Vermont,VT,American Express,TransUnion,0.0768444434566067,Experian,0,No
+Vermont,VT,U.S. Bank,Experian,0.2211085966081923,TransUnion,0,No
+Vermont,VT,U.S. Bank,Equifax,0.25804103831421743,TransUnion,0,No
+Vermont,VT,U.S. Bank,TransUnion,0.5208503650775902,TransUnion,0,No
+Vermont,VT,Wells Fargo,Experian,0.43677349333072646,Experian,0,No
+Vermont,VT,Wells Fargo,Equifax,0.1943065250884829,Experian,0,No
+Vermont,VT,Wells Fargo,TransUnion,0.3689199815807906,Experian,0,No
+Vermont,VT,Capital One,Experian,0.3653976122900341,Experian,0,No
+Vermont,VT,Capital One,Equifax,0.3253283478911358,Experian,0,No
+Vermont,VT,Capital One,TransUnion,0.30927403981883006,Experian,0,No
+Vermont,VT,Synchrony,Experian,0.25500329269619226,TransUnion,0,No
+Vermont,VT,Synchrony,Equifax,0.1250414419728816,TransUnion,0,No
+Vermont,VT,Synchrony,TransUnion,0.6199552653309262,TransUnion,0,No
+Vermont,VT,Discover,Experian,0.6036654205821487,Experian,0,No
+Vermont,VT,Discover,Equifax,0.22584235308251985,Experian,0,No
+Vermont,VT,Discover,TransUnion,0.17049222633533154,Experian,0,No
+Vermont,VT,Elan,Experian,0.21139357533388678,TransUnion,0,No
+Vermont,VT,Elan,Equifax,0.2015766316337179,TransUnion,0,No
+Vermont,VT,Elan,TransUnion,0.5870297930323953,TransUnion,0,No
+Vermont,VT,Navy Federal,Experian,0.1800077218270117,TransUnion,0,No
+Vermont,VT,Navy Federal,Equifax,0.15699692821504346,TransUnion,0,No
+Vermont,VT,Navy Federal,TransUnion,0.6629953499579448,TransUnion,0,No
+Vermont,VT,Comenity / Bread,Experian,0.44714820306858427,Experian,0,No
+Vermont,VT,Comenity / Bread,Equifax,0.3826831951499696,Experian,0,No
+Vermont,VT,Comenity / Bread,TransUnion,0.17016860178144602,Experian,0,No
+Vermont,VT,Apple Card,Experian,0.13365893374098495,TransUnion,0,No
+Vermont,VT,Apple Card,Equifax,0.12110030934606435,TransUnion,0,No
+Vermont,VT,Apple Card,TransUnion,0.7452407569129507,TransUnion,0,No
+Vermont,VT,Barclays,Experian,0.21265962901167754,TransUnion,0,No
+Vermont,VT,Barclays,Equifax,0.09593619686088746,TransUnion,0,No
+Vermont,VT,Barclays,TransUnion,0.6914041741274349,TransUnion,0,No
+Virginia,VA,Chase,Experian,0.3031623637048547,Equifax,6,Yes
+Virginia,VA,Chase,Equifax,0.4028622636830559,Equifax,6,Yes
+Virginia,VA,Chase,TransUnion,0.29397537261208945,Equifax,6,Yes
+Virginia,VA,Bank of America,Experian,0.5903811824208044,Experian,3,Yes
+Virginia,VA,Bank of America,Equifax,0.1408565537972448,Experian,3,Yes
+Virginia,VA,Bank of America,TransUnion,0.2687622637819509,Experian,3,Yes
+Virginia,VA,Citi,Experian,0.3199928867695338,Equifax,14,Yes
+Virginia,VA,Citi,Equifax,0.5841632434143422,Equifax,14,Yes
+Virginia,VA,Citi,TransUnion,0.09584386981612403,Equifax,14,Yes
+Virginia,VA,American Express,Experian,0.7253180109255173,Experian,9,Yes
+Virginia,VA,American Express,Equifax,0.1390305503172336,Experian,9,Yes
+Virginia,VA,American Express,TransUnion,0.1356514387572491,Experian,9,Yes
+Virginia,VA,U.S. Bank,Experian,0.16045229006893416,Equifax,1,Yes
+Virginia,VA,U.S. Bank,Equifax,0.463608583936869,Equifax,1,Yes
+Virginia,VA,U.S. Bank,TransUnion,0.3759391259941969,Equifax,1,Yes
+Virginia,VA,Wells Fargo,Experian,0.29342391002843515,TransUnion,2,Yes
+Virginia,VA,Wells Fargo,Equifax,0.27116680992381914,TransUnion,2,Yes
+Virginia,VA,Wells Fargo,TransUnion,0.4354092800477457,TransUnion,2,Yes
+Virginia,VA,Capital One,Experian,0.2882421289461883,Equifax,3,Yes
+Virginia,VA,Capital One,Equifax,0.4476026890322464,Equifax,3,Yes
+Virginia,VA,Capital One,TransUnion,0.2641551820215653,Equifax,3,Yes
+Virginia,VA,Synchrony,Experian,0.25497382834141036,TransUnion,2,Yes
+Virginia,VA,Synchrony,Equifax,0.1943192230240114,TransUnion,2,Yes
+Virginia,VA,Synchrony,TransUnion,0.5507069486345783,TransUnion,2,Yes
+Virginia,VA,Discover,Experian,0.5408106566439805,Experian,1,Yes
+Virginia,VA,Discover,Equifax,0.3233524688499223,Experian,1,Yes
+Virginia,VA,Discover,TransUnion,0.13583687450609716,Experian,1,Yes
+Virginia,VA,Elan,Experian,0.17050286538507337,TransUnion,0,Yes
+Virginia,VA,Elan,Equifax,0.3273310330264497,TransUnion,0,Yes
+Virginia,VA,Elan,TransUnion,0.502166101588477,TransUnion,0,Yes
+Virginia,VA,Navy Federal,Experian,0.13776003793348252,TransUnion,1,Yes
+Virginia,VA,Navy Federal,Equifax,0.23528026851913045,TransUnion,1,Yes
+Virginia,VA,Navy Federal,TransUnion,0.626959693547387,TransUnion,1,Yes
+Virginia,VA,Comenity / Bread,Experian,0.31983000326562055,Equifax,0,Yes
+Virginia,VA,Comenity / Bread,Equifax,0.551079433792811,Equifax,0,Yes
+Virginia,VA,Comenity / Bread,TransUnion,0.12909056294156845,Equifax,0,Yes
+Virginia,VA,Apple Card,Experian,0.11444734690080177,TransUnion,0,Yes
+Virginia,VA,Apple Card,Equifax,0.2087661533517691,TransUnion,0,Yes
+Virginia,VA,Apple Card,TransUnion,0.6767864997474292,TransUnion,0,Yes
+Virginia,VA,Barclays,Experian,0.18669036301963304,TransUnion,0,Yes
+Virginia,VA,Barclays,Equifax,0.16956118605906156,TransUnion,0,Yes
+Virginia,VA,Barclays,TransUnion,0.6437484509213054,TransUnion,0,Yes
+Washington,WA,Chase,Experian,0.4905172533247998,Experian,6,No
+Washington,WA,Chase,Equifax,0.2934024648431997,Experian,6,No
+Washington,WA,Chase,TransUnion,0.21608028183200062,Experian,6,No
+Washington,WA,Bank of America,Experian,0.574501273626244,Experian,15,No
+Washington,WA,Bank of America,Equifax,0.14085991371405437,Experian,15,No
+Washington,WA,Bank of America,TransUnion,0.2846388126597016,Experian,15,No
+Washington,WA,Citi,Experian,0.4727258745011962,Experian,21,No
+Washington,WA,Citi,Equifax,0.399555108842955,Experian,21,No
+Washington,WA,Citi,TransUnion,0.12771901665584892,Experian,21,No
+Washington,WA,American Express,Experian,0.9255210118628545,Experian,17,No
+Washington,WA,American Express,Equifax,0.03399201910834312,Experian,17,No
+Washington,WA,American Express,TransUnion,0.04048696902880235,Experian,17,No
+Washington,WA,U.S. Bank,Experian,0.22215560905688284,TransUnion,4,No
+Washington,WA,U.S. Bank,Equifax,0.2593163860620326,TransUnion,4,No
+Washington,WA,U.S. Bank,TransUnion,0.5185280048810845,TransUnion,4,No
+Washington,WA,Wells Fargo,Experian,0.4870974753573951,Experian,3,No
+Washington,WA,Wells Fargo,Equifax,0.21691649109176125,Experian,3,No
+Washington,WA,Wells Fargo,TransUnion,0.2959860335508435,Experian,3,No
+Washington,WA,Capital One,Experian,0.45718391557192095,Experian,2,No
+Washington,WA,Capital One,Equifax,0.34007973521491297,Experian,2,No
+Washington,WA,Capital One,TransUnion,0.2027363492131661,Experian,2,No
+Washington,WA,Synchrony,Experian,0.34507215306439526,TransUnion,3,No
+Washington,WA,Synchrony,Equifax,0.1166741069485567,TransUnion,3,No
+Washington,WA,Synchrony,TransUnion,0.5382537399870481,TransUnion,3,No
+Washington,WA,Discover,Experian,0.7182198083379919,Experian,1,No
+Washington,WA,Discover,Equifax,0.17670896108087908,Experian,1,No
+Washington,WA,Discover,TransUnion,0.10507123058112913,Experian,1,No
+Washington,WA,Elan,Experian,0.24179911030063103,TransUnion,2,No
+Washington,WA,Elan,Equifax,0.1830522934447752,TransUnion,2,No
+Washington,WA,Elan,TransUnion,0.5751485962545938,TransUnion,2,No
+Washington,WA,Navy Federal,Experian,0.2356492114868708,TransUnion,1,No
+Washington,WA,Navy Federal,Equifax,0.16115257392433358,TransUnion,1,No
+Washington,WA,Navy Federal,TransUnion,0.6031982145887956,TransUnion,1,No
+Washington,WA,Comenity / Bread,Experian,0.5263052163317555,Experian,0,No
+Washington,WA,Comenity / Bread,Equifax,0.35200263580253927,Experian,0,No
+Washington,WA,Comenity / Bread,TransUnion,0.12169214786570524,Experian,0,No
+Washington,WA,Apple Card,Experian,0.17777528783080934,TransUnion,1,No
+Washington,WA,Apple Card,Equifax,0.12770308769247857,TransUnion,1,No
+Washington,WA,Apple Card,TransUnion,0.6945216244767121,TransUnion,1,No
+Washington,WA,Barclays,Experian,0.30049008323425763,TransUnion,0,No
+Washington,WA,Barclays,Equifax,0.10593706329730147,TransUnion,0,No
+Washington,WA,Barclays,TransUnion,0.5935728534684409,TransUnion,0,No
+West Virginia,WV,Chase,Experian,0.5473546991774568,Experian,1,No
+West Virginia,WV,Chase,Equifax,0.2710918959765827,Experian,1,No
+West Virginia,WV,Chase,TransUnion,0.18155340484596041,Experian,1,No
+West Virginia,WV,Bank of America,Experian,0.695894320399793,Experian,1,No
+West Virginia,WV,Bank of America,Equifax,0.09443851727603207,Experian,1,No
+West Virginia,WV,Bank of America,TransUnion,0.20966716232417495,Experian,1,No
+West Virginia,WV,Citi,Experian,0.5414273373860081,Experian,0,No
+West Virginia,WV,Citi,Equifax,0.3797958976293354,Experian,0,No
+West Virginia,WV,Citi,TransUnion,0.07877676498465644,Experian,0,No
+West Virginia,WV,American Express,Experian,0.9304721930981555,Experian,0,No
+West Virginia,WV,American Express,Equifax,0.03371893980103083,Experian,0,No
+West Virginia,WV,American Express,TransUnion,0.03580886710081367,Experian,0,No
+West Virginia,WV,U.S. Bank,Experian,0.3369383591598468,TransUnion,0,No
+West Virginia,WV,U.S. Bank,Equifax,0.31213206531733384,TransUnion,0,No
+West Virginia,WV,U.S. Bank,TransUnion,0.35092957552281934,TransUnion,0,No
+West Virginia,WV,Wells Fargo,Experian,0.6202420238720655,Experian,1,No
+West Virginia,WV,Wells Fargo,Equifax,0.18501948995395068,Experian,1,No
+West Virginia,WV,Wells Fargo,TransUnion,0.19473848617398387,Experian,1,No
+West Virginia,WV,Capital One,Experian,0.4805443740635633,Experian,0,No
+West Virginia,WV,Capital One,Equifax,0.3396209531787141,Experian,0,No
+West Virginia,WV,Capital One,TransUnion,0.17983467275772264,Experian,0,No
+West Virginia,WV,Synchrony,Experian,0.40581822771617565,TransUnion,0,No
+West Virginia,WV,Synchrony,Equifax,0.15795904948930334,TransUnion,0,No
+West Virginia,WV,Synchrony,TransUnion,0.43622272279452096,TransUnion,0,No
+West Virginia,WV,Discover,Experian,0.7033118245413762,Experian,0,No
+West Virginia,WV,Discover,Equifax,0.20886313235381,Experian,0,No
+West Virginia,WV,Discover,TransUnion,0.08782504310481377,Experian,0,No
+West Virginia,WV,Elan,Experian,0.3109417061513374,TransUnion,1,No
+West Virginia,WV,Elan,Equifax,0.31533349841986813,TransUnion,1,No
+West Virginia,WV,Elan,TransUnion,0.3737247954287945,TransUnion,1,No
+West Virginia,WV,Navy Federal,Experian,0.30113286849225385,TransUnion,0,No
+West Virginia,WV,Navy Federal,Equifax,0.20847930832037145,TransUnion,0,No
+West Virginia,WV,Navy Federal,TransUnion,0.4903878231873746,TransUnion,0,No
+West Virginia,WV,Comenity / Bread,Experian,0.5412391297791104,Experian,0,No
+West Virginia,WV,Comenity / Bread,Equifax,0.3676900396491937,Experian,0,No
+West Virginia,WV,Comenity / Bread,TransUnion,0.09107083057169592,Experian,0,No
+West Virginia,WV,Apple Card,Experian,0.2389798723385449,TransUnion,0,No
+West Virginia,WV,Apple Card,Equifax,0.17187525751562333,TransUnion,0,No
+West Virginia,WV,Apple Card,TransUnion,0.5891448701458317,TransUnion,0,No
+West Virginia,WV,Barclays,Experian,0.35770465202040586,TransUnion,0,No
+West Virginia,WV,Barclays,Equifax,0.12809341704772229,TransUnion,0,No
+West Virginia,WV,Barclays,TransUnion,0.5142019309318718,TransUnion,0,No
+Wisconsin,WI,Chase,Experian,0.3496087712314074,Equifax,2,No
+Wisconsin,WI,Chase,Equifax,0.36330924960937644,Equifax,2,No
+Wisconsin,WI,Chase,TransUnion,0.2870819791592161,Equifax,2,No
+Wisconsin,WI,Bank of America,Experian,0.5426888880509895,Experian,1,No
+Wisconsin,WI,Bank of America,Equifax,0.1563423843740416,Experian,1,No
+Wisconsin,WI,Bank of America,TransUnion,0.30096872757496906,Experian,1,No
+Wisconsin,WI,Citi,Experian,0.6131556263662631,Experian,3,No
+Wisconsin,WI,Citi,Equifax,0.30017486506296903,Experian,3,No
+Wisconsin,WI,Citi,TransUnion,0.0866695085707679,Experian,3,No
+Wisconsin,WI,American Express,Experian,0.9188458278916299,Experian,4,No
+Wisconsin,WI,American Express,Equifax,0.03638240107232537,Experian,4,No
+Wisconsin,WI,American Express,TransUnion,0.044771771036044815,Experian,4,No
+Wisconsin,WI,U.S. Bank,Experian,0.2715363478613821,TransUnion,0,No
+Wisconsin,WI,U.S. Bank,Equifax,0.3133804139962412,TransUnion,0,No
+Wisconsin,WI,U.S. Bank,TransUnion,0.4150832381423767,TransUnion,0,No
+Wisconsin,WI,Wells Fargo,Experian,0.5030032986614883,Experian,0,No
+Wisconsin,WI,Wells Fargo,Equifax,0.221290448370077,Experian,0,No
+Wisconsin,WI,Wells Fargo,TransUnion,0.2757062529684347,Experian,0,No
+Wisconsin,WI,Capital One,Experian,0.41156762262702384,Experian,0,No
+Wisconsin,WI,Capital One,Equifax,0.36237491758935886,Experian,0,No
+Wisconsin,WI,Capital One,TransUnion,0.22605745978361724,Experian,0,No
+Wisconsin,WI,Synchrony,Experian,0.3265218254759003,TransUnion,0,No
+Wisconsin,WI,Synchrony,Equifax,0.1583365309878365,TransUnion,0,No
+Wisconsin,WI,Synchrony,TransUnion,0.5151416435362631,TransUnion,0,No
+Wisconsin,WI,Discover,Experian,0.6438114053393187,Experian,0,No
+Wisconsin,WI,Discover,Equifax,0.23819271896496175,Experian,0,No
+Wisconsin,WI,Discover,TransUnion,0.11799587569571963,Experian,0,No
+Wisconsin,WI,Elan,Experian,0.26701911502082054,TransUnion,0,No
+Wisconsin,WI,Elan,Equifax,0.25179753644407127,TransUnion,0,No
+Wisconsin,WI,Elan,TransUnion,0.48118334853510814,TransUnion,0,No
+Wisconsin,WI,Navy Federal,Experian,0.23514912110089617,TransUnion,0,No
+Wisconsin,WI,Navy Federal,Equifax,0.20281688314785906,TransUnion,0,No
+Wisconsin,WI,Navy Federal,TransUnion,0.5620339957512447,TransUnion,0,No
+Wisconsin,WI,Comenity / Bread,Experian,0.4777127853349258,Experian,0,No
+Wisconsin,WI,Comenity / Bread,Equifax,0.40431093842562327,Experian,0,No
+Wisconsin,WI,Comenity / Bread,TransUnion,0.11797627623945095,Experian,0,No
+Wisconsin,WI,Apple Card,Experian,0.1813483500144122,TransUnion,0,No
+Wisconsin,WI,Apple Card,Equifax,0.16248811242478015,TransUnion,0,No
+Wisconsin,WI,Apple Card,TransUnion,0.6561635375608076,TransUnion,0,No
+Wisconsin,WI,Barclays,Experian,0.28121852170777567,TransUnion,0,No
+Wisconsin,WI,Barclays,Equifax,0.12545907807536497,TransUnion,0,No
+Wisconsin,WI,Barclays,TransUnion,0.5933224002168593,TransUnion,0,No
