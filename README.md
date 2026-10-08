@@ -1,4 +1,4 @@
-# Client Personal Funding Dashboard
+# Client Personal & Business Funding Sequence Dashboard
 
 A shareable dashboard and database of which credit bureau each lender pulls by state, with funding type, average score needed, documentation level, and a funding sequence for every credit score tier.
 

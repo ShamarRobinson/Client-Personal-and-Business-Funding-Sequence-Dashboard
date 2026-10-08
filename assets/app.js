@@ -5,7 +5,7 @@ const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",
 const $=(s,r=document)=>r.querySelector(s);
 const h=(html)=>{const t=document.createElement("template");t.innerHTML=html.trim();return t.content.firstChild};
 
-document.body.prepend(h(`<header class="top"><div class="top-in"><a class="brand" href="index.html">Client Personal Funding Dashboard<small>Bureau pulls and funding sources</small></a><nav aria-label="Pages">${PAGES.map(p=>`<a href="${p[0]}"${p[0]===here?' aria-current="page"':''}>${p[1]}</a>`).join("")}</nav></div></header>`));
+document.body.prepend(h(`<header class="top"><div class="top-in"><a class="brand" href="index.html">Client Personal &amp; Business Funding Sequence Dashboard<small>Bureau pulls and funding sources</small></a><nav aria-label="Pages">${PAGES.map(p=>`<a href="${p[0]}"${p[0]===here?' aria-current="page"':''}>${p[1]}</a>`).join("")}</nav></div></header>`));
 document.body.append(h(`<footer>Research completed October 7, 2026. Bureau data is consumer-reported; no lender publishes which bureau it pulls by state. Scores are published minimums or community estimates. Reference information only, not financial advice. <a href="data/Inquiry_Database_Expanded.xlsx">Download the full workbook (.xlsx)</a></footer>`));
 
 const tip=h('<div id="tip" hidden></div>');document.body.append(tip);
