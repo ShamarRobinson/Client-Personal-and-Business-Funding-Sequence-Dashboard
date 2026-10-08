@@ -91,3 +91,12 @@ footer{max-width:1400px;margin:0 auto;padding:0 20px 40px;color:var(--muted);fon
 td .b{margin-bottom:2px}
 td:has(> .b){white-space:nowrap}
 td:has(> .b) .small,td:has(> .b) details{white-space:normal}
+
+nav.ext{margin-left:auto}
+nav.ext a{color:var(--link)}
+.companions{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:12px;margin:0 0 22px}
+.companions a{display:flex;flex-direction:column;gap:2px;padding:12px 14px;border:1px solid var(--line);border-radius:10px;background:var(--surface);text-decoration:none;color:var(--ink)}
+.companions a:hover{border-color:var(--link)}
+.companions b{color:var(--link)} .companions span{font-size:13px;color:var(--muted)}
+
+@media (max-width:640px){.brand{white-space:normal}}

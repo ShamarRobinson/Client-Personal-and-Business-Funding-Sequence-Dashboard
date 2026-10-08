@@ -1,12 +1,16 @@
 (function(){
 const PAGES=[["index.html","Dashboard"],["lenders.html","Lender Database"],["states.html","All States & Banks"],["matrix.html","Bureau by State"],["sequence.html","Funding Sequence"],["sources.html","Sources & Notes"]];
+const SITE="https://shamarrobinson.github.io/Client-Personal-and-Business-Funding-Sequence-Dashboard/";
+const TABLEAU="https://public.tableau.com/app/profile/shamar.robinson/viz/ClientPersonalandBusinessFundingSequenceDashboard/WhichBureauWillTheyPull";
+const DECK="https://claude.ai/artifact/95vnkBxejyTxzMTD5QAxnw";
+const REPO="https://github.com/ShamarRobinson/Client-Personal-and-Business-Funding-Sequence-Dashboard";
 const here=(location.pathname.split("/").pop()||"index.html");
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const $=(s,r=document)=>r.querySelector(s);
 const h=(html)=>{const t=document.createElement("template");t.innerHTML=html.trim();return t.content.firstChild};
 
-document.body.prepend(h(`<header class="top"><div class="top-in"><a class="brand" href="index.html">Client Personal and Business Funding Sequence Dashboard<small>Bureau pulls and funding sources</small></a><nav aria-label="Pages">${PAGES.map(p=>`<a href="${p[0]}"${p[0]===here?' aria-current="page"':''}>${p[1]}</a>`).join("")}</nav></div></header>`));
-document.body.append(h(`<footer>Research completed October 7, 2026. Bureau data is consumer-reported; no lender publishes which bureau it pulls by state. Scores are published minimums or community estimates. Reference information only, not financial advice. <a href="data/Inquiry_Database_Expanded.xlsx">Download the full workbook (.xlsx)</a></footer>`));
+document.body.prepend(h(`<header class="top"><div class="top-in"><a class="brand" href="index.html">Client Personal and Business Funding Sequence Dashboard<small>Bureau pulls and funding sources</small></a><nav aria-label="Pages">${PAGES.map(p=>`<a href="${p[0]}"${p[0]===here?' aria-current="page"':''}>${p[1]}</a>`).join("")}</nav><nav class="ext" aria-label="Related"><a href="${TABLEAU}" target="_blank" rel="noopener">Tableau maps &#8599;</a><a href="${DECK}" target="_blank" rel="noopener">Slideshow &#8599;</a><a href="${REPO}" target="_blank" rel="noopener">GitHub &#8599;</a></nav></div></header>`));
+document.body.append(h(`<footer>Research completed October 7, 2026. Bureau data is consumer-reported; no lender publishes which bureau it pulls by state. Scores are published minimums or community estimates. Reference information only, not financial advice. <a href="data/Inquiry_Database_Expanded.xlsx">Download the full workbook (.xlsx)</a> · <a href="${TABLEAU}" target="_blank" rel="noopener">Interactive maps on Tableau Public</a> · <a href="${DECK}" target="_blank" rel="noopener">Slideshow</a> · <a href="${REPO}" target="_blank" rel="noopener">GitHub repository</a> · Dashboard link: <a href="${SITE}">${SITE}</a></footer>`));
 
 const tip=h('<div id="tip" hidden></div>');document.body.append(tip);
 function bindTip(root){
@@ -47,6 +51,7 @@ R.dashboard=(d,m)=>{
   const states=uniq(S.map(s=>s.st));
   m.innerHTML=`<h1>Credit bureau pulls and funding sources at a glance</h1>
   <p class="lede">A verified and expanded version of an inquiry database: which bureau each lender pulls, by state, plus funding type, score needed and documentation level for ${L.length} lenders.</p>
+  <div class="companions"><a href="${TABLEAU}" target="_blank" rel="noopener"><b>Interactive maps</b><span>Four choropleth maps and a Story on Tableau Public</span></a><a href="${DECK}" target="_blank" rel="noopener"><b>Slideshow</b><span>Nine-slide project presentation</span></a><a href="data/Inquiry_Database_Expanded.xlsx"><b>Full workbook</b><span>Excel file with every tab</span></a><a href="${REPO}" target="_blank" rel="noopener"><b>GitHub repository</b><span>Code, data and Tableau-ready files</span></a></div>
   <div class="kpis">
    <div class="kpi"><b>${L.length}</b><span>lenders and funding sources</span></div>
    <div class="kpi"><b>${uniq(L.map(l=>l.ind)).length}</b><span>industry sections</span></div>
