@@ -1,0 +1,115 @@
+State,StateAbbr,Experian,Equifax,TransUnion,Top Bureau,Total Datapoints,Bureaus Reported,DataSet
+Alabama,AL,6,6,4,Tie: Experian / Equifax,16,"Experian, Equifax, TransUnion",All data
+Alaska,AK,1,0,0,Experian,1,Experian,All data
+Arizona,AZ,30,7,12,Experian,49,"Experian, Equifax, TransUnion",All data
+Arkansas,AR,7,1,3,Experian,11,"Experian, Equifax, TransUnion",All data
+California,CA,169,49,61,Experian,279,"Experian, Equifax, TransUnion",All data
+Colorado,CO,26,5,6,Experian,37,"Experian, Equifax, TransUnion",All data
+Connecticut,CT,10,7,4,Experian,21,"Experian, Equifax, TransUnion",All data
+Delaware,DE,22,12,14,Experian,48,"Experian, Equifax, TransUnion",All data
+District of Columbia,DC,8,2,1,Experian,11,"Experian, Equifax, TransUnion",All data
+Florida,FL,466,278,141,Experian,885,"Experian, Equifax, TransUnion",All data
+Georgia,GA,48,31,37,Experian,116,"Experian, Equifax, TransUnion",All data
+Hawaii,HI,3,6,4,Equifax,13,"Experian, Equifax, TransUnion",All data
+Idaho,ID,9,1,4,Experian,14,"Experian, Equifax, TransUnion",All data
+Illinois,IL,51,23,23,Experian,97,"Experian, Equifax, TransUnion",All data
+Indiana,IN,25,11,17,Experian,53,"Experian, Equifax, TransUnion",All data
+Iowa,IA,4,3,1,Experian,8,"Experian, Equifax, TransUnion",All data
+Kansas,KS,4,4,7,TransUnion,15,"Experian, Equifax, TransUnion",All data
+Kentucky,KY,16,6,10,Experian,32,"Experian, Equifax, TransUnion",All data
+Louisiana,LA,5,5,5,Tie: Experian / Equifax / TransUnion,15,"Experian, Equifax, TransUnion",All data
+Maine,ME,1,1,2,TransUnion,4,"Experian, Equifax, TransUnion",All data
+Maryland,MD,34,26,25,Experian,85,"Experian, Equifax, TransUnion",All data
+Massachusetts,MA,45,13,10,Experian,68,"Experian, Equifax, TransUnion",All data
+Michigan,MI,23,11,7,Experian,41,"Experian, Equifax, TransUnion",All data
+Minnesota,MN,17,6,6,Experian,29,"Experian, Equifax, TransUnion",All data
+Mississippi,MS,4,2,1,Experian,7,"Experian, Equifax, TransUnion",All data
+Missouri,MO,14,10,12,Experian,36,"Experian, Equifax, TransUnion",All data
+Montana,MT,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion",All data
+Nebraska,NE,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion",All data
+Nevada,NV,30,24,20,Experian,74,"Experian, Equifax, TransUnion",All data
+New Hampshire,NH,9,5,2,Experian,16,"Experian, Equifax, TransUnion",All data
+New Jersey,NJ,49,12,22,Experian,83,"Experian, Equifax, TransUnion",All data
+New Mexico,NM,6,2,3,Experian,11,"Experian, Equifax, TransUnion",All data
+New York,NY,92,25,24,Experian,141,"Experian, Equifax, TransUnion",All data
+North Carolina,NC,39,28,10,Experian,77,"Experian, Equifax, TransUnion",All data
+Ohio,OH,24,4,14,Experian,42,"Experian, Equifax, TransUnion",All data
+Oklahoma,OK,6,4,2,Experian,12,"Experian, Equifax, TransUnion",All data
+Oregon,OR,18,5,10,Experian,33,"Experian, Equifax, TransUnion",All data
+Pennsylvania,PA,57,13,24,Experian,94,"Experian, Equifax, TransUnion",All data
+Rhode Island,RI,1,0,0,Experian,1,Experian,All data
+South Carolina,SC,15,15,11,Tie: Experian / Equifax,41,"Experian, Equifax, TransUnion",All data
+South Dakota,SD,2,3,1,Equifax,6,"Experian, Equifax, TransUnion",All data
+Tennessee,TN,11,7,3,Experian,21,"Experian, Equifax, TransUnion",All data
+Texas,TX,124,31,32,Experian,187,"Experian, Equifax, TransUnion",All data
+Utah,UT,4,0,3,Experian,7,"Experian, TransUnion",All data
+Vermont,VT,0,0,1,TransUnion,1,TransUnion,All data
+Virginia,VA,18,18,10,Tie: Experian / Equifax,46,"Experian, Equifax, TransUnion",All data
+Washington,WA,53,23,25,Experian,101,"Experian, Equifax, TransUnion",All data
+West Virginia,WV,3,1,0,Experian,4,"Experian, Equifax",All data
+Wisconsin,WI,7,2,1,Experian,10,"Experian, Equifax, TransUnion",All data
+Alabama,AL,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax",Original list
+Arizona,AZ,12,2,6,Experian,20,"Experian, Equifax, TransUnion",Original list
+California,CA,35,15,26,Experian,76,"Experian, Equifax, TransUnion",Original list
+Colorado,CO,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion",Original list
+Delaware,DE,9,5,8,Experian,22,"Experian, Equifax, TransUnion",Original list
+Florida,FL,393,246,123,Experian,762,"Experian, Equifax, TransUnion",Original list
+Georgia,GA,1,11,9,Equifax,21,"Experian, Equifax, TransUnion",Original list
+Hawaii,HI,3,2,3,Tie: Experian / TransUnion,8,"Experian, Equifax, TransUnion",Original list
+Indiana,IN,6,4,6,Tie: Experian / TransUnion,16,"Experian, Equifax, TransUnion",Original list
+Maryland,MD,14,18,20,TransUnion,52,"Experian, Equifax, TransUnion",Original list
+Missouri,MO,6,6,10,TransUnion,22,"Experian, Equifax, TransUnion",Original list
+Nevada,NV,17,18,17,Equifax,52,"Experian, Equifax, TransUnion",Original list
+New Jersey,NJ,7,3,2,Experian,12,"Experian, Equifax, TransUnion",Original list
+New York,NY,3,3,3,Tie: Experian / Equifax / TransUnion,9,"Experian, Equifax, TransUnion",Original list
+Texas,TX,7,6,7,Tie: Experian / TransUnion,20,"Experian, Equifax, TransUnion",Original list
+Washington,WA,10,7,10,Tie: Experian / TransUnion,27,"Experian, Equifax, TransUnion",Original list
+Alabama,AL,5,5,4,Tie: Experian / Equifax,14,"Experian, Equifax, TransUnion",Outside sources
+Alaska,AK,1,0,0,Experian,1,Experian,Outside sources
+Arizona,AZ,18,5,6,Experian,29,"Experian, Equifax, TransUnion",Outside sources
+Arkansas,AR,7,1,3,Experian,11,"Experian, Equifax, TransUnion",Outside sources
+California,CA,134,34,35,Experian,203,"Experian, Equifax, TransUnion",Outside sources
+Colorado,CO,25,4,5,Experian,34,"Experian, Equifax, TransUnion",Outside sources
+Connecticut,CT,10,7,4,Experian,21,"Experian, Equifax, TransUnion",Outside sources
+Delaware,DE,13,7,6,Experian,26,"Experian, Equifax, TransUnion",Outside sources
+District of Columbia,DC,8,2,1,Experian,11,"Experian, Equifax, TransUnion",Outside sources
+Florida,FL,73,32,18,Experian,123,"Experian, Equifax, TransUnion",Outside sources
+Georgia,GA,47,20,28,Experian,95,"Experian, Equifax, TransUnion",Outside sources
+Hawaii,HI,0,4,1,Equifax,5,"Equifax, TransUnion",Outside sources
+Idaho,ID,9,1,4,Experian,14,"Experian, Equifax, TransUnion",Outside sources
+Illinois,IL,51,23,23,Experian,97,"Experian, Equifax, TransUnion",Outside sources
+Indiana,IN,19,7,11,Experian,37,"Experian, Equifax, TransUnion",Outside sources
+Iowa,IA,4,3,1,Experian,8,"Experian, Equifax, TransUnion",Outside sources
+Kansas,KS,4,4,7,TransUnion,15,"Experian, Equifax, TransUnion",Outside sources
+Kentucky,KY,16,6,10,Experian,32,"Experian, Equifax, TransUnion",Outside sources
+Louisiana,LA,5,5,5,Tie: Experian / Equifax / TransUnion,15,"Experian, Equifax, TransUnion",Outside sources
+Maine,ME,1,1,2,TransUnion,4,"Experian, Equifax, TransUnion",Outside sources
+Maryland,MD,20,8,5,Experian,33,"Experian, Equifax, TransUnion",Outside sources
+Massachusetts,MA,45,13,10,Experian,68,"Experian, Equifax, TransUnion",Outside sources
+Michigan,MI,23,11,7,Experian,41,"Experian, Equifax, TransUnion",Outside sources
+Minnesota,MN,17,6,6,Experian,29,"Experian, Equifax, TransUnion",Outside sources
+Mississippi,MS,4,2,1,Experian,7,"Experian, Equifax, TransUnion",Outside sources
+Missouri,MO,8,4,2,Experian,14,"Experian, Equifax, TransUnion",Outside sources
+Montana,MT,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion",Outside sources
+Nebraska,NE,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion",Outside sources
+Nevada,NV,13,6,3,Experian,22,"Experian, Equifax, TransUnion",Outside sources
+New Hampshire,NH,9,5,2,Experian,16,"Experian, Equifax, TransUnion",Outside sources
+New Jersey,NJ,42,9,20,Experian,71,"Experian, Equifax, TransUnion",Outside sources
+New Mexico,NM,6,2,3,Experian,11,"Experian, Equifax, TransUnion",Outside sources
+New York,NY,89,22,21,Experian,132,"Experian, Equifax, TransUnion",Outside sources
+North Carolina,NC,39,28,10,Experian,77,"Experian, Equifax, TransUnion",Outside sources
+Ohio,OH,24,4,14,Experian,42,"Experian, Equifax, TransUnion",Outside sources
+Oklahoma,OK,6,4,2,Experian,12,"Experian, Equifax, TransUnion",Outside sources
+Oregon,OR,18,5,10,Experian,33,"Experian, Equifax, TransUnion",Outside sources
+Pennsylvania,PA,57,13,24,Experian,94,"Experian, Equifax, TransUnion",Outside sources
+Rhode Island,RI,1,0,0,Experian,1,Experian,Outside sources
+South Carolina,SC,15,15,11,Tie: Experian / Equifax,41,"Experian, Equifax, TransUnion",Outside sources
+South Dakota,SD,2,3,1,Equifax,6,"Experian, Equifax, TransUnion",Outside sources
+Tennessee,TN,11,7,3,Experian,21,"Experian, Equifax, TransUnion",Outside sources
+Texas,TX,117,25,25,Experian,167,"Experian, Equifax, TransUnion",Outside sources
+Utah,UT,4,0,3,Experian,7,"Experian, TransUnion",Outside sources
+Vermont,VT,0,0,1,TransUnion,1,TransUnion,Outside sources
+Virginia,VA,18,18,10,Tie: Experian / Equifax,46,"Experian, Equifax, TransUnion",Outside sources
+Washington,WA,43,16,15,Experian,74,"Experian, Equifax, TransUnion",Outside sources
+West Virginia,WV,3,1,0,Experian,4,"Experian, Equifax",Outside sources
+Wisconsin,WI,7,2,1,Experian,10,"Experian, Equifax, TransUnion",Outside sources
