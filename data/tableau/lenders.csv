@@ -1,0 +1,205 @@
+Lender,Industry,FundingType,PrimaryBureau,AvgScoreNeeded,Minimum,LowNoDoc,Confidence,InOriginalList
+JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,Personal and business credit cards; business lines of credit and term loans; SBA 7(a) and Express,Experian,700-720,About 670 for Ink business cards; Freedom Rise accepts no credit history,Partial,High,Yes
+American Express,Major Banks & Card Issuers,Personal and business credit cards and charge cards; Business Line of Credit (formerly Kabbage),Experian,690-720,About 670 for cards; 660 FICO for the Business Line of Credit,Partial,High,Yes
+Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,Personal and business credit cards; personal loans; small business lending in branch markets,Experian,700-720,About 680,Partial,High,Yes
+Bank of America,Major Banks & Card Issuers,Personal and business credit cards; unsecured and secured business lines of credit; term loans; equipment loans; secured business card,Experian,700-720,About 670 for cards; 700 for unsecured business credit,Partial,High,Yes
+Capital One,Major Banks & Card Issuers,Personal and business credit cards; secured card; business lines and loans,All three,670-700 for mainstream cards,Secured Platinum is recommended for 300-629,Partial,High,Yes
+Discover (now part of Capital One),Major Banks & Card Issuers,Personal credit cards; secured card; personal loans,Experian,680,"660 for personal loans ($25,000 minimum income); secured card for thinner files",Partial,Medium,Yes
+U.S. Bank,Major Banks & Card Issuers,"Personal and business credit cards; Cash Flow Manager line of credit (up to $250,000); Quick Loan; SBA 7(a) and Express",TransUnion,720,About 700,Partial,High,Yes
+Wells Fargo (Card Services),Major Banks & Card Issuers,"Personal and business credit cards; BusinessLine line of credit (up to $150,000); SBA 7(a) and 504",Experian,700,680 for BusinessLine (6 months in business),Partial,High,Yes
+Wells Fargo Business Direct (WFB BD CRE),Major Banks & Card Issuers,Small business credit cards and lines of credit,Experian,700,680,Partial,Medium,Yes
+Barclays Bank Delaware,Major Banks & Card Issuers,Personal and co-brand credit cards; a few co-brand business cards,TransUnion,700-720,About 680,Partial,High,Yes
+"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,Personal credit card,TransUnion,660-700,About 620 (community estimate),Partial,High,Yes
+Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,"Agent-issued personal and business credit cards for about 1,400 community banks and credit unions (Fidelity, Webster, Associated, EverBank and others)",TransUnion,720,About 700,Partial,High,Yes
+PNC Bank,Regional & Community Banks,"Personal and business credit cards; unsecured business line of credit ($10,000 to $100,000); secured lines; SBA 7(a)",Experian,700-720,About 680,Partial,Medium,Yes
+Truist Bank (formerly SunTrust and BB&T),Regional & Community Banks,Personal and business credit cards; business lines and loans,Equifax,700,About 680,Partial,Medium,Yes
+"BBVA USA (defunct, now PNC)",Regional & Community Banks,Was: credit cards and loans,Experian,n/a,n/a,n/a,High,Yes
+BMO (formerly BMO Harris),Regional & Community Banks,Personal and business credit cards; business lines,TransUnion,700,About 680,Partial,Medium,Yes
+Fifth Third Bank,Regional & Community Banks,Credit cards; business lines and loans; healthcare practice financing,TransUnion,700,About 680,Partial,Low,Yes
+Huntington National Bank,Regional & Community Banks,Credit cards; SBA 7(a) (largest SBA lender by loan count); business lines,Equifax,700,About 660,Partial,Medium,Yes
+KeyBank,Regional & Community Banks,Credit cards; business lines and loans,Equifax,700,About 680,Partial,Low,Yes
+"Citizens Bank (Citizens One, formerly RBS Citizens)",Regional & Community Banks,Credit cards; personal loans; merchant financing (Citizens Pay),Equifax,700,About 680,Partial,Medium,Yes
+M&T Bank,Regional & Community Banks,Credit cards; direct and indirect consumer loans; business lines,Experian,700,About 680,Partial,Medium,Yes
+Regions Bank,Regional & Community Banks,Credit cards; business lines,TransUnion,700,About 680,Partial,Medium,Yes
+First National Bank of Omaha (FNBO),Regional & Community Banks,Personal and business credit cards (Evergreen and many co-brands),Experian,700-720,About 680,Partial,Medium,Yes
+TD Bank,Regional & Community Banks,Personal and business credit cards; business lines,Experian,700,About 680,Partial,Medium,Yes
+HSBC Bank USA,Regional & Community Banks,Credit cards for Premier clients; personal loans (limited),Equifax,720,About 700,No,Medium,Added
+Synovus Bank,Regional & Community Banks,Credit cards; business lending (Southeast),Equifax,700,About 680,Partial,Low,Added
+"Zions Bancorporation banks (Nevada State Bank, Amegy, California Bank & Trust, National Bank of Arizona, Vectra, Zions)",Regional & Community Banks,AmaZing personal and business credit cards; business lines,Experian,700,About 680,Partial,Medium,Added
+First Citizens Bank,Regional & Community Banks,Business credit cards and lines,Not documented,700,About 680,Partial,Low,Added
+Banco Popular (BPPR white label),Regional & Community Banks,Credit cards and private-label programs,Varies,n/a,n/a,Partial,Low,Yes
+TAB Bank (Transportation Alliance Bank),Regional & Community Banks,Bank partner for fintech lenders and cards (Mission Lane and others); trucking and small business lending,Varies,n/a,n/a,Partial,Low,Yes
+Bank of Stockton,Regional & Community Banks,Community bank loans and lines (California),Varies,n/a,n/a,No,Low,Yes
+"Community banks in your FL rows (Ohio Valley, Peoples Bank, United Bank, WesBanco)",Regional & Community Banks,Community bank cards and loans,Varies,n/a,n/a,No,Low,Yes
+Navy Federal Credit Union,Credit Unions,Credit cards; secured card; personal loans; checking line of credit; auto; mortgage; business cards and lines,TransUnion,650-700,No published minimum; approvals lean heavily on internal relationship score,Partial,High,Yes
+PenFed Credit Union (Pentagon FCU),Credit Unions,Credit cards; personal loans; personal line of credit; auto; mortgage,Equifax,700,About 650,Partial,High,Yes
+Digital Federal Credit Union (DCU),Credit Unions,Credit cards; personal loans; auto,Equifax,680,About 640,Partial,Medium,Added
+Alliant Credit Union,Credit Unions,Credit cards; personal loans; auto,TransUnion,700,About 680,Partial,Medium,Yes
+First Tech Federal Credit Union,Credit Unions,Credit cards; personal loans; personal line of credit,Experian,700,About 660,Partial,Low,Added
+BECU,Credit Unions,Credit cards; personal loans; business lending (WA),TransUnion,700,About 660,Partial,Low,Added
+USAA (Federal Savings Bank / Savings Bank),Credit Unions,Credit cards; personal loans; auto,Experian,700,About 660,Partial,High,Yes
+SchoolsFirst FCU,Credit Unions,Credit cards; personal and auto loans (California school employees),Experian,680,About 640,Partial,Low,Yes
+Golden 1 Credit Union,Credit Unions,Credit cards; personal and auto loans (California),Experian,680,About 640,Partial,Low,Yes
+Affinity Federal Credit Union,Credit Unions,Credit cards; personal line of credit,Experian,680,About 640,Partial,Medium,Yes
+SECU (Maryland),Credit Unions,Credit cards; personal and auto loans,Equifax,680,About 640,Partial,Medium,Yes
+Interior Federal Credit Union (Dept of Interior FCU),Credit Unions,Credit cards; personal loans,Equifax,680,About 640,Partial,Medium,Yes
+Liberty FCU (formerly Evansville Teachers FCU),Credit Unions,Credit cards; personal and auto loans,TransUnion,680,About 640,Partial,Medium,Yes
+Veridian Credit Union (Iowa),Credit Unions,Credit cards; auto loans,TransUnion,680,About 640,Partial,Medium,Yes
+Elements Financial FCU,Credit Unions,Credit cards; personal and auto loans,Varies,680,About 660,Partial,Low,Yes
+WestStar Credit Union (Nevada),Credit Unions,Credit cards; personal and auto loans,Varies,680,About 640,Partial,Low,Yes
+"Other credit unions in your NV rows (Collins Cred, VCU Lending)",Credit Unions,"Unclear, likely credit union loans",Varies,n/a,n/a,n/a,Low,Yes
+Patelco Credit Union,Credit Unions,"Personal loans ($300 to $100,000); credit cards",Experian,690,630 for personal loans,Partial,Medium,Added
+NASA Federal Credit Union,Credit Unions,Credit cards; personal loans,Experian,700,About 660,Partial,Medium,Added
+Langley Federal Credit Union,Credit Unions,Credit cards; personal line of credit,Equifax,680,About 640,Partial,Medium,Added
+AOD Federal Credit Union,Credit Unions,"Credit cards (uses a mortgage score, Equifax FICO 5)",Equifax,700,About 680,Partial,Medium,Added
+Lake Michigan Credit Union,Credit Unions,Credit cards; personal loans,Varies,700,About 680,Partial,Low,Added
+Consumers Credit Union,Credit Unions,Credit cards; personal loans,TransUnion,680,About 640,Partial,Medium,Added
+Randolph-Brooks FCU (RBFCU),Credit Unions,Credit cards; personal and auto loans (Texas),TransUnion,680,About 640,Partial,Low,Added
+Service Credit Union,Credit Unions,Credit cards; personal loans,Experian,680,About 640,Partial,Low,Added
+State Department FCU,Credit Unions,Credit cards; secured card,Experian,660,About 620,Partial,Low,Added
+Redstone Federal Credit Union,Credit Unions,Credit cards; personal loans,Experian,680,About 640,Partial,Low,Added
+"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,Store credit cards; co-brand cards; promotional financing; business store cards,TransUnion,640-680,About 600 to 640,Partial,High,Yes
+"Citi Retail Services (Home Depot THD, Macy's DSNB, NTB, Best Buy and others)",Retail / Store Card Issuers,Store credit cards; commercial revolving accounts,Experian,640-680,About 620,Partial,Medium,Yes
+"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,Store credit cards; co-brand Visa and Mastercard,Experian,620-660,About 580 to 600,Partial,Medium,Yes
+TD Bank (Target Circle Card),Retail / Store Card Issuers,Store credit card,Equifax,650,About 615,Partial,Medium,Yes
+"Capital One retail cards (Kohl's, Cabela's / Bass Pro)",Retail / Store Card Issuers,Store and co-brand credit cards,All three,640,About 600,Partial,Medium,Yes
+Wells Fargo retail cards (Dillard's),Retail / Store Card Issuers,Store credit card,Experian,650,About 620,Partial,Low,Yes
+Credit One Bank,Subprime & Credit-Builder Products,Unsecured credit cards for fair and rebuilding credit,Experian,580-650,About 550 (community estimate),Partial,High,Yes
+First Premier Bank,Subprime & Credit-Builder Products,Fee-heavy unsecured cards for bad credit,Equifax,500-600,No real minimum,Partial,Medium,Yes
+Mission Lane (issued by TAB Bank or WebBank),Subprime & Credit-Builder Products,Unsecured credit cards for fair credit,TransUnion,580-660,About 550,Partial,Medium,Yes
+Fortiva / The Bank of Missouri (FRC/TBOM),Subprime & Credit-Builder Products,Subprime credit cards and retail financing,Varies,550-620,About 500,Partial,Low,Yes
+Merrick Bank,Subprime & Credit-Builder Products,Secured and unsecured cards for rebuilding credit,TransUnion,550-640,About 500,Partial,Low,Added
+First Savings Bank (Blaze Mastercard),Subprime & Credit-Builder Products,Subprime credit card,TransUnion,550-620,About 500,Partial,Medium,Yes
+"Celtic Bank (Indigo, Reflex and similar)",Subprime & Credit-Builder Products,Subprime credit cards,TransUnion,550-620,About 500,Partial,Low,Added
+Mercury Mastercard (First Bank & Trust),Subprime & Credit-Builder Products,Fair-credit credit card,TransUnion,600-670,About 575,Partial,Low,Added
+Capital One Platinum Secured,Subprime & Credit-Builder Products,Secured credit card,All three,Recommended for 300-629,None published,Yes,High,Added
+Discover it Secured,Subprime & Credit-Builder Products,Secured credit card,Experian,Thin or rebuilding files,None published,Yes,Medium,Added
+OpenSky Plus Secured Visa (Capital Bank),Subprime & Credit-Builder Products,Secured credit card with no credit check,No hard pull,Any (300-850),"None, no credit check",Yes,High,Added
+Chime Secured Credit Builder Visa (Bancorp or Stride Bank),Subprime & Credit-Builder Products,Secured charge-style card with no credit check,No hard pull,Any,"None, no credit check",Yes,High,Added
+Current Build Card,Subprime & Credit-Builder Products,Secured builder card with no credit check,No hard pull,Any (350-850),None,Yes,Medium,Added
+Tilt Motion (WebBank),Subprime & Credit-Builder Products,Unsecured card for limited credit history,Not documented,300-719,None published,Partial,Medium,Added
+AvantCard (WebBank),Subprime & Credit-Builder Products,Unsecured card for fair credit,Not documented,550-719,About 550,Partial,Medium,Added
+"Credit builder loans (Self, Credit Strong, Kikoff)",Subprime & Credit-Builder Products,Credit builder installment loans and tradelines,No hard pull,Any,"None, no hard pull",Yes,Medium,Added
+"Brex (acquired by Capital One, April 2026)",Fintech & Corporate Business Cards,Corporate charge card and spend platform,No hard pull,Not score based,No personal credit check,Yes,High,Added
+Ramp,Fintech & Corporate Business Cards,Corporate charge card and spend platform,No hard pull,Not score based,No personal credit check,Yes,High,Added
+BILL Divvy Corporate Card,Fintech & Corporate Business Cards,Corporate card with spend management,Not documented,Varies,Soft pull to start (community reports),Partial,Medium,Added
+Capital on Tap Business Credit Card (WebBank),Fintech & Corporate Business Cards,Business credit card,Not documented,680,About 670 (community estimate),Partial,Medium,Added
+Nav Prime,Fintech & Corporate Business Cards,Business charge card plus tradeline reporting,No hard pull,Any,No hard pull,Yes,Low,Added
+PayPal Business Cashback Mastercard (WebBank),Fintech & Corporate Business Cards,Business credit card,Not documented,680,About 660,Partial,Low,Added
+Bank of America Business Advantage Unlimited Cash Rewards Secured,Fintech & Corporate Business Cards,Secured business credit card,Experian,Rebuilding,Low scores accepted; deposit sets the limit,Yes,Medium,Added
+Fundbox,Online Business Lenders (Lines & Term Loans),"Business line of credit up to $250,000",No hard pull,640,600,Yes,High,Added
+OnDeck,Online Business Lenders (Lines & Term Loans),"Short-term loans ($5,000 to $400,000) and line of credit up to $200,000",No hard pull,660,625,Yes,High,Added
+Bluevine,Online Business Lenders (Lines & Term Loans),"Business line of credit up to $200,000",No hard pull,680,625,Yes,High,Added
+Headway Capital,Online Business Lenders (Lines & Term Loans),"Business line of credit up to $100,000",No hard pull,640,About 625 (estimate),Yes,Medium,Added
+American Express Business Line of Credit,Online Business Lenders (Lines & Term Loans),"Business line of credit $2,000 to $250,000",Experian,700,660,Yes,High,Added
+Quantum Lending Solutions,Online Business Lenders (Lines & Term Loans),"Business line of credit up to $150,000",Not documented,700,680,Partial,Medium,Added
+SBG Funding,Online Business Lenders (Lines & Term Loans),"Term loans, lines and bad-credit loans ($5,000 to $10M)",No hard pull,600,500,Yes,Medium,Added
+Fora Financial,Online Business Lenders (Lines & Term Loans),Short-term loans and revenue advances up to $1.5M,No hard pull,620,570,Yes,Medium,Added
+National Funding,Online Business Lenders (Lines & Term Loans),"Short-term loans and equipment financing ($5,000 to $500,000)",No hard pull,680,660,Yes,Medium,Added
+iBusiness Funding,Online Business Lenders (Lines & Term Loans),"Term and equipment loans ($25,000 to $500,000); SBA lender",Not documented,700,660,No,Medium,Added
+"Platform capital (PayPal Working Capital, Square Loans, Shopify Capital, Stripe Capital)",Online Business Lenders (Lines & Term Loans),Sales-based advances and loans repaid from processing volume,No hard pull,Not score based,Usually no hard credit check,Yes,Low,Added
+"Marketplaces (Lendio, Fundera by NerdWallet, SmallBusinessLoans.com)",Online Business Lenders (Lines & Term Loans),Loan marketplaces that shop one application to many lenders,Not documented,660,About 500 to 660 depending on product,Partial,Medium,Added
+Forward Financing,Merchant Cash Advance & Revenue-Based Funding,"Merchant cash advance up to $500,000",No hard pull,550,500,Yes,Medium,Added
+Uplyft Capital,Merchant Cash Advance & Revenue-Based Funding,Merchant cash advance up to $5M,No hard pull,550,500,Yes,Medium,Added
+Giggle Finance,Merchant Cash Advance & Revenue-Based Funding,"Small merchant cash advance up to $15,000 for gig workers and sole proprietors",No hard pull,Any,300 (no credit check),Yes,Medium,Added
+Fundomate,Merchant Cash Advance & Revenue-Based Funding,"Business funding up to $500,000",No hard pull,640,600,Yes,Medium,Added
+Rapid Finance,Merchant Cash Advance & Revenue-Based Funding,"Merchant cash advance and short-term loans up to $500,000",No hard pull,650,600,Yes,Medium,Added
+altLINE (The Southern Bank Company),Invoice Factoring,"Invoice factoring $30,000 to $5M",No hard pull,Not score based,None,Yes,High,Added
+FundThrough,Invoice Factoring,"Invoice factoring, 100% advance",No hard pull,Not score based,None published,Yes,Medium,Added
+Riviera Finance,Invoice Factoring,Non-recourse invoice factoring up to $2M,No hard pull,Not score based,None published,Yes,Medium,Added
+"Other factors (RTS Financial, eCapital, Universal Funding, Scale Funding)",Invoice Factoring,Invoice and freight factoring up to $30M,No hard pull,Not score based,None published,Yes,Medium,Added
+Taycor Financial,Equipment Financing & Leasing,"Equipment loans and leases ($5,000 to $5M)",No hard pull,620,550,Yes,Medium,Added
+Creditfy,Equipment Financing & Leasing,"Equipment financing ($10,000 to $10M)",Not documented,620,550,Partial,Medium,Added
+Triton Capital,Equipment Financing & Leasing,"Equipment financing ($10,000 to $500,000)",Not documented,700,660 personal,Partial,Medium,Added
+SMB Compass,Equipment Financing & Leasing,"Equipment and asset-based financing ($25,000 to $5M)",Not documented,700,680,Partial,Medium,Added
+Bank of America Equipment Loans,Equipment Financing & Leasing,"Equipment loans from $25,000",Experian,740,700,No,Medium,Added
+"Crest Capital, Balboa Capital (Ameris Bank), eLease",Equipment Financing & Leasing,"Application-only equipment financing, typically up to $250,000 to $500,000",No hard pull,680,About 620 to 650 (estimate),Yes,Low,Added
+ACG Equipment Finance,Equipment Financing & Leasing,Equipment financing,Varies,n/a,n/a,Partial,Low,Yes
+Tricon Leasing Group,Equipment Financing & Leasing,Equipment leasing,Varies,n/a,n/a,Partial,Low,Yes
+Compass Equipment Finance,Equipment Financing & Leasing,Equipment financing (your MO row reads Compass Equi),Varies,n/a,n/a,Partial,Low,Yes
+Daimler Truck Financial,Equipment Financing & Leasing,Commercial truck financing,Varies,680,About 640,No,Low,Yes
+SBA 7(a) loans (through banks and SBLCs),"SBA, CDFI & Microlenders",Government-guaranteed term loans up to $5M,Varies,680-700,"No SBA minimum since March 1, 2026; lenders set their own (often 650+)",No,High,Added
+SBA Express and CAPLines,"SBA, CDFI & Microlenders","Revolving lines and term loans up to $500,000 (Express); CAPLines up to $5M",Varies,700,650 for CAPLines per NerdWallet,No,Medium,Added
+SBA Microloan (through nonprofit intermediaries),"SBA, CDFI & Microlenders","Loans up to $50,000",Not documented,640,Generally 620,Partial,Medium,Added
+SBA Office of Disaster Assistance (EIDL and disaster loans),"SBA, CDFI & Microlenders",Disaster loans,Varies,n/a,n/a,No,Low,Yes
+Kiva U.S.,"SBA, CDFI & Microlenders","0% interest crowdfunded microloans up to $15,000",No hard pull,Not score based,None,Yes,High,Added
+Accion Opportunity Fund,"SBA, CDFI & Microlenders","Small business loans $5,000 to $350,000",Not documented,640,Not disclosed; about 600 suggested,Partial,Medium,Added
+Ascendus,"SBA, CDFI & Microlenders","Microloans $500 to $50,000",Not documented,620,575,Partial,Medium,Added
+LiftFund,"SBA, CDFI & Microlenders",Microloans and small business loans $500 to $1M,Not documented,Not disclosed,Not disclosed,Partial,Medium,Added
+Grameen America,"SBA, CDFI & Microlenders","Group microloans for women entrepreneurs ($500 to $2,500 to start)",No hard pull,Not score based,None,Yes,Medium,Added
+USDA Farm Service Agency microloans,"SBA, CDFI & Microlenders","Farm operating and ownership microloans up to $50,000",Not documented,Not score based,None,Partial,Medium,Added
+SoFi,Personal Loans (Prime & Near-Prime),"Personal loans $5,000 to $100,000; student loan refinance; credit card",Experian,720,None listed by NerdWallet; other sources cite 600 to 680,Partial,Medium,Yes
+LightStream (Truist),Personal Loans (Prime & Near-Prime),"Unsecured personal loans $5,000 to $100,000",TransUnion,740,660,Partial,Medium,Yes
+Upstart,Personal Loans (Prime & Near-Prime),"Personal loans $1,000 to $75,000",TransUnion,620,None listed (300 accepted),Partial,Medium,Added
+Upgrade,Personal Loans (Prime & Near-Prime),"Personal loans $1,000 to $75,000; credit card line",TransUnion,650,580 to 600,Partial,Medium,Added
+Happen Bank (formerly LendingClub),Personal Loans (Prime & Near-Prime),"Personal loans $1,000 to $75,000",TransUnion,660,600,Partial,Medium,Added
+Best Egg,Personal Loans (Prime & Near-Prime),Personal loans; secured personal loans,Varies,680,640,Partial,Medium,Added
+Prosper,Personal Loans (Prime & Near-Prime),Peer-funded personal loans,TransUnion,650,560,Partial,Medium,Added
+Earnest,Personal Loans (Prime & Near-Prime),"Personal loans $3,000 to $50,000; student loans",Not documented,720,680,Partial,Medium,Added
+Discover Personal Loans,Personal Loans (Prime & Near-Prime),"Personal loans $2,500 to $40,000",Experian,720,660,Partial,Medium,Added
+Marcus by Goldman Sachs (closed to new personal loans),Personal Loans (Prime & Near-Prime),Was: personal loans,TransUnion,n/a,660 when offered,n/a,Medium,Added
+Rocket Loans,Personal Loans (Prime & Near-Prime),Personal loans,Varies,680,About 640,Partial,Low,Added
+Wells Fargo Personal Loans,Personal Loans (Prime & Near-Prime),Personal loans for existing customers,Experian,720,660 recommended,Partial,Low,Added
+OneMain Financial,Subprime Installment & Cash Advance,"Secured and unsecured personal loans $1,500 to $30,000",Varies,600,None published,Partial,Medium,Yes
+Avant,Subprime Installment & Cash Advance,"Personal loans $2,000 to $35,000",Not documented,620,550 to 580,Partial,Medium,Added
+LoanMe (ceased lending),Subprime Installment & Cash Advance,Was: high-rate personal and small business loans,Varies,n/a,n/a,n/a,Medium,Yes
+OppLoans,Subprime Installment & Cash Advance,"Installment loans $500 to $5,000 at 129% to 195% APR",No hard pull,Any,Soft check only,Yes,Medium,Added
+NetCredit,Subprime Installment & Cash Advance,"Installment loans $1,000 to $10,000 at 34% to 99.99% APR",No hard pull,Any,Not stated,Yes,Medium,Added
+"Cash advance apps (EarnIn, Chime MyPay)",Subprime Installment & Cash Advance,"Earned wage advances up to $500 to $1,000 per pay period",No hard pull,Any,No credit check,Yes,Medium,Added
+Capital One Auto Finance (COAF),Auto Finance,Indirect and direct auto loans; Auto Navigator prequalification,All three,660,500+ for Auto Navigator,Partial,High,Yes
+Ally Financial,Auto Finance,Indirect auto loans; dealer floorplan; personal lending,Varies,680,About 620,Partial,Medium,Yes
+Chase Auto Finance,Auto Finance,Indirect and direct auto loans,Varies,700,About 660,Partial,Low,Yes
+"Wells Fargo Auto (WFDS, Wells Fargo Dealer Services)",Auto Finance,Indirect auto loans,Varies,680,About 620,Partial,Medium,Yes
+U.S. Bank Dealer Services,Auto Finance,Indirect auto loans,Varies,700,About 660,Partial,Low,Yes
+Citizens One Auto Finance,Auto Finance,Indirect auto loans,Varies,680,About 640,Partial,Low,Yes
+TD Auto Finance,Auto Finance,Indirect auto loans,Varies,680,About 620,Partial,Low,Yes
+GM Financial,Auto Finance,Captive auto finance (all credit tiers),Varies,660,About 550,Partial,Low,Yes
+Toyota Motor Credit (Toyota Financial Services),Auto Finance,Captive auto finance,Varies,700,About 610,Partial,Low,Yes
+American Honda Finance (AHFC),Auto Finance,Captive auto finance,Varies,700,About 610,Partial,Low,Yes
+Mercedes-Benz Financial Services,Auto Finance,Captive auto finance,Varies,720,About 660,Partial,Low,Yes
+Westlake Financial (Nowcom),Auto Finance,Subprime indirect auto loans,Experian,580,No minimum,Partial,Medium,Yes
+Credit Acceptance,Auto Finance,Deep subprime indirect auto loans,Varies,550,No minimum,Partial,Low,Yes
+Santander Consumer USA,Auto Finance,Subprime and near-prime indirect auto loans,Experian,600,About 500,Partial,Medium,Yes
+Exeter Finance,Auto Finance,Subprime indirect auto loans,TransUnion,580,About 500,Partial,Medium,Yes
+Flagship Credit Acceptance,Auto Finance,Subprime indirect auto loans,Varies,580,About 500,Partial,Low,Yes
+Global Lending Services,Auto Finance,Subprime indirect auto loans,Varies,580,About 500,Partial,Low,Yes
+American Credit Acceptance,Auto Finance,Deep subprime indirect auto loans,Varies,550,No minimum,Partial,Low,Yes
+Consumer Portfolio Services (CPS),Auto Finance,Subprime indirect auto loans,Varies,570,About 500,Partial,Low,Yes
+MAJR Financial,Auto Finance,Subprime auto and consumer finance,Varies,n/a,n/a,Partial,Low,Yes
+"RateGenius, myAutoLoan, Autopay (auto loan marketplaces)",Auto Finance,Auto purchase and refinance marketplaces,Varies,660,560 to 575,Partial,Medium,Yes
+"Auto Credit Express, CarsDirect, Carvana",Auto Finance,Bad-credit dealer networks and online retail financing,Not documented,550,400 (Auto Credit Express); none listed for the others,Partial,Medium,Added
+"Auto dealers in your list (Modesto Toyota, Sierra Motors, Brown Honda, Prime Motor, Mall of Georgia, Northtowne, Lithia VW, South Point)",Auto Finance,Dealer-arranged financing (the dealer shops your application to several lenders),Varies,Varies,Varies,Partial,Medium,Yes
+FHA loans (through approved lenders),"Mortgage, DSCR & Real Estate Investor Lending",Government-insured home loans,All three,660-680,580 for 3.5% down; 500 to 579 with 10% down,No,Medium,Added
+Conventional (Fannie Mae / Freddie Mac) loans,"Mortgage, DSCR & Real Estate Investor Lending",Conforming home loans,All three,740+,620 typical,No,High,Added
+Angel Oak Mortgage Solutions / Angel Oak Home Loans,"Mortgage, DSCR & Real Estate Investor Lending","Non-QM: bank statement loans, DSCR loans up to $1.5M",All three,700,About 620 to 660,Yes,Medium,Yes
+New American Funding,"Mortgage, DSCR & Real Estate Investor Lending","Purchase and refinance mortgages, FHA, VA, non-QM",All three,680,580 for FHA,No,Medium,Yes
+"Other mortgage lenders in your list (AmeriSave, Fairway Independent, T2 Financial / Revolution Mortgage)","Mortgage, DSCR & Real Estate Investor Lending",Purchase and refinance mortgages,All three,700,580 to 620,No,Medium,Yes
+Kiavi,"Mortgage, DSCR & Real Estate Investor Lending","Fix and flip bridge loans ($100,000 to $5M); DSCR rental loans up to 80% LTV",No hard pull,700,660,Yes,High,Added
+RCN Capital,"Mortgage, DSCR & Real Estate Investor Lending","Fix and flip, bridge and rental loans ($75,000 to $3M)",No hard pull,700,650 (720+ for the 100% purchase option),Yes,High,Added
+New Silver,"Mortgage, DSCR & Real Estate Investor Lending",Fix and flip (up to 95% LTC) and DSCR loans up to $3M,No hard pull,700,650,Yes,High,Added
+Lima One Capital,"Mortgage, DSCR & Real Estate Investor Lending","Fix and flip, new construction and DSCR rental loans",No hard pull,720,700 for short-term rental DSCR; others not disclosed,Yes,Medium,Added
+"Griffin Funding, Truss Financial, Visio, CoreVest, Flip Funding","Mortgage, DSCR & Real Estate Investor Lending",DSCR and investor loans up to $5M,No hard pull,700,About 620 to 660 typical,Yes,Medium,Added
+HELOCs with light documentation (Figure and similar),"Mortgage, DSCR & Real Estate Investor Lending",Home equity lines funded in days,Not documented,700,About 640 (estimate),Partial,Low,Added
+Uline,Vendor / Net-30 Trade Credit,Net-30 vendor credit (shipping and warehouse supplies),No hard pull,Not score based,No personal pull,Yes,High,Added
+Quill,Vendor / Net-30 Trade Credit,Net-30 vendor credit (office supplies),No hard pull,Not score based,No personal pull,Yes,High,Added
+Grainger,Vendor / Net-30 Trade Credit,Net-30 vendor credit (industrial supplies),No hard pull,Not score based,No personal pull,Yes,High,Added
+Crown Office Supplies,Vendor / Net-30 Trade Credit,Net-30 vendor credit,No hard pull,Not score based,No personal pull,Yes,High,Added
+"Fee-based starter vendors (Office Garner, Creative Analytics, The CEO Creative, Shirtsy, Wise Business Plans, Growegy)",Vendor / Net-30 Trade Credit,Net-30 starter accounts designed to report,No hard pull,Not score based,No personal pull,Yes,Medium,Added
+"No-fee industrial and office vendors (Global Industrial, Fastenal, McMaster-Carr, Zoro, Newegg Business, HD Supply, Seton, Office Depot)",Vendor / Net-30 Trade Credit,Net-30 vendor credit,No hard pull,Not score based,Usually no personal pull,Yes,Medium,Added
+Staples Business Advantage,Vendor / Net-30 Trade Credit,Net-30 vendor credit,Not documented,Not score based,No personal pull,Partial,Medium,Added
+IKEA Business (via Slope),Vendor / Net-30 Trade Credit,"Net-30 or net-60 terms up to $150,000",Not documented,Not score based,Not stated,Partial,Medium,Added
+Carmel Financial,Specialty Consumer Finance,"Point-of-sale financing for in-home sales (water treatment, home improvement)",TransUnion,640,About 600,Partial,Medium,Yes
+Aqua Finance,Specialty Consumer Finance,"Home improvement, water treatment and marine and RV financing",Varies,640,About 600,Partial,Low,Yes
+Service Finance Company (Truist),Specialty Consumer Finance,Home improvement contractor financing,Varies,660,About 620,Partial,Low,Yes
+Sunlight Financial (Cross River Bank),Specialty Consumer Finance,Solar and home improvement loans,Varies,680,About 650,Partial,Low,Yes
+Octane Lending (Roadrunner Financial),Specialty Consumer Finance,"Powersports, RV and outdoor equipment financing",Varies,640,About 550,Partial,Low,Yes
+"Starpoint Resort Group, LifeShield",Specialty Consumer Finance,Timeshare and home security financing,Varies,n/a,n/a,Partial,Low,Yes
+"Mortgage credit report resellers (Credit Plus, Factual Data, CIC Credit, Credco, Advantage Credit, Equifax Mortgage Solutions, CIS, United One Resources, Informative Research, Covius, Funding Suite, American Reporting)",Credit Report Resellers & Screening (Not Lenders),None. They sell merged credit reports to mortgage lenders,All three (tri-merge),n/a,n/a,n/a,High,Yes
+700Credit,Credit Report Resellers & Screening (Not Lenders),None. Credit report and prescreen reseller for auto dealers,Varies,n/a,n/a,n/a,Medium,Yes
+MicroBilt,Credit Report Resellers & Screening (Not Lenders),None. Alternative credit bureau used by subprime and small business lenders,Varies,n/a,n/a,n/a,Low,Yes
+"Tenant screening (National Tenant Network, RentGrow, Checkpoint Screening / Check-Point)",Credit Report Resellers & Screening (Not Lenders),None. Rental application screening,Varies,n/a,n/a,n/a,High,Yes
+"Bureau self-inquiries (TransUnion, Experian Business Credit, Equifax)",Credit Report Resellers & Screening (Not Lenders),None,Not documented,n/a,n/a,n/a,Medium,Yes
+"Merchant processors (Payroc, Electronic Payments)",Other / Non-Lender Inquiries,"Merchant account underwriting, not funding",Varies,n/a,n/a,n/a,Low,Yes
+U.S. Department of Education,Other / Non-Lender Inquiries,Federal student loans (PLUS loan credit check),Varies,n/a,No minimum; adverse history check only,n/a,Low,Yes
+Telecom and utilities (CenturyLink),Other / Non-Lender Inquiries,Service account screening,Varies,n/a,n/a,n/a,Low,Yes
+"Unidentified names (Campora, Stinson Enterprises, Scott Stark Enterprise, The Culs, Team LOC 697, DSg Design, LFGFinance, SouthernCA, 1st Natl Bank)",Other / Non-Lender Inquiries,Unknown,Not documented,n/a,n/a,n/a,Low,Yes

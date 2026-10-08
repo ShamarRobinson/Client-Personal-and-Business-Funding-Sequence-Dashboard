@@ -1,0 +1,691 @@
+State,StateAbbr,Lender,Industry,Experian,Equifax,TransUnion,Top Bureau,Total Datapoints,Bureaus Reported
+Alabama,AL,AOD Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+Alabama,AL,American Express,Major Banks & Card Issuers,2,0,0,Experian,2,Experian
+Alabama,AL,"BBVA USA (defunct, now PNC)",Regional & Community Banks,1,0,0,Experian,1,Experian
+Alabama,AL,Bank of America,Major Banks & Card Issuers,2,0,1,Experian,3,"Experian, TransUnion"
+Alabama,AL,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Alabama,AL,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Alabama,AL,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,2,1,Equifax,4,"Experian, Equifax, TransUnion"
+Alabama,AL,Max FCU (AL),Not in lender database,0,1,0,Equifax,1,Equifax
+Alabama,AL,SECU (Maryland),Credit Unions,0,1,0,Equifax,1,Equifax
+Alabama,AL,U.S. Bank,Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Alaska,AK,Bank of America,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Arizona,AZ,American Express,Major Banks & Card Issuers,7,0,1,Experian,8,"Experian, TransUnion"
+Arizona,AZ,"BBVA USA (defunct, now PNC)",Regional & Community Banks,1,0,0,Experian,1,Experian
+Arizona,AZ,Bank of America,Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Arizona,AZ,Capital One,Major Banks & Card Issuers,2,1,1,Experian,4,"Experian, Equifax, TransUnion"
+Arizona,AZ,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,4,3,2,Experian,9,"Experian, Equifax, TransUnion"
+Arizona,AZ,Discover (now part of Capital One),Major Banks & Card Issuers,3,0,0,Experian,3,Experian
+Arizona,AZ,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,0,2,TransUnion,2,TransUnion
+Arizona,AZ,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,2,1,0,Experian,3,"Experian, Equifax"
+Arizona,AZ,"Mortgage credit report resellers (Credit Plus, Factual Data, CIC Credit, Credco, Advantage Credit, Equifax Mortgage Solutions, CIS, United One Resources, Informative Research, Covius, Funding Suite, American Reporting)",Credit Report Resellers & Screening (Not Lenders),2,1,2,Tie: Experian / TransUnion,5,"Experian, Equifax, TransUnion"
+Arizona,AZ,PNC Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+Arizona,AZ,SBA Office of Disaster Assistance (EIDL and disaster loans),"SBA, CDFI & Microlenders",1,0,0,Experian,1,Experian
+Arizona,AZ,SchoolsFirst FCU,Credit Unions,1,0,0,Experian,1,Experian
+Arizona,AZ,U.S. Bank,Major Banks & Card Issuers,0,0,3,TransUnion,3,TransUnion
+Arizona,AZ,Wells Fargo (Card Services),Major Banks & Card Issuers,4,0,0,Experian,4,Experian
+Arizona,AZ,Wells Fargo Business Direct (WFB BD CRE),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Arkansas,AR,American Express,Major Banks & Card Issuers,3,0,0,Experian,3,Experian
+Arkansas,AR,Bank of America,Major Banks & Card Issuers,3,0,0,Experian,3,Experian
+Arkansas,AR,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,0,0,3,TransUnion,3,TransUnion
+Arkansas,AR,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+California,CA,AOD Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+California,CA,Alliant Credit Union,Credit Unions,0,0,1,TransUnion,1,TransUnion
+California,CA,Ally Financial,Auto Finance,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+California,CA,American Express,Major Banks & Card Issuers,42,1,2,Experian,45,"Experian, Equifax, TransUnion"
+California,CA,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+California,CA,"Auto dealers in your list (Modesto Toyota, Sierra Motors, Brown Honda, Prime Motor, Mall of Georgia, Northtowne, Lithia VW, South Point)",Auto Finance,1,0,2,TransUnion,3,"Experian, TransUnion"
+California,CA,"BBVA USA (defunct, now PNC)",Regional & Community Banks,1,0,0,Experian,1,Experian
+California,CA,BMO (formerly BMO Harris),Regional & Community Banks,1,0,0,Experian,1,Experian
+California,CA,Bank of America,Major Banks & Card Issuers,18,5,8,Experian,31,"Experian, Equifax, TransUnion"
+California,CA,Bank of Stockton,Regional & Community Banks,1,0,0,Experian,1,Experian
+California,CA,Barclays Bank Delaware,Major Banks & Card Issuers,0,0,2,TransUnion,2,TransUnion
+California,CA,Capital One,Major Banks & Card Issuers,2,2,2,Tie: Experian / Equifax / TransUnion,6,"Experian, Equifax, TransUnion"
+California,CA,Capital One Auto Finance (COAF),Auto Finance,1,0,2,TransUnion,3,"Experian, TransUnion"
+California,CA,Carmel Financial,Specialty Consumer Finance,0,0,1,TransUnion,1,TransUnion
+California,CA,Chase Auto Finance,Auto Finance,0,0,1,TransUnion,1,TransUnion
+California,CA,"Citi Retail Services (Home Depot THD, Macy's DSNB, NTB, Best Buy and others)",Retail / Store Card Issuers,2,1,0,Experian,3,"Experian, Equifax"
+California,CA,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,49,18,6,Experian,73,"Experian, Equifax, TransUnion"
+California,CA,"Citizens Bank (Citizens One, formerly RBS Citizens)",Regional & Community Banks,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+California,CA,Citizens One Auto Finance,Auto Finance,0,1,0,Equifax,1,Equifax
+California,CA,Credit One Bank,Subprime & Credit-Builder Products,1,0,0,Experian,1,Experian
+California,CA,Discover (now part of Capital One),Major Banks & Card Issuers,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+California,CA,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,1,0,3,TransUnion,4,"Experian, TransUnion"
+California,CA,Fifth Third Bank,Regional & Community Banks,0,0,1,TransUnion,1,TransUnion
+California,CA,First National Bank of Omaha (FNBO),Regional & Community Banks,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+California,CA,GM Financial,Auto Finance,0,0,1,TransUnion,1,TransUnion
+California,CA,Golden 1 Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+California,CA,HSBC Bank USA,Regional & Community Banks,0,1,0,Equifax,1,Equifax
+California,CA,Huntington National Bank,Regional & Community Banks,0,1,0,Equifax,1,Equifax
+California,CA,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,3,3,2,Tie: Experian / Equifax,8,"Experian, Equifax, TransUnion"
+California,CA,KeyBank,Regional & Community Banks,1,0,0,Experian,1,Experian
+California,CA,LightStream (Truist),Personal Loans (Prime & Near-Prime),0,0,1,TransUnion,1,TransUnion
+California,CA,LoanMe (ceased lending),Subprime Installment & Cash Advance,1,0,0,Experian,1,Experian
+California,CA,M&T Bank,Regional & Community Banks,2,0,0,Experian,2,Experian
+California,CA,MAJR Financial,Auto Finance,1,0,0,Experian,1,Experian
+California,CA,"Mortgage credit report resellers (Credit Plus, Factual Data, CIC Credit, Credco, Advantage Credit, Equifax Mortgage Solutions, CIS, United One Resources, Informative Research, Covius, Funding Suite, American Reporting)",Credit Report Resellers & Screening (Not Lenders),5,3,3,Experian,11,"Experian, Equifax, TransUnion"
+California,CA,Navy Federal Credit Union,Credit Unions,1,1,2,TransUnion,4,"Experian, Equifax, TransUnion"
+California,CA,Octane Lending (Roadrunner Financial),Specialty Consumer Finance,1,0,0,Experian,1,Experian
+California,CA,OneMain Financial,Subprime Installment & Cash Advance,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+California,CA,PNC Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+California,CA,Patelco Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+California,CA,PenFed Credit Union (Pentagon FCU),Credit Unions,0,1,0,Equifax,1,Equifax
+California,CA,Santander Consumer USA,Auto Finance,1,0,0,Experian,1,Experian
+California,CA,Service Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+California,CA,SoFi,Personal Loans (Prime & Near-Prime),1,0,0,Experian,1,Experian
+California,CA,"Starpoint Resort Group, LifeShield",Specialty Consumer Finance,0,1,0,Equifax,1,Equifax
+California,CA,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,0,0,2,TransUnion,2,TransUnion
+California,CA,TD Auto Finance,Auto Finance,0,0,1,TransUnion,1,TransUnion
+California,CA,TD Bank (Target Circle Card),Retail / Store Card Issuers,0,1,0,Equifax,1,Equifax
+California,CA,"Tenant screening (National Tenant Network, RentGrow, Checkpoint Screening / Check-Point)",Credit Report Resellers & Screening (Not Lenders),1,0,0,Experian,1,Experian
+California,CA,Toyota Motor Credit (Toyota Financial Services),Auto Finance,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+California,CA,U.S. Bank,Major Banks & Card Issuers,6,1,11,TransUnion,18,"Experian, Equifax, TransUnion"
+California,CA,U.S. Bank Dealer Services,Auto Finance,1,0,0,Experian,1,Experian
+California,CA,"Unidentified names (Campora, Stinson Enterprises, Scott Stark Enterprise, The Culs, Team LOC 697, DSg Design, LFGFinance, SouthernCA, 1st Natl Bank)",Other / Non-Lender Inquiries,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+California,CA,Wells Fargo (Card Services),Major Banks & Card Issuers,10,1,3,Experian,14,"Experian, Equifax, TransUnion"
+California,CA,"Wells Fargo Auto (WFDS, Wells Fargo Dealer Services)",Auto Finance,1,0,0,Experian,1,Experian
+California,CA,Wells Fargo Business Direct (WFB BD CRE),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+California,CA,Westlake Financial (Nowcom),Auto Finance,2,0,0,Experian,2,Experian
+Colorado,CO,AOD Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+Colorado,CO,American Express,Major Banks & Card Issuers,16,0,0,Experian,16,Experian
+Colorado,CO,Bank of America,Major Banks & Card Issuers,0,0,5,TransUnion,5,TransUnion
+Colorado,CO,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,2,1,0,Experian,3,"Experian, Equifax"
+Colorado,CO,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Colorado,CO,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Colorado,CO,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,0,1,0,Equifax,1,Equifax
+Colorado,CO,U.S. Bank,Major Banks & Card Issuers,5,0,0,Experian,5,Experian
+Colorado,CO,USAA (Federal Savings Bank / Savings Bank),Credit Unions,1,0,0,Experian,1,Experian
+Colorado,CO,Wells Fargo (Card Services),Major Banks & Card Issuers,0,2,0,Equifax,2,Equifax
+Connecticut,CT,American Express,Major Banks & Card Issuers,4,0,1,Experian,5,"Experian, TransUnion"
+Connecticut,CT,Bank of America,Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Connecticut,CT,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,3,6,1,Equifax,10,"Experian, Equifax, TransUnion"
+Connecticut,CT,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Connecticut,CT,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,2,0,0,Experian,2,Experian
+Connecticut,CT,TD Bank (Target Circle Card),Retail / Store Card Issuers,0,1,0,Equifax,1,Equifax
+Connecticut,CT,Wells Fargo (Card Services),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Delaware,DE,Affinity Federal Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+Delaware,DE,Ally Financial,Auto Finance,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Delaware,DE,American Express,Major Banks & Card Issuers,6,0,1,Experian,7,"Experian, TransUnion"
+Delaware,DE,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Delaware,DE,Aqua Finance,Specialty Consumer Finance,0,0,1,TransUnion,1,TransUnion
+Delaware,DE,Banco Popular (BPPR white label),Regional & Community Banks,0,0,1,TransUnion,1,TransUnion
+Delaware,DE,Bank of America,Major Banks & Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Delaware,DE,Capital One,Major Banks & Card Issuers,3,1,1,Experian,5,"Experian, Equifax, TransUnion"
+Delaware,DE,"Capital One retail cards (Kohl's, Cabela's / Bass Pro)",Retail / Store Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Delaware,DE,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,3,6,0,Equifax,9,"Experian, Equifax"
+Delaware,DE,Discover (now part of Capital One),Major Banks & Card Issuers,2,0,0,Experian,2,Experian
+Delaware,DE,Exeter Finance,Auto Finance,0,0,1,TransUnion,1,TransUnion
+Delaware,DE,First Premier Bank,Subprime & Credit-Builder Products,0,1,0,Equifax,1,Equifax
+Delaware,DE,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Delaware,DE,LoanMe (ceased lending),Subprime Installment & Cash Advance,1,0,0,Experian,1,Experian
+Delaware,DE,Mission Lane (issued by TAB Bank or WebBank),Subprime & Credit-Builder Products,0,0,1,TransUnion,1,TransUnion
+Delaware,DE,Navy Federal Credit Union,Credit Unions,0,0,1,TransUnion,1,TransUnion
+Delaware,DE,OneMain Financial,Subprime Installment & Cash Advance,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Delaware,DE,Santander Consumer USA,Auto Finance,1,0,0,Experian,1,Experian
+Delaware,DE,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Delaware,DE,U.S. Bank,Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+District of Columbia,DC,American Express,Major Banks & Card Issuers,3,1,0,Experian,4,"Experian, Equifax"
+District of Columbia,DC,Bank of America,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+District of Columbia,DC,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,3,0,0,Experian,3,Experian
+District of Columbia,DC,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Florida,FL,ACG Equipment Finance,Equipment Financing & Leasing,0,0,1,TransUnion,1,TransUnion
+Florida,FL,AOD Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+Florida,FL,American Express,Major Banks & Card Issuers,239,38,26,Experian,303,"Experian, Equifax, TransUnion"
+Florida,FL,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,2,TransUnion,2,TransUnion
+Florida,FL,"BBVA USA (defunct, now PNC)",Regional & Community Banks,3,0,6,TransUnion,9,"Experian, TransUnion"
+Florida,FL,BMO (formerly BMO Harris),Regional & Community Banks,0,0,3,TransUnion,3,TransUnion
+Florida,FL,Bank of America,Major Banks & Card Issuers,48,20,26,Experian,94,"Experian, Equifax, TransUnion"
+Florida,FL,Barclays Bank Delaware,Major Banks & Card Issuers,0,0,2,TransUnion,2,TransUnion
+Florida,FL,Capital One,Major Banks & Card Issuers,1,2,1,Equifax,4,"Experian, Equifax, TransUnion"
+Florida,FL,"Citi Retail Services (Home Depot THD, Macy's DSNB, NTB, Best Buy and others)",Retail / Store Card Issuers,1,0,0,Experian,1,Experian
+Florida,FL,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,53,75,14,Equifax,142,"Experian, Equifax, TransUnion"
+Florida,FL,"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,1,0,0,Experian,1,Experian
+Florida,FL,"Community banks in your FL rows (Ohio Valley, Peoples Bank, United Bank, WesBanco)",Regional & Community Banks,0,0,4,TransUnion,4,TransUnion
+Florida,FL,Credit One Bank,Subprime & Credit-Builder Products,1,0,0,Experian,1,Experian
+Florida,FL,Discover (now part of Capital One),Major Banks & Card Issuers,3,2,0,Experian,5,"Experian, Equifax"
+Florida,FL,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Florida,FL,Fifth Third Bank,Regional & Community Banks,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Florida,FL,First National Bank of Omaha (FNBO),Regional & Community Banks,2,0,0,Experian,2,Experian
+Florida,FL,First Premier Bank,Subprime & Credit-Builder Products,0,1,0,Equifax,1,Equifax
+Florida,FL,Flagship Credit Acceptance,Auto Finance,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Florida,FL,Huntington National Bank,Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Florida,FL,Interior Federal Credit Union (Dept of Interior FCU),Credit Unions,0,1,0,Equifax,1,Equifax
+Florida,FL,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,87,75,27,Experian,189,"Experian, Equifax, TransUnion"
+Florida,FL,MicroBilt,Credit Report Resellers & Screening (Not Lenders),1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Florida,FL,MidFlorida FCU,Not in lender database,1,0,0,Experian,1,Experian
+Florida,FL,Navy Federal Credit Union,Credit Unions,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Florida,FL,Nusenda CU,Not in lender database,1,0,0,Experian,1,Experian
+Florida,FL,PNC Bank,Regional & Community Banks,1,1,3,TransUnion,5,"Experian, Equifax, TransUnion"
+Florida,FL,PenFed Credit Union (Pentagon FCU),Credit Unions,0,2,0,Equifax,2,Equifax
+Florida,FL,Redstone Federal Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+Florida,FL,Regions Bank,Regional & Community Banks,0,0,4,TransUnion,4,TransUnion
+Florida,FL,Safe CU,Not in lender database,0,0,1,TransUnion,1,TransUnion
+Florida,FL,Sunlight Financial (Cross River Bank),Specialty Consumer Finance,1,0,0,Experian,1,Experian
+Florida,FL,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,2,0,3,TransUnion,5,"Experian, TransUnion"
+Florida,FL,Synovus Bank,Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Florida,FL,TAB Bank (Transportation Alliance Bank),Regional & Community Banks,1,0,0,Experian,1,Experian
+Florida,FL,TD Bank,Regional & Community Banks,4,0,0,Experian,4,Experian
+Florida,FL,TD Bank (Target Circle Card),Retail / Store Card Issuers,0,1,0,Equifax,1,Equifax
+Florida,FL,Tricon Leasing Group,Equipment Financing & Leasing,1,0,0,Experian,1,Experian
+Florida,FL,Truist Bank (formerly SunTrust and BB&T),Regional & Community Banks,0,17,0,Equifax,17,Equifax
+Florida,FL,U.S. Bank,Major Banks & Card Issuers,1,11,7,Equifax,19,"Experian, Equifax, TransUnion"
+Florida,FL,USAA (Federal Savings Bank / Savings Bank),Credit Unions,1,0,0,Experian,1,Experian
+Florida,FL,"Unidentified names (Campora, Stinson Enterprises, Scott Stark Enterprise, The Culs, Team LOC 697, DSg Design, LFGFinance, SouthernCA, 1st Natl Bank)",Other / Non-Lender Inquiries,0,0,1,TransUnion,1,TransUnion
+Florida,FL,Wells Fargo (Card Services),Major Banks & Card Issuers,10,25,5,Equifax,40,"Experian, Equifax, TransUnion"
+Georgia,GA,Ally Financial,Auto Finance,0,1,0,Equifax,1,Equifax
+Georgia,GA,Amalgamated Bank,Not in lender database,0,1,0,Equifax,1,Equifax
+Georgia,GA,American Express,Major Banks & Card Issuers,19,0,5,Experian,24,"Experian, TransUnion"
+Georgia,GA,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,1,2,TransUnion,3,"Equifax, TransUnion"
+Georgia,GA,"Auto dealers in your list (Modesto Toyota, Sierra Motors, Brown Honda, Prime Motor, Mall of Georgia, Northtowne, Lithia VW, South Point)",Auto Finance,0,2,1,Equifax,3,"Equifax, TransUnion"
+Georgia,GA,"BBVA USA (defunct, now PNC)",Regional & Community Banks,1,0,0,Experian,1,Experian
+Georgia,GA,Bank of America,Major Banks & Card Issuers,5,0,4,Experian,9,"Experian, TransUnion"
+Georgia,GA,Barclays Bank Delaware,Major Banks & Card Issuers,1,0,2,TransUnion,3,"Experian, TransUnion"
+Georgia,GA,Capital One,Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Georgia,GA,Capital One Auto Finance (COAF),Auto Finance,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Georgia,GA,"Citi Retail Services (Home Depot THD, Macy's DSNB, NTB, Best Buy and others)",Retail / Store Card Issuers,1,0,0,Experian,1,Experian
+Georgia,GA,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,8,4,1,Experian,13,"Experian, Equifax, TransUnion"
+Georgia,GA,"Citizens Bank (Citizens One, formerly RBS Citizens)",Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Georgia,GA,"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,1,2,0,Equifax,3,"Experian, Equifax"
+Georgia,GA,Consumer Portfolio Services (CPS),Auto Finance,0,2,0,Equifax,2,Equifax
+Georgia,GA,Discover (now part of Capital One),Major Banks & Card Issuers,1,2,0,Equifax,3,"Experian, Equifax"
+Georgia,GA,Dover CU,Not in lender database,1,0,0,Experian,1,Experian
+Georgia,GA,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Georgia,GA,First National Bank of Omaha (FNBO),Regional & Community Banks,1,0,0,Experian,1,Experian
+Georgia,GA,HSBC Bank USA,Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Georgia,GA,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,3,3,2,Tie: Experian / Equifax,8,"Experian, Equifax, TransUnion"
+Georgia,GA,Navy Federal Credit Union,Credit Unions,0,0,1,TransUnion,1,TransUnion
+Georgia,GA,PNC Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+Georgia,GA,PenFed Credit Union (Pentagon FCU),Credit Unions,0,1,0,Equifax,1,Equifax
+Georgia,GA,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,0,0,2,TransUnion,2,TransUnion
+Georgia,GA,Synovus Bank,Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Georgia,GA,TD Bank (Target Circle Card),Retail / Store Card Issuers,0,1,0,Equifax,1,Equifax
+Georgia,GA,U.S. Bank,Major Banks & Card Issuers,2,4,4,Tie: Equifax / TransUnion,10,"Experian, Equifax, TransUnion"
+Georgia,GA,USAA (Federal Savings Bank / Savings Bank),Credit Unions,1,0,0,Experian,1,Experian
+Georgia,GA,"Unidentified names (Campora, Stinson Enterprises, Scott Stark Enterprise, The Culs, Team LOC 697, DSg Design, LFGFinance, SouthernCA, 1st Natl Bank)",Other / Non-Lender Inquiries,0,0,1,TransUnion,1,TransUnion
+Georgia,GA,Wells Fargo (Card Services),Major Banks & Card Issuers,2,0,10,TransUnion,12,"Experian, TransUnion"
+Georgia,GA,"Wells Fargo Auto (WFDS, Wells Fargo Dealer Services)",Auto Finance,0,1,0,Equifax,1,Equifax
+Hawaii,HI,American Express,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Hawaii,HI,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Hawaii,HI,Bank of America,Major Banks & Card Issuers,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Hawaii,HI,Capital One,Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Hawaii,HI,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,0,3,0,Equifax,3,Equifax
+Hawaii,HI,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Hawaii,HI,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Idaho,ID,American Express,Major Banks & Card Issuers,3,0,0,Experian,3,Experian
+Idaho,ID,Bank of America,Major Banks & Card Issuers,3,0,0,Experian,3,Experian
+Idaho,ID,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Idaho,ID,Discover (now part of Capital One),Major Banks & Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Idaho,ID,HSBC Bank USA,Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Idaho,ID,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Idaho,ID,PenFed Credit Union (Pentagon FCU),Credit Unions,0,0,1,TransUnion,1,TransUnion
+Idaho,ID,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,0,0,1,TransUnion,1,TransUnion
+Idaho,ID,TD Bank,Regional & Community Banks,0,0,1,TransUnion,1,TransUnion
+Illinois,IL,AOD Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+Illinois,IL,American Express,Major Banks & Card Issuers,19,0,0,Experian,19,Experian
+Illinois,IL,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Illinois,IL,Bank of America,Major Banks & Card Issuers,12,1,4,Experian,17,"Experian, Equifax, TransUnion"
+Illinois,IL,Capital One,Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Illinois,IL,"Citi Retail Services (Home Depot THD, Macy's DSNB, NTB, Best Buy and others)",Retail / Store Card Issuers,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+Illinois,IL,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,11,14,1,Equifax,26,"Experian, Equifax, TransUnion"
+Illinois,IL,"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,1,0,0,Experian,1,Experian
+Illinois,IL,Discover (now part of Capital One),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Illinois,IL,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Illinois,IL,First National Bank of Omaha (FNBO),Regional & Community Banks,1,0,0,Experian,1,Experian
+Illinois,IL,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Illinois,IL,Navy Federal Credit Union,Credit Unions,0,0,1,TransUnion,1,TransUnion
+Illinois,IL,PenFed Credit Union (Pentagon FCU),Credit Unions,0,1,0,Equifax,1,Equifax
+Illinois,IL,Regions Bank,Regional & Community Banks,0,0,1,TransUnion,1,TransUnion
+Illinois,IL,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Illinois,IL,TD Bank (Target Circle Card),Retail / Store Card Issuers,0,1,0,Equifax,1,Equifax
+Illinois,IL,U.S. Bank,Major Banks & Card Issuers,0,2,10,TransUnion,12,"Equifax, TransUnion"
+Illinois,IL,USAA (Federal Savings Bank / Savings Bank),Credit Unions,1,0,0,Experian,1,Experian
+Illinois,IL,Wells Fargo (Card Services),Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Indiana,IN,AOD Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+Indiana,IN,Affinity Federal Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+Indiana,IN,American Express,Major Banks & Card Issuers,3,0,0,Experian,3,Experian
+Indiana,IN,Beneficial State Bank (Aspiration),Not in lender database,1,0,0,Experian,1,Experian
+Indiana,IN,Capital One,Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Indiana,IN,Carmel Financial,Specialty Consumer Finance,0,0,1,TransUnion,1,TransUnion
+Indiana,IN,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,4,0,1,Experian,5,"Experian, TransUnion"
+Indiana,IN,"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,0,1,0,Equifax,1,Equifax
+Indiana,IN,Discover (now part of Capital One),Major Banks & Card Issuers,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+Indiana,IN,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Indiana,IN,Fairwinds CU,Not in lender database,0,1,0,Equifax,1,Equifax
+Indiana,IN,Fifth Third Bank,Regional & Community Banks,0,0,1,TransUnion,1,TransUnion
+Indiana,IN,Golden 1 Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+Indiana,IN,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,1,3,TransUnion,5,"Experian, Equifax, TransUnion"
+Indiana,IN,Lake Michigan Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+Indiana,IN,Langley Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+Indiana,IN,Liberty FCU (formerly Evansville Teachers FCU),Credit Unions,0,0,1,TransUnion,1,TransUnion
+Indiana,IN,MAJR Financial,Auto Finance,1,0,0,Experian,1,Experian
+Indiana,IN,"Mortgage credit report resellers (Credit Plus, Factual Data, CIC Credit, Credco, Advantage Credit, Equifax Mortgage Solutions, CIS, United One Resources, Informative Research, Covius, Funding Suite, American Reporting)",Credit Report Resellers & Screening (Not Lenders),2,2,2,Tie: Experian / Equifax / TransUnion,6,"Experian, Equifax, TransUnion"
+Indiana,IN,Navy Federal Credit Union,Credit Unions,0,0,2,TransUnion,2,TransUnion
+Indiana,IN,NorthPark Community CU,Not in lender database,0,1,0,Equifax,1,Equifax
+Indiana,IN,Patelco Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+Indiana,IN,PenFed Credit Union (Pentagon FCU),Credit Unions,0,1,0,Equifax,1,Equifax
+Indiana,IN,Redstone Federal Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+Indiana,IN,Service Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+Indiana,IN,Skyone FCU,Not in lender database,1,0,0,Experian,1,Experian
+Indiana,IN,SoFi,Personal Loans (Prime & Near-Prime),1,0,0,Experian,1,Experian
+Indiana,IN,State Department FCU,Credit Unions,1,0,0,Experian,1,Experian
+Indiana,IN,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,0,0,1,TransUnion,1,TransUnion
+Indiana,IN,"Tenant screening (National Tenant Network, RentGrow, Checkpoint Screening / Check-Point)",Credit Report Resellers & Screening (Not Lenders),1,0,0,Experian,1,Experian
+Indiana,IN,U.S. Bank,Major Banks & Card Issuers,0,0,3,TransUnion,3,TransUnion
+Indiana,IN,WebBank,Not in lender database,1,0,0,Experian,1,Experian
+Iowa,IA,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,2,0,0,Experian,2,Experian
+Iowa,IA,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Iowa,IA,U.S. Bank,Major Banks & Card Issuers,0,2,0,Equifax,2,Equifax
+Iowa,IA,Wells Fargo (Card Services),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Kansas,KS,American Express,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Kansas,KS,Arvest Bank,Not in lender database,0,0,1,TransUnion,1,TransUnion
+Kansas,KS,Azura Federal CU,Not in lender database,0,0,1,TransUnion,1,TransUnion
+Kansas,KS,BMO (formerly BMO Harris),Regional & Community Banks,0,0,1,TransUnion,1,TransUnion
+Kansas,KS,Capital One,Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Kansas,KS,Consumers Credit Union,Credit Unions,0,0,1,TransUnion,1,TransUnion
+Kansas,KS,First National Bank of Omaha (FNBO),Regional & Community Banks,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+Kansas,KS,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Kansas,KS,Mission Lane (issued by TAB Bank or WebBank),Subprime & Credit-Builder Products,0,0,1,TransUnion,1,TransUnion
+Kansas,KS,Northwest FCU,Not in lender database,0,1,0,Equifax,1,Equifax
+Kansas,KS,Redstone Federal Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+Kansas,KS,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,0,0,1,TransUnion,1,TransUnion
+Kansas,KS,TD Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+Kansas,KS,Veridian Credit Union (Iowa),Credit Unions,0,0,1,TransUnion,1,TransUnion
+Kentucky,KY,American Express,Major Banks & Card Issuers,6,0,1,Experian,7,"Experian, TransUnion"
+Kentucky,KY,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Kentucky,KY,Bank of America,Major Banks & Card Issuers,3,0,2,Experian,5,"Experian, TransUnion"
+Kentucky,KY,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,4,4,0,Tie: Experian / Equifax,8,"Experian, Equifax"
+Kentucky,KY,Discover (now part of Capital One),Major Banks & Card Issuers,2,0,1,Experian,3,"Experian, TransUnion"
+Kentucky,KY,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Kentucky,KY,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,0,1,2,TransUnion,3,"Equifax, TransUnion"
+Kentucky,KY,PenFed Credit Union (Pentagon FCU),Credit Unions,0,1,0,Equifax,1,Equifax
+Kentucky,KY,Regions Bank,Regional & Community Banks,0,0,1,TransUnion,1,TransUnion
+Kentucky,KY,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,0,0,1,TransUnion,1,TransUnion
+Kentucky,KY,Wells Fargo (Card Services),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Louisiana,LA,AOD Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+Louisiana,LA,American Express,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Louisiana,LA,Bank of America,Major Banks & Card Issuers,1,1,2,TransUnion,4,"Experian, Equifax, TransUnion"
+Louisiana,LA,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,0,1,2,TransUnion,3,"Equifax, TransUnion"
+Louisiana,LA,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Louisiana,LA,U.S. Bank,Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Louisiana,LA,Wells Fargo (Card Services),Major Banks & Card Issuers,2,0,0,Experian,2,Experian
+Maine,ME,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Maine,ME,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Maryland,MD,Affinity Federal Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+Maryland,MD,Ally Financial,Auto Finance,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Maryland,MD,American Express,Major Banks & Card Issuers,8,0,0,Experian,8,Experian
+Maryland,MD,Angel Oak Mortgage Solutions / Angel Oak Home Loans,"Mortgage, DSCR & Real Estate Investor Lending",0,0,1,TransUnion,1,TransUnion
+Maryland,MD,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Maryland,MD,Bank of America,Major Banks & Card Issuers,2,0,3,TransUnion,5,"Experian, TransUnion"
+Maryland,MD,Barclays Bank Delaware,Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Maryland,MD,"Capital One retail cards (Kohl's, Cabela's / Bass Pro)",Retail / Store Card Issuers,1,0,0,Experian,1,Experian
+Maryland,MD,Carmel Financial,Specialty Consumer Finance,0,0,1,TransUnion,1,TransUnion
+Maryland,MD,"Citi Retail Services (Home Depot THD, Macy's DSNB, NTB, Best Buy and others)",Retail / Store Card Issuers,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+Maryland,MD,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,7,4,0,Experian,11,"Experian, Equifax"
+Maryland,MD,"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+Maryland,MD,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Maryland,MD,First National Bank of Omaha (FNBO),Regional & Community Banks,1,0,0,Experian,1,Experian
+Maryland,MD,First Premier Bank,Subprime & Credit-Builder Products,0,1,0,Equifax,1,Equifax
+Maryland,MD,First Savings Bank (Blaze Mastercard),Subprime & Credit-Builder Products,0,0,1,TransUnion,1,TransUnion
+Maryland,MD,Flagship Credit Acceptance,Auto Finance,0,0,1,TransUnion,1,TransUnion
+Maryland,MD,Fortiva / The Bank of Missouri (FRC/TBOM),Subprime & Credit-Builder Products,0,1,0,Equifax,1,Equifax
+Maryland,MD,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,2,3,1,Equifax,6,"Experian, Equifax, TransUnion"
+Maryland,MD,LightStream (Truist),Personal Loans (Prime & Near-Prime),0,0,1,TransUnion,1,TransUnion
+Maryland,MD,M&T Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+Maryland,MD,"Mortgage credit report resellers (Credit Plus, Factual Data, CIC Credit, Credco, Advantage Credit, Equifax Mortgage Solutions, CIS, United One Resources, Informative Research, Covius, Funding Suite, American Reporting)",Credit Report Resellers & Screening (Not Lenders),5,5,4,Tie: Experian / Equifax,14,"Experian, Equifax, TransUnion"
+Maryland,MD,New American Funding,"Mortgage, DSCR & Real Estate Investor Lending",0,0,1,TransUnion,1,TransUnion
+Maryland,MD,OneMain Financial,Subprime Installment & Cash Advance,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Maryland,MD,SECU (Maryland),Credit Unions,0,1,0,Equifax,1,Equifax
+Maryland,MD,"Starpoint Resort Group, LifeShield",Specialty Consumer Finance,0,1,0,Equifax,1,Equifax
+Maryland,MD,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,1,1,4,TransUnion,6,"Experian, Equifax, TransUnion"
+Maryland,MD,TD Bank (Target Circle Card),Retail / Store Card Issuers,0,2,0,Equifax,2,Equifax
+Maryland,MD,"Tenant screening (National Tenant Network, RentGrow, Checkpoint Screening / Check-Point)",Credit Report Resellers & Screening (Not Lenders),0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Maryland,MD,Truist Bank (formerly SunTrust and BB&T),Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Maryland,MD,U.S. Bank,Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Maryland,MD,USAA (Federal Savings Bank / Savings Bank),Credit Unions,2,0,0,Experian,2,Experian
+Maryland,MD,"Unidentified names (Campora, Stinson Enterprises, Scott Stark Enterprise, The Culs, Team LOC 697, DSg Design, LFGFinance, SouthernCA, 1st Natl Bank)",Other / Non-Lender Inquiries,0,0,1,TransUnion,1,TransUnion
+Maryland,MD,Wells Fargo retail cards (Dillard's),Retail / Store Card Issuers,0,0,1,TransUnion,1,TransUnion
+Massachusetts,MA,Affinity Federal Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+Massachusetts,MA,Alliant Credit Union,Credit Unions,0,0,1,TransUnion,1,TransUnion
+Massachusetts,MA,American Express,Major Banks & Card Issuers,12,0,0,Experian,12,Experian
+Massachusetts,MA,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Massachusetts,MA,Bank of America,Major Banks & Card Issuers,9,0,3,Experian,12,"Experian, TransUnion"
+Massachusetts,MA,Capital One,Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Massachusetts,MA,Chartway FCU,Not in lender database,1,0,0,Experian,1,Experian
+Massachusetts,MA,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,5,4,1,Experian,10,"Experian, Equifax, TransUnion"
+Massachusetts,MA,"Citizens Bank (Citizens One, formerly RBS Citizens)",Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Massachusetts,MA,City National Bank,Not in lender database,1,0,0,Experian,1,Experian
+Massachusetts,MA,"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,1,2,0,Equifax,3,"Experian, Equifax"
+Massachusetts,MA,Commerce Bank,Not in lender database,0,1,0,Equifax,1,Equifax
+Massachusetts,MA,Digital Federal Credit Union (DCU),Credit Unions,0,1,0,Equifax,1,Equifax
+Massachusetts,MA,Discover (now part of Capital One),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Massachusetts,MA,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Massachusetts,MA,Fifth Third Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+Massachusetts,MA,First National Bank of Omaha (FNBO),Regional & Community Banks,1,0,0,Experian,1,Experian
+Massachusetts,MA,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,2,1,1,Experian,4,"Experian, Equifax, TransUnion"
+Massachusetts,MA,M&T Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+Massachusetts,MA,Navy Federal Credit Union,Credit Unions,0,0,1,TransUnion,1,TransUnion
+Massachusetts,MA,PNC Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+Massachusetts,MA,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,1,0,0,Experian,1,Experian
+Massachusetts,MA,TD Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+Massachusetts,MA,TD Bank (Target Circle Card),Retail / Store Card Issuers,0,1,0,Equifax,1,Equifax
+Massachusetts,MA,U.S. Bank,Major Banks & Card Issuers,2,1,0,Experian,3,"Experian, Equifax"
+Massachusetts,MA,United Nations FCU,Not in lender database,1,0,0,Experian,1,Experian
+Massachusetts,MA,Wells Fargo (Card Services),Major Banks & Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Michigan,MI,American Express,Major Banks & Card Issuers,9,0,0,Experian,9,Experian
+Michigan,MI,BMO (formerly BMO Harris),Regional & Community Banks,0,0,1,TransUnion,1,TransUnion
+Michigan,MI,Bank of America,Major Banks & Card Issuers,1,0,3,TransUnion,4,"Experian, TransUnion"
+Michigan,MI,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,10,8,1,Experian,19,"Experian, Equifax, TransUnion"
+Michigan,MI,Discover (now part of Capital One),Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Michigan,MI,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Michigan,MI,MI Schools & Govt CU,Not in lender database,1,0,0,Experian,1,Experian
+Michigan,MI,PNC Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+Michigan,MI,U.S. Bank,Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Michigan,MI,Wells Fargo (Card Services),Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Minnesota,MN,American Express,Major Banks & Card Issuers,4,0,0,Experian,4,Experian
+Minnesota,MN,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Minnesota,MN,Bank of America,Major Banks & Card Issuers,2,1,0,Experian,3,"Experian, Equifax"
+Minnesota,MN,Barclays Bank Delaware,Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Minnesota,MN,Beneficial State Bank (Aspiration),Not in lender database,1,0,0,Experian,1,Experian
+Minnesota,MN,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,2,4,0,Equifax,6,"Experian, Equifax"
+Minnesota,MN,Discover (now part of Capital One),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Minnesota,MN,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+Minnesota,MN,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,0,0,1,TransUnion,1,TransUnion
+Minnesota,MN,TD Bank (Target Circle Card),Retail / Store Card Issuers,1,0,0,Experian,1,Experian
+Minnesota,MN,U.S. Bank,Major Banks & Card Issuers,1,0,3,TransUnion,4,"Experian, TransUnion"
+Minnesota,MN,Wells Fargo (Card Services),Major Banks & Card Issuers,4,0,0,Experian,4,Experian
+Mississippi,MS,American Express,Major Banks & Card Issuers,2,2,0,Tie: Experian / Equifax,4,"Experian, Equifax"
+Mississippi,MS,Bank of America,Major Banks & Card Issuers,2,0,0,Experian,2,Experian
+Mississippi,MS,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Missouri,MO,American Express,Major Banks & Card Issuers,3,0,0,Experian,3,Experian
+Missouri,MO,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Missouri,MO,"Auto dealers in your list (Modesto Toyota, Sierra Motors, Brown Honda, Prime Motor, Mall of Georgia, Northtowne, Lithia VW, South Point)",Auto Finance,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Missouri,MO,Bank of America,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Missouri,MO,Capital One,Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Missouri,MO,Capital One Auto Finance (COAF),Auto Finance,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Missouri,MO,Carmel Financial,Specialty Consumer Finance,0,0,1,TransUnion,1,TransUnion
+Missouri,MO,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,3,1,1,Experian,5,"Experian, Equifax, TransUnion"
+Missouri,MO,Compass Equipment Finance,Equipment Financing & Leasing,0,0,1,TransUnion,1,TransUnion
+Missouri,MO,Daimler Truck Financial,Equipment Financing & Leasing,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Missouri,MO,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Missouri,MO,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,2,1,1,Experian,4,"Experian, Equifax, TransUnion"
+Missouri,MO,MAJR Financial,Auto Finance,1,0,0,Experian,1,Experian
+Missouri,MO,Mercedes-Benz Financial Services,Auto Finance,0,1,0,Equifax,1,Equifax
+Missouri,MO,Navy Federal Credit Union,Credit Unions,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Missouri,MO,OneMain Financial,Subprime Installment & Cash Advance,1,0,0,Experian,1,Experian
+Missouri,MO,Telecom and utilities (CenturyLink),Other / Non-Lender Inquiries,0,0,1,TransUnion,1,TransUnion
+Missouri,MO,U.S. Bank,Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Missouri,MO,"Unidentified names (Campora, Stinson Enterprises, Scott Stark Enterprise, The Culs, Team LOC 697, DSg Design, LFGFinance, SouthernCA, 1st Natl Bank)",Other / Non-Lender Inquiries,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Montana,MT,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Montana,MT,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Nebraska,NE,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Nebraska,NE,U.S. Bank,Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Nevada,NV,AOD Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+Nevada,NV,Ally Financial,Auto Finance,1,0,0,Experian,1,Experian
+Nevada,NV,American Credit Acceptance,Auto Finance,1,0,0,Experian,1,Experian
+Nevada,NV,American Express,Major Banks & Card Issuers,2,0,0,Experian,2,Experian
+Nevada,NV,American Honda Finance (AHFC),Auto Finance,0,2,0,Equifax,2,Equifax
+Nevada,NV,"Auto dealers in your list (Modesto Toyota, Sierra Motors, Brown Honda, Prime Motor, Mall of Georgia, Northtowne, Lithia VW, South Point)",Auto Finance,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Nevada,NV,BMO (formerly BMO Harris),Regional & Community Banks,0,0,1,TransUnion,1,TransUnion
+Nevada,NV,Bank of America,Major Banks & Card Issuers,3,1,2,Experian,6,"Experian, Equifax, TransUnion"
+Nevada,NV,Barclays Bank Delaware,Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Nevada,NV,Capital One Auto Finance (COAF),Auto Finance,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+Nevada,NV,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,4,3,0,Experian,7,"Experian, Equifax"
+Nevada,NV,"Citizens Bank (Citizens One, formerly RBS Citizens)",Regional & Community Banks,0,0,1,TransUnion,1,TransUnion
+Nevada,NV,Credit Acceptance,Auto Finance,1,0,0,Experian,1,Experian
+Nevada,NV,Elements Financial FCU,Credit Unions,0,1,0,Equifax,1,Equifax
+Nevada,NV,Exeter Finance,Auto Finance,0,0,1,TransUnion,1,TransUnion
+Nevada,NV,Global Lending Services,Auto Finance,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+Nevada,NV,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,4,4,1,Tie: Experian / Equifax,9,"Experian, Equifax, TransUnion"
+Nevada,NV,Liberty FCU (formerly Evansville Teachers FCU),Credit Unions,0,0,1,TransUnion,1,TransUnion
+Nevada,NV,"Mortgage credit report resellers (Credit Plus, Factual Data, CIC Credit, Credco, Advantage Credit, Equifax Mortgage Solutions, CIS, United One Resources, Informative Research, Covius, Funding Suite, American Reporting)",Credit Report Resellers & Screening (Not Lenders),4,6,4,Equifax,14,"Experian, Equifax, TransUnion"
+Nevada,NV,"Other credit unions in your NV rows (Collins Cred, VCU Lending)",Credit Unions,0,0,2,TransUnion,2,TransUnion
+Nevada,NV,"Other mortgage lenders in your list (AmeriSave, Fairway Independent, T2 Financial / Revolution Mortgage)","Mortgage, DSCR & Real Estate Investor Lending",0,0,1,TransUnion,1,TransUnion
+Nevada,NV,"RateGenius, myAutoLoan, Autopay (auto loan marketplaces)",Auto Finance,0,1,0,Equifax,1,Equifax
+Nevada,NV,Service Finance Company (Truist),Specialty Consumer Finance,0,0,1,TransUnion,1,TransUnion
+Nevada,NV,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Nevada,NV,U.S. Bank,Major Banks & Card Issuers,2,0,0,Experian,2,Experian
+Nevada,NV,USAA (Federal Savings Bank / Savings Bank),Credit Unions,1,0,0,Experian,1,Experian
+Nevada,NV,"Unidentified names (Campora, Stinson Enterprises, Scott Stark Enterprise, The Culs, Team LOC 697, DSg Design, LFGFinance, SouthernCA, 1st Natl Bank)",Other / Non-Lender Inquiries,0,1,0,Equifax,1,Equifax
+Nevada,NV,Veridian Credit Union (Iowa),Credit Unions,0,0,1,TransUnion,1,TransUnion
+Nevada,NV,Wells Fargo (Card Services),Major Banks & Card Issuers,3,0,0,Experian,3,Experian
+Nevada,NV,"Wells Fargo Auto (WFDS, Wells Fargo Dealer Services)",Auto Finance,0,1,0,Equifax,1,Equifax
+Nevada,NV,WestStar Credit Union (Nevada),Credit Unions,1,0,0,Experian,1,Experian
+Nevada,NV,Westlake Financial (Nowcom),Auto Finance,1,0,0,Experian,1,Experian
+New Hampshire,NH,American Express,Major Banks & Card Issuers,4,0,0,Experian,4,Experian
+New Hampshire,NH,Bank of America,Major Banks & Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+New Hampshire,NH,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,2,4,0,Equifax,6,"Experian, Equifax"
+New Hampshire,NH,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+New Hampshire,NH,U.S. Bank,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+New Hampshire,NH,Wells Fargo (Card Services),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+New Jersey,NJ,AOD Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+New Jersey,NJ,American Express,Major Banks & Card Issuers,18,0,0,Experian,18,Experian
+New Jersey,NJ,Bank of America,Major Banks & Card Issuers,6,0,2,Experian,8,"Experian, TransUnion"
+New Jersey,NJ,Barclays Bank Delaware,Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+New Jersey,NJ,"Bureau self-inquiries (TransUnion, Experian Business Credit, Equifax)",Credit Report Resellers & Screening (Not Lenders),1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+New Jersey,NJ,Capital One,Major Banks & Card Issuers,2,2,2,Tie: Experian / Equifax / TransUnion,6,"Experian, Equifax, TransUnion"
+New Jersey,NJ,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,5,2,1,Experian,8,"Experian, Equifax, TransUnion"
+New Jersey,NJ,"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,1,2,0,Equifax,3,"Experian, Equifax"
+New Jersey,NJ,Commerce Bank,Not in lender database,0,0,1,TransUnion,1,TransUnion
+New Jersey,NJ,Credit One Bank,Subprime & Credit-Builder Products,1,0,0,Experian,1,Experian
+New Jersey,NJ,Digital Federal Credit Union (DCU),Credit Unions,0,0,1,TransUnion,1,TransUnion
+New Jersey,NJ,Discover (now part of Capital One),Major Banks & Card Issuers,2,0,1,Experian,3,"Experian, TransUnion"
+New Jersey,NJ,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+New Jersey,NJ,First National Bank of Omaha (FNBO),Regional & Community Banks,1,0,0,Experian,1,Experian
+New Jersey,NJ,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,2,1,1,Experian,4,"Experian, Equifax, TransUnion"
+New Jersey,NJ,"Merchant processors (Payroc, Electronic Payments)",Other / Non-Lender Inquiries,1,0,0,Experian,1,Experian
+New Jersey,NJ,Merrick Bank,Subprime & Credit-Builder Products,0,0,1,TransUnion,1,TransUnion
+New Jersey,NJ,Mission Lane (issued by TAB Bank or WebBank),Subprime & Credit-Builder Products,0,0,1,TransUnion,1,TransUnion
+New Jersey,NJ,NASA Federal Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+New Jersey,NJ,Navy Federal Credit Union,Credit Unions,0,0,2,TransUnion,2,TransUnion
+New Jersey,NJ,OneMain Financial,Subprime Installment & Cash Advance,1,0,0,Experian,1,Experian
+New Jersey,NJ,PNC Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+New Jersey,NJ,PenFed Credit Union (Pentagon FCU),Credit Unions,0,1,0,Equifax,1,Equifax
+New Jersey,NJ,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+New Jersey,NJ,TD Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+New Jersey,NJ,TD Bank (Target Circle Card),Retail / Store Card Issuers,0,1,0,Equifax,1,Equifax
+New Jersey,NJ,Truist Bank (formerly SunTrust and BB&T),Regional & Community Banks,0,1,0,Equifax,1,Equifax
+New Jersey,NJ,U.S. Bank,Major Banks & Card Issuers,2,1,3,TransUnion,6,"Experian, Equifax, TransUnion"
+New Jersey,NJ,WebBank,Not in lender database,0,0,1,TransUnion,1,TransUnion
+New Jersey,NJ,Wells Fargo (Card Services),Major Banks & Card Issuers,0,0,2,TransUnion,2,TransUnion
+New Jersey,NJ,Westlake Financial (Nowcom),Auto Finance,1,0,0,Experian,1,Experian
+New Mexico,NM,American Express,Major Banks & Card Issuers,2,0,0,Experian,2,Experian
+New Mexico,NM,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+New Mexico,NM,Bank of America,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+New Mexico,NM,Barclays Bank Delaware,Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+New Mexico,NM,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,2,0,0,Experian,2,Experian
+New Mexico,NM,Discover (now part of Capital One),Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+New Mexico,NM,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+New York,NY,AOD Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+New York,NY,American Express,Major Banks & Card Issuers,39,0,2,Experian,41,"Experian, TransUnion"
+New York,NY,Bank of America,Major Banks & Card Issuers,7,1,4,Experian,12,"Experian, Equifax, TransUnion"
+New York,NY,Bank of Missouri (Ollo/SoFi),Not in lender database,1,0,0,Experian,1,Experian
+New York,NY,Barclays Bank Delaware,Major Banks & Card Issuers,0,0,2,TransUnion,2,TransUnion
+New York,NY,Capital One,Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+New York,NY,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,19,16,8,Experian,43,"Experian, Equifax, TransUnion"
+New York,NY,"Citizens Bank (Citizens One, formerly RBS Citizens)",Regional & Community Banks,0,0,1,TransUnion,1,TransUnion
+New York,NY,"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,2,0,0,Experian,2,Experian
+New York,NY,Discover (now part of Capital One),Major Banks & Card Issuers,2,1,0,Experian,3,"Experian, Equifax"
+New York,NY,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+New York,NY,First National Bank of Omaha (FNBO),Regional & Community Banks,1,0,0,Experian,1,Experian
+New York,NY,First Tech Federal Credit Union,Credit Unions,1,0,0,Experian,1,Experian
+New York,NY,Founders FCU,Not in lender database,1,0,0,Experian,1,Experian
+New York,NY,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,3,1,1,Experian,5,"Experian, Equifax, TransUnion"
+New York,NY,"Merchant processors (Payroc, Electronic Payments)",Other / Non-Lender Inquiries,1,0,0,Experian,1,Experian
+New York,NY,Municipal Credit Union (NY),Not in lender database,1,0,0,Experian,1,Experian
+New York,NY,Navy Federal Credit Union,Credit Unions,0,0,1,TransUnion,1,TransUnion
+New York,NY,PNC Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+New York,NY,PenFed Credit Union (Pentagon FCU),Credit Unions,0,1,0,Equifax,1,Equifax
+New York,NY,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+New York,NY,U.S. Bank,Major Banks & Card Issuers,5,0,3,Experian,8,"Experian, TransUnion"
+New York,NY,U.S. Department of Education,Other / Non-Lender Inquiries,0,1,0,Equifax,1,Equifax
+New York,NY,USAA (Federal Savings Bank / Savings Bank),Credit Unions,1,0,0,Experian,1,Experian
+New York,NY,Wells Fargo (Card Services),Major Banks & Card Issuers,4,2,0,Experian,6,"Experian, Equifax"
+North Carolina,NC,American Express,Major Banks & Card Issuers,13,0,1,Experian,14,"Experian, TransUnion"
+North Carolina,NC,Bank of America,Major Banks & Card Issuers,5,3,3,Experian,11,"Experian, Equifax, TransUnion"
+North Carolina,NC,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,13,14,2,Equifax,29,"Experian, Equifax, TransUnion"
+North Carolina,NC,"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+North Carolina,NC,Discover (now part of Capital One),Major Banks & Card Issuers,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+North Carolina,NC,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+North Carolina,NC,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,2,2,1,Tie: Experian / Equifax,5,"Experian, Equifax, TransUnion"
+North Carolina,NC,State Department FCU,Credit Unions,1,0,0,Experian,1,Experian
+North Carolina,NC,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+North Carolina,NC,U.S. Bank,Major Banks & Card Issuers,1,2,0,Equifax,3,"Experian, Equifax"
+North Carolina,NC,Wells Fargo (Card Services),Major Banks & Card Issuers,1,3,2,Equifax,6,"Experian, Equifax, TransUnion"
+Ohio,OH,American Express,Major Banks & Card Issuers,9,0,0,Experian,9,Experian
+Ohio,OH,Bank of America,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Ohio,OH,Capital One,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Ohio,OH,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,7,0,0,Experian,7,Experian
+Ohio,OH,"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,0,1,0,Equifax,1,Equifax
+Ohio,OH,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Ohio,OH,First Electronic Bank (Cardless),Not in lender database,1,0,0,Experian,1,Experian
+Ohio,OH,GE Credit Union,Not in lender database,0,1,0,Equifax,1,Equifax
+Ohio,OH,Huntington National Bank,Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Ohio,OH,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,2,1,2,Tie: Experian / TransUnion,5,"Experian, Equifax, TransUnion"
+Ohio,OH,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,0,0,1,TransUnion,1,TransUnion
+Ohio,OH,U.S. Bank,Major Banks & Card Issuers,0,0,5,TransUnion,5,TransUnion
+Ohio,OH,Wells Fargo (Card Services),Major Banks & Card Issuers,3,0,5,TransUnion,8,"Experian, TransUnion"
+Oklahoma,OK,American Express,Major Banks & Card Issuers,4,0,1,Experian,5,"Experian, TransUnion"
+Oklahoma,OK,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,2,4,0,Equifax,6,"Experian, Equifax"
+Oklahoma,OK,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Oregon,OR,American Express,Major Banks & Card Issuers,6,0,0,Experian,6,Experian
+Oregon,OR,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Oregon,OR,Bank of America,Major Banks & Card Issuers,2,0,3,TransUnion,5,"Experian, TransUnion"
+Oregon,OR,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,7,3,2,Experian,12,"Experian, Equifax, TransUnion"
+Oregon,OR,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+Oregon,OR,Langley Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+Oregon,OR,U.S. Bank,Major Banks & Card Issuers,1,0,4,TransUnion,5,"Experian, TransUnion"
+Oregon,OR,Wells Fargo (Card Services),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Pennsylvania,PA,AOD Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+Pennsylvania,PA,Amalgamated Bank,Not in lender database,1,0,0,Experian,1,Experian
+Pennsylvania,PA,American Express,Major Banks & Card Issuers,10,0,0,Experian,10,Experian
+Pennsylvania,PA,Aspire CU,Not in lender database,1,0,0,Experian,1,Experian
+Pennsylvania,PA,Bank of America,Major Banks & Card Issuers,6,0,4,Experian,10,"Experian, TransUnion"
+Pennsylvania,PA,Bank of Missouri (Ollo/SoFi),Not in lender database,0,0,1,TransUnion,1,TransUnion
+Pennsylvania,PA,Barclays Bank Delaware,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Pennsylvania,PA,"Celtic Bank (Indigo, Reflex and similar)",Subprime & Credit-Builder Products,0,0,1,TransUnion,1,TransUnion
+Pennsylvania,PA,"Citi Retail Services (Home Depot THD, Macy's DSNB, NTB, Best Buy and others)",Retail / Store Card Issuers,1,0,0,Experian,1,Experian
+Pennsylvania,PA,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,23,2,6,Experian,31,"Experian, Equifax, TransUnion"
+Pennsylvania,PA,"Citizens Bank (Citizens One, formerly RBS Citizens)",Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Pennsylvania,PA,"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+Pennsylvania,PA,Credit One Bank,Subprime & Credit-Builder Products,1,0,0,Experian,1,Experian
+Pennsylvania,PA,Discover (now part of Capital One),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Pennsylvania,PA,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Pennsylvania,PA,First National Bank of Omaha (FNBO),Regional & Community Banks,1,0,0,Experian,1,Experian
+Pennsylvania,PA,First Savings Bank (Blaze Mastercard),Subprime & Credit-Builder Products,0,0,1,TransUnion,1,TransUnion
+Pennsylvania,PA,HSBC Bank USA,Regional & Community Banks,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+Pennsylvania,PA,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,2,1,2,Tie: Experian / TransUnion,5,"Experian, Equifax, TransUnion"
+Pennsylvania,PA,Keypoint FCU,Not in lender database,1,0,0,Experian,1,Experian
+Pennsylvania,PA,Langley Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+Pennsylvania,PA,Mercury Mastercard (First Bank & Trust),Subprime & Credit-Builder Products,0,0,1,TransUnion,1,TransUnion
+Pennsylvania,PA,Merrick Bank,Subprime & Credit-Builder Products,0,0,1,TransUnion,1,TransUnion
+Pennsylvania,PA,PNC Bank,Regional & Community Banks,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Pennsylvania,PA,PenFed Credit Union (Pentagon FCU),Credit Unions,0,1,0,Equifax,1,Equifax
+Pennsylvania,PA,State Department FCU,Credit Unions,1,0,0,Experian,1,Experian
+Pennsylvania,PA,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Pennsylvania,PA,TD Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+Pennsylvania,PA,TD Bank (Target Circle Card),Retail / Store Card Issuers,0,1,0,Equifax,1,Equifax
+Pennsylvania,PA,Truist Bank (formerly SunTrust and BB&T),Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Pennsylvania,PA,U.S. Bank,Major Banks & Card Issuers,1,0,3,TransUnion,4,"Experian, TransUnion"
+Pennsylvania,PA,Wells Fargo (Card Services),Major Banks & Card Issuers,1,2,1,Equifax,4,"Experian, Equifax, TransUnion"
+Rhode Island,RI,Bank of America,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+South Carolina,SC,AOD Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+South Carolina,SC,American Express,Major Banks & Card Issuers,7,0,0,Experian,7,Experian
+South Carolina,SC,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+South Carolina,SC,BECU,Credit Unions,0,1,0,Equifax,1,Equifax
+South Carolina,SC,Bank of America,Major Banks & Card Issuers,2,0,3,TransUnion,5,"Experian, TransUnion"
+South Carolina,SC,"Citi Retail Services (Home Depot THD, Macy's DSNB, NTB, Best Buy and others)",Retail / Store Card Issuers,1,0,0,Experian,1,Experian
+South Carolina,SC,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,0,2,0,Equifax,2,Equifax
+South Carolina,SC,Discover (now part of Capital One),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+South Carolina,SC,GreenState FCU (IA),Not in lender database,0,0,1,TransUnion,1,TransUnion
+South Carolina,SC,HSBC Bank USA,Regional & Community Banks,0,1,0,Equifax,1,Equifax
+South Carolina,SC,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+South Carolina,SC,Langley Federal Credit Union,Credit Unions,0,1,0,Equifax,1,Equifax
+South Carolina,SC,Navy Federal Credit Union,Credit Unions,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
+South Carolina,SC,PCM CU (WI),Not in lender database,0,0,1,TransUnion,1,TransUnion
+South Carolina,SC,PNC Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+South Carolina,SC,Palmetto Citizens FCU,Not in lender database,0,1,0,Equifax,1,Equifax
+South Carolina,SC,PenFed Credit Union (Pentagon FCU),Credit Unions,0,1,0,Equifax,1,Equifax
+South Carolina,SC,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,0,0,1,TransUnion,1,TransUnion
+South Carolina,SC,Synovus Bank,Regional & Community Banks,0,1,0,Equifax,1,Equifax
+South Carolina,SC,TD Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+South Carolina,SC,TD Bank (Target Circle Card),Retail / Store Card Issuers,0,1,0,Equifax,1,Equifax
+South Carolina,SC,Truist Bank (formerly SunTrust and BB&T),Regional & Community Banks,0,1,0,Equifax,1,Equifax
+South Carolina,SC,U.S. Bank,Major Banks & Card Issuers,1,2,1,Equifax,4,"Experian, Equifax, TransUnion"
+South Carolina,SC,UMB,Not in lender database,0,0,1,TransUnion,1,TransUnion
+South Carolina,SC,Wells Fargo (Card Services),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+South Dakota,SD,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,2,1,1,Experian,4,"Experian, Equifax, TransUnion"
+South Dakota,SD,U.S. Bank,Major Banks & Card Issuers,0,2,0,Equifax,2,Equifax
+Tennessee,TN,American Express,Major Banks & Card Issuers,7,0,0,Experian,7,Experian
+Tennessee,TN,Bank of America,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Tennessee,TN,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,2,6,1,Equifax,9,"Experian, Equifax, TransUnion"
+Tennessee,TN,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Tennessee,TN,Wells Fargo (Card Services),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Texas,TX,700Credit,Credit Report Resellers & Screening (Not Lenders),1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Texas,TX,Ally Financial,Auto Finance,0,1,0,Equifax,1,Equifax
+Texas,TX,American Express,Major Banks & Card Issuers,44,1,1,Experian,46,"Experian, Equifax, TransUnion"
+Texas,TX,Bank of America,Major Banks & Card Issuers,15,0,10,Experian,25,"Experian, TransUnion"
+Texas,TX,Barclays Bank Delaware,Major Banks & Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Texas,TX,Capital One,Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Texas,TX,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,33,11,2,Experian,46,"Experian, Equifax, TransUnion"
+Texas,TX,"Comenity / Bread Financial (Sephora, BJ's, Wayfair and others)",Retail / Store Card Issuers,1,0,0,Experian,1,Experian
+Texas,TX,Discover (now part of Capital One),Major Banks & Card Issuers,2,0,0,Experian,2,Experian
+Texas,TX,Huntington National Bank,Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Texas,TX,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,3,2,1,Experian,6,"Experian, Equifax, TransUnion"
+Texas,TX,"Mortgage credit report resellers (Credit Plus, Factual Data, CIC Credit, Credco, Advantage Credit, Equifax Mortgage Solutions, CIS, United One Resources, Informative Research, Covius, Funding Suite, American Reporting)",Credit Report Resellers & Screening (Not Lenders),5,4,4,Experian,13,"Experian, Equifax, TransUnion"
+Texas,TX,Navy Federal Credit Union,Credit Unions,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Texas,TX,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,1,1,2,TransUnion,4,"Experian, Equifax, TransUnion"
+Texas,TX,U.S. Bank,Major Banks & Card Issuers,4,6,0,Equifax,10,"Experian, Equifax"
+Texas,TX,U.S. Bank Dealer Services,Auto Finance,0,0,1,TransUnion,1,TransUnion
+Texas,TX,"Unidentified names (Campora, Stinson Enterprises, Scott Stark Enterprise, The Culs, Team LOC 697, DSg Design, LFGFinance, SouthernCA, 1st Natl Bank)",Other / Non-Lender Inquiries,0,1,0,Equifax,1,Equifax
+Texas,TX,Wells Fargo (Card Services),Major Banks & Card Issuers,7,2,7,Tie: Experian / TransUnion,16,"Experian, Equifax, TransUnion"
+Texas,TX,"Zions Bancorporation banks (Nevada State Bank, Amegy, California Bank & Trust, National Bank of Arizona, Vectra, Zions)",Regional & Community Banks,5,0,0,Experian,5,Experian
+Utah,UT,American Express,Major Banks & Card Issuers,3,0,0,Experian,3,Experian
+Utah,UT,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,0,0,2,TransUnion,2,TransUnion
+Utah,UT,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Utah,UT,U.S. Bank,Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Vermont,VT,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Virginia,VA,American Express,Major Banks & Card Issuers,5,2,2,Experian,9,"Experian, Equifax, TransUnion"
+Virginia,VA,Bank of America,Major Banks & Card Issuers,3,0,0,Experian,3,Experian
+Virginia,VA,Capital One,Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+Virginia,VA,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,5,8,1,Equifax,14,"Experian, Equifax, TransUnion"
+Virginia,VA,"Citizens Bank (Citizens One, formerly RBS Citizens)",Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Virginia,VA,Digital Federal Credit Union (DCU),Credit Unions,0,1,0,Equifax,1,Equifax
+Virginia,VA,Discover (now part of Capital One),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Virginia,VA,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,2,2,2,Tie: Experian / Equifax / TransUnion,6,"Experian, Equifax, TransUnion"
+Virginia,VA,Navy Federal Credit Union,Credit Unions,0,0,1,TransUnion,1,TransUnion
+Virginia,VA,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,1,0,1,Tie: Experian / TransUnion,2,"Experian, TransUnion"
+Virginia,VA,Truist Bank (formerly SunTrust and BB&T),Regional & Community Banks,0,1,0,Equifax,1,Equifax
+Virginia,VA,U.S. Bank,Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Virginia,VA,Virginia Credit Union,Not in lender database,0,1,0,Equifax,1,Equifax
+Virginia,VA,Wells Fargo (Card Services),Major Banks & Card Issuers,0,0,2,TransUnion,2,TransUnion
+Washington,WA,American Express,Major Banks & Card Issuers,16,1,0,Experian,17,"Experian, Equifax"
+Washington,WA,"Apple Card (Goldman Sachs Bank USA, moving to Chase)",Major Banks & Card Issuers,0,0,1,TransUnion,1,TransUnion
+Washington,WA,Bank of America,Major Banks & Card Issuers,8,3,4,Experian,15,"Experian, Equifax, TransUnion"
+Washington,WA,Capital One,Major Banks & Card Issuers,1,1,0,Tie: Experian / Equifax,2,"Experian, Equifax"
+Washington,WA,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,9,8,4,Experian,21,"Experian, Equifax, TransUnion"
+Washington,WA,Credit One Bank,Subprime & Credit-Builder Products,1,0,0,Experian,1,Experian
+Washington,WA,Discover (now part of Capital One),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Washington,WA,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,0,2,TransUnion,2,TransUnion
+Washington,WA,First National Bank of Omaha (FNBO),Regional & Community Banks,1,0,0,Experian,1,Experian
+Washington,WA,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,3,2,1,Experian,6,"Experian, Equifax, TransUnion"
+Washington,WA,LoanMe (ceased lending),Subprime Installment & Cash Advance,1,0,0,Experian,1,Experian
+Washington,WA,Mission Lane (issued by TAB Bank or WebBank),Subprime & Credit-Builder Products,0,0,1,TransUnion,1,TransUnion
+Washington,WA,"Mortgage credit report resellers (Credit Plus, Factual Data, CIC Credit, Credco, Advantage Credit, Equifax Mortgage Solutions, CIS, United One Resources, Informative Research, Covius, Funding Suite, American Reporting)",Credit Report Resellers & Screening (Not Lenders),5,5,5,Tie: Experian / Equifax / TransUnion,15,"Experian, Equifax, TransUnion"
+Washington,WA,Navy Federal Credit Union,Credit Unions,0,0,1,TransUnion,1,TransUnion
+Washington,WA,PenFed Credit Union (Pentagon FCU),Credit Unions,0,1,0,Equifax,1,Equifax
+Washington,WA,"Synchrony Bank (Amazon, PayPal, Lowe's, Old Navy, HSN, CareCredit and others)",Retail / Store Card Issuers,1,0,2,TransUnion,3,"Experian, TransUnion"
+Washington,WA,TD Bank,Regional & Community Banks,1,0,0,Experian,1,Experian
+Washington,WA,"Tenant screening (National Tenant Network, RentGrow, Checkpoint Screening / Check-Point)",Credit Report Resellers & Screening (Not Lenders),1,0,0,Experian,1,Experian
+Washington,WA,Twinstar CU (WA),Not in lender database,1,0,0,Experian,1,Experian
+Washington,WA,U.S. Bank,Major Banks & Card Issuers,0,1,3,TransUnion,4,"Equifax, TransUnion"
+Washington,WA,USAA (Federal Savings Bank / Savings Bank),Credit Unions,1,0,0,Experian,1,Experian
+Washington,WA,Umpqua Bank,Not in lender database,1,0,0,Experian,1,Experian
+Washington,WA,Wells Fargo (Card Services),Major Banks & Card Issuers,1,1,1,Tie: Experian / Equifax / TransUnion,3,"Experian, Equifax, TransUnion"
+West Virginia,WV,Bank of America,Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+West Virginia,WV,Elan Financial Services (U.S. Bank subsidiary),Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+West Virginia,WV,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+West Virginia,WV,Wells Fargo (Card Services),Major Banks & Card Issuers,1,0,0,Experian,1,Experian
+Wisconsin,WI,American Express,Major Banks & Card Issuers,4,0,0,Experian,4,Experian
+Wisconsin,WI,Bank of America,Major Banks & Card Issuers,0,1,0,Equifax,1,Equifax
+Wisconsin,WI,Citibank (Citi Cards / CBNA),Major Banks & Card Issuers,3,0,0,Experian,3,Experian
+Wisconsin,WI,JPMorgan Chase (Chase Card Services),Major Banks & Card Issuers,0,1,1,Tie: Equifax / TransUnion,2,"Equifax, TransUnion"
