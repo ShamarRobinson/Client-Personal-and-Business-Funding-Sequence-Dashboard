@@ -191,6 +191,16 @@ for order, (name, s) in enumerate(items, start=1):
                      "LabelL": "", "LabelD": ""})
 pd.DataFrame(bars).to_csv(OUT / "scorecard_bars.csv", index=False)
 
+# The same scorecard for the website's Bureau Likelihood page
+import json
+site_path = OUT.parent / "regression.json"
+if site_path.exists():
+    site = json.loads(site_path.read_text())
+    site["scorecard"] = [{"l": name, "n": int(s.sum()),
+                          "p": [round(float(s[b] / s.sum()), 3) for b in ["Experian", "Equifax", "TransUnion"]]}
+                         for name, s in items]
+    site_path.write_text(json.dumps(site, separators=(",", ":")))
+
 # Regression bars: predicted likelihood in the close-call states ----------------------
 st = pd.read_csv(OUT / "regression_state.csv")
 c = st[st["Close Call"] == "Yes"].copy()
