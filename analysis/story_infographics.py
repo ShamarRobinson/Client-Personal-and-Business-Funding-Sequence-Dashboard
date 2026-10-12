@@ -20,6 +20,10 @@ rows = []
 
 def cell(diagram, col, row, title="", l1="", l2="", shade=0.15, kind="Box"):
     dark = shade >= 0.5
+    # Tableau treats an empty string as NULL, and NULL + text = NULL, so a one-line body
+    # would vanish. A non-breaking space keeps the second line present but blank.
+    if l1 and not l2:
+        l2 = "\u00a0"
     rows.append({
         "Diagram": diagram, "Col": col, "Row": row, "Kind": kind, "Shade": shade,
         "TitleD": "" if dark else title, "TitleL": title if dark else "",
