@@ -25,7 +25,7 @@ A dashboard and database of which credit bureau each lender pulls by state, with
 
 ## Tableau Public
 
-The [Tableau workbook](https://public.tableau.com/app/profile/shamar.robinson/viz/ClientPersonalandBusinessFundingSequenceDashboard/WhichBureauWillTheyPull) has four choropleth maps (top bureau by state for a chosen lender, and the Experian, Equifax and TransUnion share of pulls by state) and a Story, "Which Bureau Will They Pull". The Story is being rebuilt into nine cards, with information cards before, between and after the maps. The diagram, decision tree, what-if and scorecard sheets are already published:
+The [Tableau workbook](https://public.tableau.com/app/profile/shamar.robinson/viz/ClientPersonalandBusinessFundingSequenceDashboard/WhichBureauWillTheyPull) has four choropleth maps (top bureau by state for a chosen lender, and the Experian, Equifax and TransUnion share of pulls by state) and a Story, "Which Bureau Will They Pull", with ten cards: information cards before, between and after the maps. Every card uses full sentences written for a high school audience, with highlighted ranges and call-out annotations on the charts.
 
 | Card | Type | What it shows |
 | --- | --- | --- |
@@ -36,8 +36,9 @@ The [Tableau workbook](https://public.tableau.com/app/profile/shamar.robinson/vi
 | 5. Experian and Equifax | Map | Both share maps on one card, every state labeled with its percentage |
 | 6. TransUnion | Map | TransUnion share by state |
 | 7. Close calls | Info + chart | Regression flow chart and predicted likelihood bars for the 24 close-call states |
-| 8. Funding ladder | Info | Seven score tiers from 500-549 to 800+, with the sequencing rules |
-| 9. Scorecard | Scorecard | Six headline numbers and the bureau profile of the eight busiest issuers |
+| 8. If / then | Decision tree | Start from your strongest report, follow the IF branch to a THEN move, plus four what-if cases from the model |
+| 9. Funding ladder | Info | Seven score tiers from 500-549 to 800+ as a staircase, with four rules for climbing safely |
+| 10. Scorecard | Scorecard | Six headline numbers, the bureau profile of the eight busiest issuers, confidence levels and limits |
 
 Every diagram is a Tableau sheet drawn from [data/tableau/story_diagrams.csv](data/tableau/story_diagrams.csv), [scorecard_bars.csv](data/tableau/scorecard_bars.csv) and [regression_bars.csv](data/tableau/regression_bars.csv), which [analysis/story_infographics.py](analysis/story_infographics.py) generates. The scorecard adds a new finding: issuers have clear bureau profiles. American Express lands on Experian in 87% of recorded pulls, Synchrony on TransUnion in 62% and U.S. Bank on TransUnion in 47%, while Capital One splits close to evenly (37% Experian, 35% Equifax, 28% TransUnion).
 
