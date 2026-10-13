@@ -40,7 +40,7 @@ The [Tableau workbook](https://public.tableau.com/app/profile/shamar.robinson/vi
 | 9. Funding ladder | Info | Seven score tiers from 500-549 to 800+ as a staircase, with four rules for climbing safely |
 | 10. Scorecard | Scorecard | Six headline numbers, the bureau profile of the eight busiest issuers, confidence levels and limits |
 
-Every diagram is a Tableau sheet drawn from [data/tableau/story_diagrams.csv](data/tableau/story_diagrams.csv), [scorecard_bars.csv](data/tableau/scorecard_bars.csv) and [regression_bars.csv](data/tableau/regression_bars.csv), which [analysis/story_infographics.py](analysis/story_infographics.py) generates. The scorecard adds a new finding: issuers have clear bureau profiles. American Express lands on Experian in 87% of recorded pulls, Synchrony on TransUnion in 62% and U.S. Bank on TransUnion in 47%, while Capital One splits close to evenly (37% Experian, 35% Equifax, 28% TransUnion).
+Every diagram is a Tableau sheet drawn from [data/tableau/story_diagrams.csv](data/tableau/story_diagrams.csv), [scorecard_bars.csv](data/tableau/scorecard_bars.csv) and [regression_bars.csv](data/tableau/regression_bars.csv), which [analysis/story_infographics.py](analysis/story_infographics.py) generates. A `Tone` column gives every box a color from the Tableau 20 palette: blue for Experian, orange for Equifax, green for TransUnion, and teal, purple, red and gray for steps, scope and labels. The scorecard adds a new finding: issuers have clear bureau profiles. American Express lands on Experian in 87% of recorded pulls, Synchrony on TransUnion in 62% and U.S. Bank on TransUnion in 47%, while Capital One splits close to evenly (37% Experian, 35% Equifax, 28% TransUnion).
 
 ## Regression: close-call states
 
