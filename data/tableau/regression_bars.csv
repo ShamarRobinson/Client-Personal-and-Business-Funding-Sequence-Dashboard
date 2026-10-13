@@ -1,73 +1,93 @@
-StateLabel,StateOrder,Bureau,Value,Shade,LabelL,LabelD,Verdict
-Nevada (Clear lean),1,Experian,0.5605070620700721,1.0,EX 56%,,Clear lean
-Nevada (Clear lean),1,Equifax,0.2298030242450199,0.55,EQ 23%,,Clear lean
-Nevada (Clear lean),1,TransUnion,0.2096899136849079,0.2,,TU 21%,Clear lean
-Missouri (Clear lean),2,Experian,0.5340619801984939,1.0,EX 53%,,Clear lean
-Missouri (Clear lean),2,Equifax,0.2430411765762341,0.55,EQ 24%,,Clear lean
-Missouri (Clear lean),2,TransUnion,0.2228968432252717,0.2,,TU 22%,Clear lean
-Indiana (Clear lean),3,Experian,0.5467044498665443,1.0,EX 55%,,Clear lean
-Indiana (Clear lean),3,Equifax,0.1593805935470189,0.55,EQ 16%,,Clear lean
-Indiana (Clear lean),3,TransUnion,0.2939149565864367,0.2,,TU 29%,Clear lean
-Maryland (Clear lean),4,Experian,0.5016922170469909,1.0,EX 50%,,Clear lean
-Maryland (Clear lean),4,Equifax,0.2692858797052418,0.55,EQ 27%,,Clear lean
-Maryland (Clear lean),4,TransUnion,0.2290219032477673,0.2,,TU 23%,Clear lean
-Delaware (Clear lean),5,Experian,0.4971286643450366,1.0,EX 50%,,Clear lean
-Delaware (Clear lean),5,Equifax,0.2350261958638919,0.55,EQ 24%,,Clear lean
-Delaware (Clear lean),5,TransUnion,0.2678451397910713,0.2,,TU 27%,Clear lean
-Illinois (Clear lean),6,Experian,0.4957356624592403,1.0,EX 50%,,Clear lean
-Illinois (Clear lean),6,Equifax,0.2361946102153997,0.55,EQ 24%,,Clear lean
-Illinois (Clear lean),6,TransUnion,0.26806972732536,0.2,,TU 27%,Clear lean
-Connecticut (Clear lean),7,Experian,0.4528895072197475,1.0,EX 45%,,Clear lean
-Connecticut (Clear lean),7,Equifax,0.2730941501903226,0.55,EQ 27%,,Clear lean
-Connecticut (Clear lean),7,TransUnion,0.2740163425899298,0.2,,TU 27%,Clear lean
-Tennessee (Clear lean),8,Experian,0.453557364146669,1.0,EX 45%,,Clear lean
-Tennessee (Clear lean),8,Equifax,0.3003019044536382,0.55,EQ 30%,,Clear lean
-Tennessee (Clear lean),8,TransUnion,0.2461407313996926,0.2,,TU 25%,Clear lean
-Florida (Clear lean),9,Experian,0.472749402997394,1.0,EX 47%,,Clear lean
-Florida (Clear lean),9,Equifax,0.3235761526680421,0.55,EQ 32%,,Clear lean
-Florida (Clear lean),9,TransUnion,0.2036744443345638,0.2,,TU 20%,Clear lean
-Oklahoma (Clear lean),10,Experian,0.4212832626810583,1.0,EX 42%,,Clear lean
-Oklahoma (Clear lean),10,Equifax,0.2900667605403714,0.55,EQ 29%,,Clear lean
-Oklahoma (Clear lean),10,TransUnion,0.2886499767785702,0.2,,TU 29%,Clear lean
-Georgia (Moderate lean),11,Experian,0.4238421536646563,1.0,EX 42%,,Moderate lean
-Georgia (Moderate lean),11,Equifax,0.2962302602841316,0.55,EQ 30%,,Moderate lean
-Georgia (Moderate lean),11,TransUnion,0.2799275860512121,0.2,,TU 28%,Moderate lean
-Kentucky (Moderate lean),12,Experian,0.4479559343211813,1.0,EX 45%,,Moderate lean
-Kentucky (Moderate lean),12,Equifax,0.227983633254671,0.55,EQ 23%,,Moderate lean
-Kentucky (Moderate lean),12,TransUnion,0.3240604324241476,0.2,,TU 32%,Moderate lean
-Alabama (Moderate lean),13,Experian,0.4320308251726977,1.0,EX 43%,,Moderate lean
-Alabama (Moderate lean),13,Equifax,0.3285179868846715,0.55,EQ 33%,,Moderate lean
-Alabama (Moderate lean),13,TransUnion,0.2394511879426308,0.2,,TU 24%,Moderate lean
-Louisiana (Moderate lean),14,Experian,0.4083210656614194,1.0,EX 41%,,Moderate lean
-Louisiana (Moderate lean),14,Equifax,0.305059978249352,0.55,EQ 31%,,Moderate lean
-Louisiana (Moderate lean),14,TransUnion,0.2866189560892285,0.2,,TU 29%,Moderate lean
-North Carolina (Moderate lean),15,Experian,0.4585897343735423,1.0,EX 46%,,Moderate lean
-North Carolina (Moderate lean),15,Equifax,0.368314663099898,0.55,EQ 37%,,Moderate lean
-North Carolina (Moderate lean),15,TransUnion,0.1730956025265594,0.2,,TU 17%,Moderate lean
-Hawaii (Toss-up),16,Experian,0.4008834424541996,1.0,EX 40%,,Toss-up
-Hawaii (Toss-up),16,Equifax,0.3702544993676319,0.55,EQ 37%,,Toss-up
-Hawaii (Toss-up),16,TransUnion,0.2288620581781684,0.2,,TU 23%,Toss-up
-Virginia (Toss-up),17,Experian,0.389606167527214,1.0,EX 39%,,Toss-up
-Virginia (Toss-up),17,Equifax,0.3607928513697384,0.55,EQ 36%,,Toss-up
-Virginia (Toss-up),17,TransUnion,0.2496009811030475,0.2,,TU 25%,Toss-up
-Kansas (Toss-up),18,Experian,0.3901324704733078,1.0,EX 39%,,Toss-up
-Kansas (Toss-up),18,Equifax,0.2453174576354725,0.55,EQ 25%,,Toss-up
-Kansas (Toss-up),18,TransUnion,0.3645500718912196,0.2,,TU 36%,Toss-up
-South Carolina (Toss-up),19,Experian,0.3789253061894935,1.0,EX 38%,,Toss-up
-South Carolina (Toss-up),19,Equifax,0.3662113502303976,0.55,EQ 37%,,Toss-up
-South Carolina (Toss-up),19,TransUnion,0.2548633435801088,0.2,,TU 25%,Toss-up
-Iowa (Thin data),20,Experian,0.5516859523955913,1.0,EX 55%,,Thin data
-Iowa (Thin data),20,Equifax,0.2595041880384172,0.55,EQ 26%,,Thin data
-Iowa (Thin data),20,TransUnion,0.1888098595659915,0.2,,TU 19%,Thin data
-South Dakota (Thin data),21,Experian,0.4764437641193209,1.0,EX 48%,,Thin data
-South Dakota (Thin data),21,Equifax,0.2919412284314784,0.55,EQ 29%,,Thin data
-South Dakota (Thin data),21,TransUnion,0.2316150074492007,0.2,,TU 23%,Thin data
-Nebraska (Thin data),22,Experian,0.4498267879751378,1.0,EX 45%,,Thin data
-Nebraska (Thin data),22,Equifax,0.2816712286679786,0.55,EQ 28%,,Thin data
-Nebraska (Thin data),22,TransUnion,0.2685019833568835,0.2,,TU 27%,Thin data
-Montana (Thin data),23,Experian,0.4283422945451908,1.0,EX 43%,,Thin data
-Montana (Thin data),23,Equifax,0.2792619688979415,0.55,EQ 28%,,Thin data
-Montana (Thin data),23,TransUnion,0.2923957365568677,0.2,,TU 29%,Thin data
-Utah (Thin data),24,Experian,0.4720661569929285,1.0,EX 47%,,Thin data
-Utah (Thin data),24,Equifax,0.1773134592849648,0.55,EQ 18%,,Thin data
-Utah (Thin data),24,TransUnion,0.3506203837221067,0.2,,TU 35%,Thin data
+StateLabel,StateOrder,Bureau,Value,Shade,Tone,LabelL,LabelD,Verdict
+Nevada (Clear lean),1,Experian,0.5605070620700721,1.0,01 Blue,EX 56%,,Clear lean
+Nevada (Clear lean),1,Equifax,0.2298030242450199,0.55,03 Orange,,EQ 23%,Clear lean
+Nevada (Clear lean),1,TransUnion,0.2096899136849079,0.2,05 Green,,TU 21%,Clear lean
+Missouri (Clear lean),2,Experian,0.5340619801984939,1.0,01 Blue,EX 53%,,Clear lean
+Missouri (Clear lean),2,Equifax,0.2430411765762341,0.55,03 Orange,,EQ 24%,Clear lean
+Missouri (Clear lean),2,TransUnion,0.2228968432252717,0.2,05 Green,,TU 22%,Clear lean
+Indiana (Clear lean),3,Experian,0.5467044498665443,1.0,01 Blue,EX 55%,,Clear lean
+Indiana (Clear lean),3,Equifax,0.1593805935470189,0.55,03 Orange,,EQ 16%,Clear lean
+Indiana (Clear lean),3,TransUnion,0.2939149565864367,0.2,05 Green,,TU 29%,Clear lean
+Maryland (Clear lean),4,Experian,0.5016922170469909,1.0,01 Blue,EX 50%,,Clear lean
+Maryland (Clear lean),4,Equifax,0.2692858797052418,0.55,03 Orange,,EQ 27%,Clear lean
+Maryland (Clear lean),4,TransUnion,0.2290219032477673,0.2,05 Green,,TU 23%,Clear lean
+Delaware (Clear lean),5,Experian,0.4971286643450366,1.0,01 Blue,EX 50%,,Clear lean
+Delaware (Clear lean),5,Equifax,0.2350261958638919,0.55,03 Orange,,EQ 24%,Clear lean
+Delaware (Clear lean),5,TransUnion,0.2678451397910713,0.2,05 Green,,TU 27%,Clear lean
+Illinois (Clear lean),6,Experian,0.4957356624592403,1.0,01 Blue,EX 50%,,Clear lean
+Illinois (Clear lean),6,Equifax,0.2361946102153997,0.55,03 Orange,,EQ 24%,Clear lean
+Illinois (Clear lean),6,TransUnion,0.26806972732536,0.2,05 Green,,TU 27%,Clear lean
+Connecticut (Clear lean),7,Experian,0.4528895072197475,1.0,01 Blue,EX 45%,,Clear lean
+Connecticut (Clear lean),7,Equifax,0.2730941501903226,0.55,03 Orange,,EQ 27%,Clear lean
+Connecticut (Clear lean),7,TransUnion,0.2740163425899298,0.2,05 Green,,TU 27%,Clear lean
+Tennessee (Clear lean),8,Experian,0.453557364146669,1.0,01 Blue,EX 45%,,Clear lean
+Tennessee (Clear lean),8,Equifax,0.3003019044536382,0.55,03 Orange,,EQ 30%,Clear lean
+Tennessee (Clear lean),8,TransUnion,0.2461407313996926,0.2,05 Green,,TU 25%,Clear lean
+Florida (Clear lean),9,Experian,0.472749402997394,1.0,01 Blue,EX 47%,,Clear lean
+Florida (Clear lean),9,Equifax,0.3235761526680421,0.55,03 Orange,,EQ 32%,Clear lean
+Florida (Clear lean),9,TransUnion,0.2036744443345638,0.2,05 Green,,TU 20%,Clear lean
+Oklahoma (Clear lean),10,Experian,0.4212832626810583,1.0,01 Blue,EX 42%,,Clear lean
+Oklahoma (Clear lean),10,Equifax,0.2900667605403714,0.55,03 Orange,,EQ 29%,Clear lean
+Oklahoma (Clear lean),10,TransUnion,0.2886499767785702,0.2,05 Green,,TU 29%,Clear lean
+Georgia (Moderate lean),11,Experian,0.4238421536646563,1.0,01 Blue,EX 42%,,Moderate lean
+Georgia (Moderate lean),11,Equifax,0.2962302602841316,0.55,03 Orange,,EQ 30%,Moderate lean
+Georgia (Moderate lean),11,TransUnion,0.2799275860512121,0.2,05 Green,,TU 28%,Moderate lean
+Kentucky (Moderate lean),12,Experian,0.4479559343211813,1.0,01 Blue,EX 45%,,Moderate lean
+Kentucky (Moderate lean),12,Equifax,0.227983633254671,0.55,03 Orange,,EQ 23%,Moderate lean
+Kentucky (Moderate lean),12,TransUnion,0.3240604324241476,0.2,05 Green,,TU 32%,Moderate lean
+Alabama (Moderate lean),13,Experian,0.4320308251726977,1.0,01 Blue,EX 43%,,Moderate lean
+Alabama (Moderate lean),13,Equifax,0.3285179868846715,0.55,03 Orange,,EQ 33%,Moderate lean
+Alabama (Moderate lean),13,TransUnion,0.2394511879426308,0.2,05 Green,,TU 24%,Moderate lean
+Louisiana (Moderate lean),14,Experian,0.4083210656614194,1.0,01 Blue,EX 41%,,Moderate lean
+Louisiana (Moderate lean),14,Equifax,0.305059978249352,0.55,03 Orange,,EQ 31%,Moderate lean
+Louisiana (Moderate lean),14,TransUnion,0.2866189560892285,0.2,05 Green,,TU 29%,Moderate lean
+North Carolina (Moderate lean),15,Experian,0.4585897343735423,1.0,01 Blue,EX 46%,,Moderate lean
+North Carolina (Moderate lean),15,Equifax,0.368314663099898,0.55,03 Orange,,EQ 37%,Moderate lean
+North Carolina (Moderate lean),15,TransUnion,0.1730956025265594,0.2,05 Green,,TU 17%,Moderate lean
+Hawaii (Toss-up),16,Experian,0.4008834424541996,1.0,01 Blue,EX 40%,,Toss-up
+Hawaii (Toss-up),16,Equifax,0.3702544993676319,0.55,03 Orange,,EQ 37%,Toss-up
+Hawaii (Toss-up),16,TransUnion,0.2288620581781684,0.2,05 Green,,TU 23%,Toss-up
+Virginia (Toss-up),17,Experian,0.389606167527214,1.0,01 Blue,EX 39%,,Toss-up
+Virginia (Toss-up),17,Equifax,0.3607928513697384,0.55,03 Orange,,EQ 36%,Toss-up
+Virginia (Toss-up),17,TransUnion,0.2496009811030475,0.2,05 Green,,TU 25%,Toss-up
+Kansas (Toss-up),18,Experian,0.3901324704733078,1.0,01 Blue,EX 39%,,Toss-up
+Kansas (Toss-up),18,Equifax,0.2453174576354725,0.55,03 Orange,,EQ 25%,Toss-up
+Kansas (Toss-up),18,TransUnion,0.3645500718912196,0.2,05 Green,,TU 36%,Toss-up
+South Carolina (Toss-up),19,Experian,0.3789253061894935,1.0,01 Blue,EX 38%,,Toss-up
+South Carolina (Toss-up),19,Equifax,0.3662113502303976,0.55,03 Orange,,EQ 37%,Toss-up
+South Carolina (Toss-up),19,TransUnion,0.2548633435801088,0.2,05 Green,,TU 25%,Toss-up
+Iowa (Thin data),20,Experian,0.5516859523955913,1.0,01 Blue,EX 55%,,Thin data
+Iowa (Thin data),20,Equifax,0.2595041880384172,0.55,03 Orange,,EQ 26%,Thin data
+Iowa (Thin data),20,TransUnion,0.1888098595659915,0.2,05 Green,,TU 19%,Thin data
+South Dakota (Thin data),21,Experian,0.4764437641193209,1.0,01 Blue,EX 48%,,Thin data
+South Dakota (Thin data),21,Equifax,0.2919412284314784,0.55,03 Orange,,EQ 29%,Thin data
+South Dakota (Thin data),21,TransUnion,0.2316150074492007,0.2,05 Green,,TU 23%,Thin data
+Nebraska (Thin data),22,Experian,0.4498267879751378,1.0,01 Blue,EX 45%,,Thin data
+Nebraska (Thin data),22,Equifax,0.2816712286679786,0.55,03 Orange,,EQ 28%,Thin data
+Nebraska (Thin data),22,TransUnion,0.2685019833568835,0.2,05 Green,,TU 27%,Thin data
+Montana (Thin data),23,Experian,0.4283422945451908,1.0,01 Blue,EX 43%,,Thin data
+Montana (Thin data),23,Equifax,0.2792619688979415,0.55,03 Orange,,EQ 28%,Thin data
+Montana (Thin data),23,TransUnion,0.2923957365568677,0.2,05 Green,,TU 29%,Thin data
+Utah (Thin data),24,Experian,0.4720661569929285,1.0,01 Blue,EX 47%,,Thin data
+Utah (Thin data),24,Equifax,0.1773134592849648,0.55,03 Orange,,EQ 18%,Thin data
+Utah (Thin data),24,TransUnion,0.3506203837221067,0.2,05 Green,,TU 35%,Thin data
+Nevada (Clear lean),1,Pad,0.0,0.0,01 Blue,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,02 Blue light,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,03 Orange,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,04 Orange light,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,05 Green,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,06 Green light,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,07 Olive,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,08 Yellow,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,09 Teal,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,10 Teal light,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,11 Red,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,12 Red light,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,13 Gray,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,14 Gray light,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,15 Pink,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,16 Pink light,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,17 Purple,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,18 Purple light,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,19 Brown,,,Clear lean
+Nevada (Clear lean),1,Pad,0.0,0.0,20 Brown light,,,Clear lean
