@@ -258,7 +258,7 @@ def whatif_table(w, h, rows):
     hh = 26 * S
     d.rounded_rectangle((x0, y0, x1, y0 + hh), radius=6 * S, fill=NEUTRAL)
     d.rectangle((x0, y0 + hh - 6 * S, x1, y0 + hh), fill=NEUTRAL)
-    d.text((x0 + 10 * S, y0 + 6 * S), "◆ WHAT_IF: model's best guess for four real cases (typical application)", font=f("bold", 10), fill="#FFFFFF")
+    d.text((x0 + 10 * S, y0 + 6 * S), "◆ WHAT_IF: model's best forecast for four real cases (typical application)", font=f("bold", 10), fill="#FFFFFF")
     cols = [("lender_in_state", 0.20), ("likely_bureau", 0.17), ("chance_by_bureau", 0.33), ("why_it_matters", 0.30)]
     cx = [x0 + 10 * S]
     for _, fr in cols:

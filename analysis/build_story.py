@@ -123,7 +123,7 @@ I["roadmap"] = IMG.roadmap(370, 700, [
     ("POINTS 3 TO 5", "Context and KPIs", "Market context, then ten KPIs with formulas", "#2E6CA8"),
     ("POINT 6", "Data and Method", "355 rows checked against 670 datapoints", "#2E6CA8"),
     ("POINTS 7 TO 10", "The Maps", "Lender map, then Experian, Equifax and TransUnion shares", EXP),
-    ("POINT 11", "Close Calls", "Click a state for the model's best guess", "#5B3FA8"),
+    ("POINT 11", "Close Calls", "Click a state for the model's best forecast", "#5B3FA8"),
     ("POINTS 12 AND 13", "Your Moves", "Decision tree and the funding ladder", "#5B3FA8"),
     ("POINT 14", "Scorecard", "Headline numbers and each issuer's habit", "#4A5568"),
     ("POINTS 15 AND 16", "Check and Decide", "Every source, then a move for each stakeholder", "#4A5568"),
@@ -314,7 +314,7 @@ D["6 Data and Method"] = dashboard("6 Data and Method", [
         ("One lender, many spellings", '"Capital One", "Capital One Bank USA" and "Capital One NA" are the same company, so 229 spellings were matched to 102 lenders.'),
         ("Mixed markers", "bureau columns held x marks, blanks, zeros and counts as high as 211, so each became pulled or not pulled, with counts kept as weights."),
         ("Look-alikes", "early rules confused USAA with Apple, so the rules were reordered and every match was checked by hand."),
-        ("Unknowns kept", "11 names could not be identified; they are labeled instead of being forced into a guess."),
+        ("Unknowns kept", "11 names could not be identified; they are labeled instead of being forced into a match."),
         ("Non-lenders", "mortgage report resellers and tenant screeners were tagged so they do not count as lender pulls.")], 10.5))),
 ])
 D["8 Reading the Maps"] = dashboard("8 Reading the Maps", [
@@ -327,7 +327,7 @@ D["8 Reading the Maps"] = dashboard("8 Reading the Maps", [
         ("The three shares", "Experian, Equifax and TransUnion shares in a state always add up to about 100%.")], 10.5))),
 ])
 D["11 Close Calls"] = dashboard("11 Close Calls", [
-    header("Close Calls: Pick a State to See the Model's Best Guess",
+    header("Close Calls: Pick a State to See the Model's Best Forecast",
            f"In {close_n} states the top two bureaus are within 20 points. Click any state to see the chance of each bureau."),
     szone(20, 88, 600, 706, "CC Map"),
     tzone(632, 88, 348, 40, run("Click a state; click it again to see all states.", 10, LABEL, True), bg="#f3f6fb", padding=6),
@@ -401,7 +401,7 @@ REC = [("A. Personal credit clients", [
        ("E. Funding advisors and brokers", [
             ("Best move", "run the close-call check before advising a client in one of the close-call states."),
             ("Choose this when", f"the client lives in one of the {close_n} close-call states."),
-            ("Why", f"Experian is the best guess in all {close_n}, but only {status_n.get('Clear lean', 0)} are clear leans; {len(tossups)} are toss-ups ({', '.join(tossups[:-1])} and {tossups[-1]})."),
+            ("Why", f"Experian is the best forecast in all {close_n}, but only {status_n.get('Clear lean', 0)} are clear leans; {len(tossups)} are toss-ups ({', '.join(tossups[:-1])} and {tossups[-1]})."),
             ("Next move", "in toss-up states, plan for any of the three bureaus and keep inquiries spread.")])]
 REC_COL = ["#08306B", "#08306B", "#2E6CA8", "#2E6CA8", "#5B3FA8"]
 rz = []
@@ -655,7 +655,7 @@ STORY = [("1 Introduction", "Introduction: context, purpose, sources and limits.
          ("8 Reading the Maps", "How to read a share map: one simple equation."),
          ("5 Experian and Equifax", "Experian and Equifax side by side: Experian leads most states."),
          ("TransUnion Share of Pulls", "TransUnion is rarely the leader, but it matters in a few states."),
-         ("11 Close Calls", "Close calls: pick a state to see the model's best guess."),
+         ("11 Close Calls", "Close calls: pick a state to see the model's best forecast."),
          ("12 Decision Tree", "Decision tree: start from your strongest report."),
          ("13 Funding Ladder", "The funding ladder: climb one score step at a time."),
          ("14 Scorecard", "Scorecard: the headline numbers and each issuer's habit."),

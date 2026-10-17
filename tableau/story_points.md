@@ -10,7 +10,7 @@
 8. How to Read a Share Map: One Simple Equation.
 9. Experian and Equifax Side by Side: Experian Leads Most States.
 10. TransUnion Is Rarely the Leader, but It Matters in a Few States.
-11. Close Calls: Pick a State to See the Model's Best Guess.
+11. Close Calls: Pick a State to See the Model's Best Forecast.
 12. Decision Tree: Start from Your Strongest Report.
 13. The Funding Ladder: Climb One Score Step at a Time.
 14. Scorecard: The Headline Numbers and Each Issuer's Habit.

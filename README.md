@@ -15,7 +15,7 @@ A dashboard and database of which credit bureau each lender pulls by state, with
 
 | | |
 | --- | --- |
-| **Context** | Every hard inquiry lands on one of three credit reports (**Experian**, **Equifax** or **TransUnion**). Lenders do not publish which one they pull or how it changes by state, so a wrong guess can stack inquiries on a client's weakest report. |
+| **Context** | Every hard inquiry lands on one of three credit reports (**Experian**, **Equifax** or **TransUnion**). Lenders do not publish which one they pull or how it changes by state, so a wrong forecast can stack inquiries on a client's weakest report. |
 | **Sources** | A 355-row inquiry table from 16 states plus 670 outside state-level datapoints from 56 cited sources: Doctor of Credit issuer tables (2008 to 2019), the myFICO Forums state grid (July 2023) and 2025 to 2026 forum posts, MyBankTracker, CardRight, StackEasy, and lender and review pages for minimum scores. Every source is listed on the [Sources & Notes page](https://shamarrobinson.github.io/Client-Personal-and-Business-Funding-Sequence-Dashboard/sources.html). |
 | **As of** | Research completed October 7, 2026. |
 | **Updates** | Lender minimums are reviewed every quarter. Each new inquiry datapoint reruns the cleaning, maps and regression from the scripts in [analysis/](analysis). |
