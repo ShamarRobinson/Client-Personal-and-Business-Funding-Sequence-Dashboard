@@ -1,5 +1,14 @@
 # Change Log
 
+## October 17, 2026 (redesign)
+
+- Tableau Story condensed from 16 cards to 8 dashboard cards with an app-style layout: side panel navigation, header band with Overview, Maps and Decide tabs, and a Help popover on each card.
+- New dark theme taken from the cover photo of metal cards: near-black canvas, charcoal panels with sharp edges, teal-to-orange edge lines. Photos added to the overview, Data and Method, Market and KPIs, Decide and Recommendations panels.
+- Title changed to "Credit Stacking & Funding Sequencing Strategy", with "Which Bureau Will They Pull?" kept as a subheading. The Tableau Public link is unchanged.
+- Added tooltips with formulas on every number, a KPI list that opens a detail card, a State Detail card on the share maps, chance bars nested in the close-call map tooltip, annotation callouts, numbered coach marks and a guided walkthrough.
+- Maps use a dark base map and dark-to-bright ramps in each bureau's color.
+- Slide deck condensed from 24 slides to 10 in the same theme, with the cover photo on the title slide; the deck source is now in `deck/`.
+
 ## October 17, 2026
 
 - Tableau Story rebuilt with 16 cards. New opening: an introduction with context, purpose, sources, update cadence and data limits, then who it serves, scope and key terms.

@@ -5,7 +5,7 @@
 | View | Link |
 | --- | --- |
 | Dashboard site (this repository, GitHub Pages) | [shamarrobinson.github.io/Client-Personal-and-Business-Funding-Sequence-Dashboard](https://shamarrobinson.github.io/Client-Personal-and-Business-Funding-Sequence-Dashboard/) |
-| Interactive maps and Story (Tableau Public) | [Which Bureau Will They Pull](https://public.tableau.com/app/profile/shamar.robinson/viz/ClientPersonalandBusinessFundingSequenceDashboard/WhichBureauWillTheyPull) |
+| Interactive maps and Story (Tableau Public) | [Credit Stacking & Funding Sequencing Strategy: Which Bureau Will They Pull?](https://public.tableau.com/app/profile/shamar.robinson/viz/ClientPersonalandBusinessFundingSequenceDashboard/WhichBureauWillTheyPull) |
 | Slideshow | [Presentation](https://claude.ai/artifact/95vnkBxejyTxzMTD5QAxnw) |
 | Full workbook | [data/Inquiry_Database_Expanded.xlsx](data/Inquiry_Database_Expanded.xlsx) |
 
@@ -37,24 +37,20 @@ Context facts used in the story: [myFICO, Do Credit Inquiries Lower Your FICO Sc
 
 ## Tableau Public
 
-The [Tableau Story "Which Bureau Will They Pull"](https://public.tableau.com/app/profile/shamar.robinson/viz/ClientPersonalandBusinessFundingSequenceDashboard/WhichBureauWillTheyPull) has 16 numbered cards that move from context to a decision. Each bureau keeps one color everywhere, on the maps and as bold text: **Experian** blue, **Equifax** orange, **TransUnion** green.
+The [Tableau Story "Credit Stacking & Funding Sequencing Strategy: Which Bureau Will They Pull?"](https://public.tableau.com/app/profile/shamar.robinson/viz/ClientPersonalandBusinessFundingSequenceDashboard/WhichBureauWillTheyPull) has 8 dashboard cards in an app-style layout: a side panel with the story navigation, a header band with Overview, Maps and Decide tabs, and a Help button on every card. The theme is a dark "metal card" look taken from the cover photo, with sharp-edged panels and teal-to-orange edge lines. Each bureau keeps one color everywhere: **Experian** blue, **Equifax** orange, **TransUnion** green.
 
 | Card | What it shows |
 | --- | --- |
-| 1. Introduction | Context, purpose, where the data comes from, how often it is updated, and its limits |
-| 2. Who It Serves | Stakeholders, in and out of scope, key terms spelled out |
-| 3. Market Context | Share of all 3,003 recorded pulls by bureau, top bureau by state, and sourced facts on why the bureau matters |
-| 4 and 5. KPIs | Ten KPIs, each with what it tells you, its formula and a worked example |
-| 6. Data and Method | Enrichment flow and the extract, transform, load process, drawn as a data model |
-| 7. Pick a Lender | Map of each lender's most-pulled bureau by state |
-| 8. Reading a Share Map | The share equation worked for Utah, Florida and Georgia |
-| 9 and 10. Share Maps | Experian (blue), Equifax (orange) and TransUnion (green) share of pulls by state |
-| 11. Close Calls | Interactive: click a state on the verdict map and the panel shows its result and the chance of each bureau |
-| 12. Decision Tree | If / then moves from your strongest report, plus four what-if cases from the regression |
-| 13. Funding Ladder | Seven score steps from 500-549 to 800+ and four rules for climbing safely |
-| 14. Scorecard | Six headline numbers and each issuer's bureau habit as one 100% bar per issuer |
-| 15. Where the Numbers Come From | How each card is calculated, the data pipeline and every source as a clickable list |
-| 16. Recommendations | The best move, when to choose it, why and the next move for each stakeholder type |
+| 1. Overview | Cover photo, headline numbers, context, purpose, sources, update cadence, data limits and a guided walkthrough |
+| 2. Market and KPIs | Bureau shares and close-call count, a KPI list that opens a detail card (formula and worked example), scope and who it serves |
+| 3. Data and Method | Enrichment flow, the extract, transform, load process, the cleaning steps and the cross-check result |
+| 4. Pick a Lender | Map of each lender's most-pulled bureau by state, with a lender drop-down and lenders grouped by habit |
+| 5. Share Maps | Experian, Equifax and TransUnion share maps; click a state to open its State Detail card |
+| 6. Close Calls | Click a state for the model's best forecast; hover a state to see its chance bars inside the tooltip |
+| 7. Decide | Decision tree, four real forecasts and the funding ladder |
+| 8. Scorecard, Moves and Sources | Each issuer's bureau habit, the best move for each stakeholder and every source as a clickable list |
+
+Interactive features: tooltips with formulas on every number, nested charts (chance bars inside the close-call map tooltip, inline data bars in the State Detail card), dynamic detail cards (KPI, state and close-call panels), annotation callouts, numbered coach marks and a walkthrough, and a Help popover on each card.
 
 ### How the Numbers Work: KPIs
 
@@ -73,7 +69,7 @@ The [Tableau Story "Which Bureau Will They Pull"](https://public.tableau.com/app
 
 ### How the Story Is Built
 
-[analysis/build_story.py](analysis/build_story.py) rebuilds the workbook from the published version in [tableau/source](tableau/source): it embeds the map data ([data/tableau/lender_state.csv](data/tableau/lender_state.csv)) as an extract, adds the new cards, builds the close-call explorer from [regression_state_long.csv](data/tableau/regression_state_long.csv), recolors the maps and bolds every bureau name in its color. The infographics are drawn by [analysis/story_images.py](analysis/story_images.py) as images so they look the same on Tableau Public as in Desktop. The output is [tableau/Client_Personal_and_Business_Funding_Sequence_Dashboard.twbx](tableau/Client_Personal_and_Business_Funding_Sequence_Dashboard.twbx); card captions are in [tableau/story_points.md](tableau/story_points.md).
+[analysis/build_story.py](analysis/build_story.py) rebuilds the workbook from the published version in [tableau/source](tableau/source): it embeds the map data ([data/tableau/lender_state.csv](data/tableau/lender_state.csv)) as an extract, builds the 8 dashboard cards, the KPI, State Detail and close-call panels, the Help popovers and the close-call explorer from [regression_state_long.csv](data/tableau/regression_state_long.csv), recolors the maps and bolds every bureau name in its color. The infographics are drawn by [analysis/story_images.py](analysis/story_images.py) as images so they look the same on Tableau Public as in Desktop. The output is [tableau/Client_Personal_and_Business_Funding_Sequence_Dashboard.twbx](tableau/Client_Personal_and_Business_Funding_Sequence_Dashboard.twbx); card captions are in [tableau/story_points.md](tableau/story_points.md).
 
 ## Regression: Close-Call States
 
@@ -93,7 +89,8 @@ The lender explains most of which bureau is pulled; the state adds a little, mai
 - `analysis/`: regression model, Tableau extract scripts, the story builder and its infographics
 - `tableau/`: the rebuilt Tableau workbook, its source and the story captions
 - `data/regression.json`: regression results the Likelihood page reads
-- `assets/`: shared styles and script
+- `assets/`: shared styles and script, plus the photos used in the Story and the deck
+- `deck/`: the 10-slide deck (Slides artifact files) and `build_deck.py`, which writes it
 - `data/db.json`: data the site reads
 - `data/Inquiry_Database_Expanded.xlsx`: full workbook
 - `data/tableau/`: Tableau-ready CSV and Excel files
