@@ -1,0 +1,4 @@
+tableau/_build/
+__pycache__/
+*.hyper.log
+hyperd*.log

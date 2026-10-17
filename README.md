@@ -6,12 +6,24 @@
 | --- | --- |
 | Dashboard site (this repository, GitHub Pages) | [shamarrobinson.github.io/Client-Personal-and-Business-Funding-Sequence-Dashboard](https://shamarrobinson.github.io/Client-Personal-and-Business-Funding-Sequence-Dashboard/) |
 | Interactive maps and Story (Tableau Public) | [Which Bureau Will They Pull](https://public.tableau.com/app/profile/shamar.robinson/viz/ClientPersonalandBusinessFundingSequenceDashboard/WhichBureauWillTheyPull) |
-| Slideshow | [Project presentation](https://claude.ai/artifact/95vnkBxejyTxzMTD5QAxnw) |
+| Slideshow | [Presentation](https://claude.ai/artifact/95vnkBxejyTxzMTD5QAxnw) |
 | Full workbook | [data/Inquiry_Database_Expanded.xlsx](data/Inquiry_Database_Expanded.xlsx) |
 
 A dashboard and database of which credit bureau each lender pulls by state, with funding type, average score needed, documentation level, and a funding sequence for every credit score tier.
 
-## Dashboard pages
+## About the Data
+
+| | |
+| --- | --- |
+| **Context** | Every hard inquiry lands on one of three credit reports (**Experian**, **Equifax** or **TransUnion**). Lenders do not publish which one they pull or how it changes by state, so a wrong guess can stack inquiries on a client's weakest report. |
+| **Sources** | A 355-row inquiry table from 16 states plus 670 outside state-level datapoints from 56 cited sources: Doctor of Credit issuer tables (2008 to 2019), the myFICO Forums state grid (July 2023) and 2025 to 2026 forum posts, MyBankTracker, CardRight, StackEasy, and lender and review pages for minimum scores. Every source is listed on the [Sources & Notes page](https://shamarrobinson.github.io/Client-Personal-and-Business-Funding-Sequence-Dashboard/sources.html). |
+| **As of** | Research completed October 7, 2026. |
+| **Updates** | Lender minimums are reviewed every quarter. Each new inquiry datapoint reruns the cleaning, maps and regression from the scripts in [analysis/](analysis). |
+| **Limits** | Consumer-reported (no lender publishes its bureau by state); uneven in age (the largest tables cover 2008 to 2016); some states rest on fewer than 10 pulls; minimum scores are published floors or community estimates. A planning reference, not financial advice. |
+
+Context facts used in the story: [myFICO, Do Credit Inquiries Lower Your FICO Score?](https://www.myfico.com/crediteducation/CreditChecks.aspx); [FTC, In FTC Study, Five Percent of Consumers Had Errors on Their Credit Reports (Feb 2013)](https://www.ftc.gov/news-events/news/press-releases/2013/02/ftc-study-five-percent-consumers-had-errors-their-credit-reports-could-result-less-favorable-terms); [CFPB, Analysis of Differences between Consumer- and Creditor-Purchased Credit Scores (Sep 2012)](https://files.consumerfinance.gov/f/201209_Analysis_Differences_Consumer_Credit.pdf).
+
+## Dashboard Pages
 
 | Page | What it shows |
 | --- | --- |
@@ -25,24 +37,45 @@ A dashboard and database of which credit bureau each lender pulls by state, with
 
 ## Tableau Public
 
-The [Tableau workbook](https://public.tableau.com/app/profile/shamar.robinson/viz/ClientPersonalandBusinessFundingSequenceDashboard/WhichBureauWillTheyPull) has four choropleth maps (top bureau by state for a chosen lender, and the Experian, Equifax and TransUnion share of pulls by state) and a Story, "Which Bureau Will They Pull", with ten cards: information cards before, between and after the maps. Every card uses full sentences written for a high school audience, with highlighted ranges and call-out annotations on the charts.
+The [Tableau Story "Which Bureau Will They Pull"](https://public.tableau.com/app/profile/shamar.robinson/viz/ClientPersonalandBusinessFundingSequenceDashboard/WhichBureauWillTheyPull) has 16 numbered cards that move from context to a decision. Each bureau keeps one color everywhere, on the maps and as bold text: **Experian** blue, **Equifax** orange, **TransUnion** green.
 
-| Card | Type | What it shows |
+| Card | What it shows |
+| --- | --- |
+| 1. Introduction | Context, purpose, where the data comes from, how often it is updated, and its limits |
+| 2. Who It Serves | Stakeholders, in and out of scope, key terms spelled out |
+| 3. Market Context | Share of all 3,003 recorded pulls by bureau, top bureau by state, and sourced facts on why the bureau matters |
+| 4 and 5. KPIs | Ten KPIs, each with what it tells you, its formula and a worked example |
+| 6. Data and Method | Enrichment flow and the extract, transform, load process, drawn as a data model |
+| 7. Pick a Lender | Map of each lender's most-pulled bureau by state |
+| 8. Reading a Share Map | The share equation worked for Utah, Florida and Georgia |
+| 9 and 10. Share Maps | Experian (blue), Equifax (orange) and TransUnion (green) share of pulls by state |
+| 11. Close Calls | Interactive: click a state on the verdict map and the panel shows its result and the chance of each bureau |
+| 12. Decision Tree | If / then moves from your strongest report, plus four what-if cases from the regression |
+| 13. Funding Ladder | Seven score steps from 500-549 to 800+ and four rules for climbing safely |
+| 14. Scorecard | Six headline numbers and each issuer's bureau habit as one 100% bar per issuer |
+| 15. Where the Numbers Come From | How each card is calculated, the data pipeline and every source as a clickable list |
+| 16. Recommendations | The best move, when to choose it, why and the next move for each stakeholder type |
+
+### How the Numbers Work: KPIs
+
+| KPI | Formula | Worked example (as of Oct 7, 2026) |
 | --- | --- | --- |
-| 1. Start here | Info | Who the tool is for (stakeholder grid) and what is in and out of scope |
-| 2. Data and method | Info | Enrichment flow (355 original rows, 670 outside datapoints, 0 contradicted) and the ETL chart |
-| 3. Top bureau by lender | Map | Pick a lender; each state is filled by the bureau it pulls most |
-| 4. Reading the share maps | Info | The share equation, worked for Utah, Florida and Georgia |
-| 5. Experian and Equifax | Map | Both share maps on one card, every state labeled with its percentage |
-| 6. TransUnion | Map | TransUnion share by state |
-| 7. Close calls | Info + chart | Regression flow chart and predicted likelihood bars for the 24 close-call states |
-| 8. If / then | Decision tree | Start from your strongest report, follow the IF branch to a THEN move, plus four what-if cases from the model |
-| 9. Funding ladder | Info | Seven score tiers from 500-549 to 800+ as a staircase, with four rules for climbing safely |
-| 10. Scorecard | Scorecard | Six headline numbers, the bureau profile of the eight busiest issuers, confidence levels and limits |
+| **KPI 1. Bureau Share of Pulls** | pulls on one bureau in a state ÷ all bureau pulls in that state | Florida, Experian: 466 ÷ 885 = 53% |
+| **KPI 2. National Share of Pulls** | one bureau's pulls ÷ all 3,003 recorded pulls | Experian 1,616 ÷ 3,003 = 54%; Equifax 25%; TransUnion 21% |
+| **KPI 3. Lead Margin** | top bureau share − second bureau share, in points | Texas: Experian 66% − TransUnion 17% = 49 points |
+| **KPI 4. Close Call** | a state whose lead margin is under 20 points | 24 of 49 states; Alabama ties Experian and Equifax at 38% |
+| **KPI 5. Issuer Bureau Habit** | an issuer's pulls on one bureau ÷ its recorded pulls | American Express 87% Experian; Synchrony 62% TransUnion |
+| **KPI 6. Predicted Likelihood** | regression probability for a typical application; the three add to 100% | Alabama: Experian 43%, Equifax 33%, TransUnion 24% |
+| **KPI 7. Leader Stability** | refits out of 150 where the same bureau stays on top | Connecticut 95% (clear lean); Alabama 83% (moderate lean) |
+| **KPI 8. Model Lift** | 1 − (model log loss ÷ baseline log loss) | 1 − (0.903 ÷ 1.041) = 13% lower error; accuracy 55% vs 50% |
+| **KPI 9. Cross-Check Result** | rows confirmed, partly confirmed or fitting the national pattern ÷ checkable rows | 193 of 355 rows checked (84 + 6 + 103); 0 contradicted |
+| **KPI 10. Lender Confidence Mix** | lenders at each confidence level ÷ 204 | 39 High (19%), 104 Medium (51%), 61 Low (30%) |
 
-Every diagram is a Tableau sheet drawn from [data/tableau/story_diagrams.csv](data/tableau/story_diagrams.csv), [scorecard_bars.csv](data/tableau/scorecard_bars.csv) and [regression_bars.csv](data/tableau/regression_bars.csv), which [analysis/story_infographics.py](analysis/story_infographics.py) generates. A `Tone` column gives every box a color from the Tableau 20 palette: blue for Experian, orange for Equifax, green for TransUnion, and teal, purple, red and gray for steps, scope and labels. The scorecard adds a new finding: issuers have clear bureau profiles. American Express lands on Experian in 87% of recorded pulls, Synchrony on TransUnion in 62% and U.S. Bank on TransUnion in 47%, while Capital One splits close to evenly (37% Experian, 35% Equifax, 28% TransUnion).
+### How the Story Is Built
 
-## Regression: close-call states
+[analysis/build_story.py](analysis/build_story.py) rebuilds the workbook from the published version in [tableau/source](tableau/source): it embeds the map data ([data/tableau/lender_state.csv](data/tableau/lender_state.csv)) as an extract, adds the new cards, builds the close-call explorer from [regression_state_long.csv](data/tableau/regression_state_long.csv), recolors the maps and bolds every bureau name in its color. The infographics are drawn by [analysis/story_images.py](analysis/story_images.py) as images so they look the same on Tableau Public as in Desktop. The output is [tableau/Client_Personal_and_Business_Funding_Sequence_Dashboard.twbx](tableau/Client_Personal_and_Business_Funding_Sequence_Dashboard.twbx); card captions are in [tableau/story_points.md](tableau/story_points.md).
+
+## Regression: Close-Call States
 
 [analysis/bureau_regression.py](analysis/bureau_regression.py) fits a multinomial logistic regression (multiple regression for a three-way outcome) on 2,901 bureau-pull datapoints. Predictors: state, lender, data era, and lender-in-state for the 14 major issuers. A close call is a state where the top two bureaus are within 20 points in the recorded pulls (24 states).
 
@@ -57,7 +90,8 @@ The lender explains most of which bureau is pulled; the state adds a little, mai
 ## Files
 
 - `index.html`, `lenders.html`, `states.html`, `matrix.html`, `sequence.html`, `likelihood.html`, `sources.html`: site pages
-- `analysis/`: regression model and Tableau extract scripts
+- `analysis/`: regression model, Tableau extract scripts, the story builder and its infographics
+- `tableau/`: the rebuilt Tableau workbook, its source and the story captions
 - `data/regression.json`: regression results the Likelihood page reads
 - `assets/`: shared styles and script
 - `data/db.json`: data the site reads
