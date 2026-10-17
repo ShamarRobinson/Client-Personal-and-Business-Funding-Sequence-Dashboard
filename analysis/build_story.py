@@ -131,9 +131,23 @@ DASH = [f"{i} {n}" for i, n in enumerate(NAV, 1)]
 for i in range(1, 9):
     IMG.sidebar(172, 784, NAV, i, f"sb_{i}")
 HEAD_PHOTO = {3: (ROOT / "assets" / "photo_analytics.png", (0.55, 0.6)), 7: (ROOT / "assets" / "photo_funding.png", (0.52, 0.5))}
+WINUUID = {n: "{" + str(uuid.uuid4()).upper() + "}" for n in DASH}
+def nav_buttons(i):
+    """Clickable side-menu rows: each row is an image button (cropped from this card's side panel) that opens its card."""
+    from PIL import Image as PImage
+    sb = PImage.open(WORK / "Image" / f"sb_{i}.png")
+    z = []
+    for k in range(1, 9):
+        y = 168 + 30 * (k - 1)                       # row text top inside the 172 x 784 side panel (see story_images.sidebar)
+        box = (10 * IMG.S, (y - 5) * IMG.S, 158 * IMG.S, (y + 21) * IMG.S)
+        sb.crop(box).save(WORK / "Image" / f"nav_{i}_{k}.png")
+        z.append(f"<zone {geo(18, 8 + y - 5, 148, 26)} id='{nid()}' type-v2='dashboard-object'>"
+                 f"<button action='tabdoc:goto-sheet window-id=&quot;{WINUUID[DASH[k - 1]]}&quot;' button-type='image'>"
+                 f"<button-visual-state><image-path>Image/nav_{i}_{k}.png</image-path></button-visual-state></button>{zstyle(0, 0)}</zone>")
+    return z
 def shell(i, title, sub):
     """Sidebar, header band and the help popover for card i."""
-    z = [izone(8, 8, 172, 784, f"sb_{i}.png")]
+    z = [izone(8, 8, 172, 784, f"sb_{i}.png")] + nav_buttons(i)
     if title:
         ph, fo = HEAD_PHOTO.get(i, (None, None))
         IMG.header_band(1000, 80, title, sub, TABS, TAB_OF[i - 1], f"hd_{i}", right_gap=96, photo=ph, focus=fo or (0.5, 0.5))
@@ -836,7 +850,7 @@ VIEWS = {DASH[0]: ["Help 1", "Overview Tiles"], DASH[1]: ["Help 2", "Market Tile
          DASH[5]: ["Help 6", "CC Map", "CC State Panel", "CC Chance Bars"], DASH[6]: ["Help 7"], DASH[7]: ["Help 8", "Issuer Habits", "Sources List"]}
 ZOOM = {"Sources List": "fit-width"}
 new_windows = "".join(f"<window class='dashboard' name='{esc(n)}'><viewpoints>{''.join(f'<viewpoint name={chr(39)}{esc(v)}{chr(39)}><zoom type={chr(39)}{ZOOM.get(v, chr(101)+'ntire-view')}{chr(39)} /></viewpoint>' for v in VIEWS.get(n, []))}</viewpoints>"
-                      f"<active id='-1' /><simple-id uuid='{{{str(uuid.uuid4()).upper()}}}' /></window>" for n in D)
+                      f"<active id='-1' /><simple-id uuid='{WINUUID[n]}' /></window>" for n in D)
 new_windows += "".join(f"<window class='worksheet' name='{esc(n)}'><cards><edge name='left'><strip size='160'><card type='pages' /><card type='filters' /><card type='marks' /></strip></edge>"
                        f"<edge name='top'><strip size='31'><card type='columns' /></strip><strip size='31'><card type='rows' /></strip><strip size='31'><card type='title' /></strip></edge></cards>"
                        f"<simple-id uuid='{{{str(uuid.uuid4()).upper()}}}' /></window>" for n in WS)
