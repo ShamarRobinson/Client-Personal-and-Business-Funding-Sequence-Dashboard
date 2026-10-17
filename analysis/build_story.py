@@ -142,7 +142,7 @@ def nav_buttons(i):
         box = (10 * IMG.S, (y - 5) * IMG.S, 158 * IMG.S, (y + 21) * IMG.S)
         sb.crop(box).save(WORK / "Image" / f"nav_{i}_{k}.png")
         z.append(f"<zone {geo(18, 8 + y - 5, 148, 26)} id='{nid()}' type-v2='dashboard-object'>"
-                 f"<button action='tabdoc:goto-sheet window-id=&quot;{WINUUID[DASH[k - 1]]}&quot;' button-type='image'>"
+                 f"<button action='tabdoc:goto-sheet window-id=&quot;{WINUUID[DASH[k - 1]]}&quot;'>"
                  f"<button-visual-state><image-path>Image/nav_{i}_{k}.png</image-path></button-visual-state></button>{zstyle(0, 0)}</zone>")
     return z
 def shell(i, title, sub):
@@ -718,6 +718,9 @@ ACTIONS = (f"<action caption='Pick a state' name='[Action_ccpick]'><activation a
 zin = zipfile.ZipFile(SRC)
 twb_name = [n for n in zin.namelist() if n.endswith(".twb")][0]
 s = zin.read(twb_name).decode("utf-8")
+# navigation buttons need these document-format flags
+if "<BasicButtonObject />" not in s:
+    s = s.replace("<document-format-change-manifest>", "<document-format-change-manifest>\n    <BasicButtonObject />\n    <BasicButtonObjectTextSupport />", 1)
 def remove_block(s, tag, name):
     i = s.find(f"<{tag} name='{name}'")
     if i < 0:

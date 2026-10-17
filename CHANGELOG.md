@@ -2,6 +2,8 @@
 
 ## October 17, 2026 (redesign)
 
+- The side menu on every card is clickable: each row is a navigation button that opens its card.
+
 - Tableau Story condensed from 16 cards to 8 dashboard cards with an app-style layout: side panel navigation, header band with Overview, Maps and Decide tabs, and a Help popover on each card.
 - New dark theme taken from the cover photo of metal cards: near-black canvas, charcoal panels with sharp edges, teal-to-orange edge lines. Photos added to the overview, Data and Method, Market and KPIs, Decide and Recommendations panels.
 - Title changed to "Credit Stacking & Funding Sequencing Strategy", with "Which Bureau Will They Pull?" kept as a subheading. The Tableau Public link is unchanged.
